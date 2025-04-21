@@ -1,4 +1,6 @@
 opencv-python
 mediapipe
 numpy
+sounddevice
+psutil
 flask

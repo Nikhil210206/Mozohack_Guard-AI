@@ -1,0 +1,2364 @@
+2025-04-22 00:29:10,624 - User started looking away.
+2025-04-22 01:42:26,737 - User started looking away.
+2025-04-22 01:42:26,802 - User started speaking.
+2025-04-22 01:42:26,806 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:26,836 - Background noise detected.
+2025-04-22 01:42:28,031 - User started looking away.
+2025-04-22 01:42:28,303 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:42:29,162 - User started looking away.
+2025-04-22 01:42:29,363 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:42:30,933 - User started looking away.
+2025-04-22 01:42:31,157 - User refocused after 0.22 seconds of looking away.
+2025-04-22 01:42:32,133 - User started looking away.
+2025-04-22 01:42:32,337 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:42:32,538 - User started looking away.
+2025-04-22 01:42:32,563 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:32,704 - User started looking away.
+2025-04-22 01:42:32,737 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:33,169 - User started looking away.
+2025-04-22 01:42:33,201 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:33,564 - User started looking away.
+2025-04-22 01:42:33,630 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:34,338 - User started looking away.
+2025-04-22 01:42:34,404 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:34,538 - User started looking away.
+2025-04-22 01:42:34,706 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:42:35,036 - User started looking away.
+2025-04-22 01:42:35,071 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:35,099 - User started looking away.
+2025-04-22 01:42:35,141 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:35,563 - User started looking away.
+2025-04-22 01:42:35,700 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:42:35,965 - User started looking away.
+2025-04-22 01:42:35,998 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:36,068 - User started looking away.
+2025-04-22 01:42:36,141 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:36,169 - User started looking away.
+2025-04-22 01:42:36,205 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:36,237 - User started looking away.
+2025-04-22 01:42:36,272 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:36,570 - User started looking away.
+2025-04-22 01:42:36,672 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:42:37,135 - User started looking away.
+2025-04-22 01:42:37,338 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:42:37,435 - User started looking away.
+2025-04-22 01:42:37,468 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:38,440 - User started looking away.
+2025-04-22 01:42:38,470 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:38,835 - User started looking away.
+2025-04-22 01:42:38,872 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:38,904 - User started looking away.
+2025-04-22 01:42:38,941 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:39,008 - User started looking away.
+2025-04-22 01:42:39,196 - User refocused after 0.19 seconds of looking away.
+2025-04-22 01:42:39,337 - User started looking away.
+2025-04-22 01:42:39,404 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:39,908 - User started looking away.
+2025-04-22 01:42:39,942 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:40,108 - User started looking away.
+2025-04-22 01:42:40,240 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:42:40,275 - User started looking away.
+2025-04-22 01:42:40,340 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:42:40,373 - User started looking away.
+2025-04-22 01:42:40,569 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:42:42,208 - User started looking away.
+2025-04-22 01:42:42,443 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:42:42,502 - User started looking away.
+2025-04-22 01:42:42,539 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:42,638 - User started looking away.
+2025-04-22 01:42:42,871 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:42:42,908 - User started looking away.
+2025-04-22 01:42:43,142 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:42:43,172 - User started looking away.
+2025-04-22 01:42:43,374 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:42:43,439 - User started looking away.
+2025-04-22 01:42:43,465 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:43,505 - User started looking away.
+2025-04-22 01:42:43,606 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:42:43,643 - User started looking away.
+2025-04-22 01:42:44,573 - User refocused after 0.93 seconds of looking away.
+2025-04-22 01:42:44,640 - User started looking away.
+2025-04-22 01:42:44,868 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:42:45,009 - User started looking away.
+2025-04-22 01:42:45,043 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:45,368 - User started looking away.
+2025-04-22 01:42:45,809 - User refocused after 0.44 seconds of looking away.
+2025-04-22 01:42:45,832 - User started looking away.
+2025-04-22 01:42:45,870 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:45,910 - User started looking away.
+2025-04-22 01:42:46,051 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:42:46,140 - User started looking away.
+2025-04-22 01:42:46,271 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:42:46,300 - User started looking away.
+2025-04-22 01:42:46,440 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:42:46,506 - User started looking away.
+2025-04-22 01:42:46,576 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:46,744 - User started looking away.
+2025-04-22 01:42:46,766 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:42:46,870 - User started looking away.
+2025-04-22 01:42:47,009 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:42:47,073 - User started looking away.
+2025-04-22 01:42:47,113 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:47,143 - User started looking away.
+2025-04-22 01:42:47,275 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:42:47,341 - User started looking away.
+2025-04-22 01:42:47,674 - User refocused after 0.33 seconds of looking away.
+2025-04-22 01:42:47,704 - User started looking away.
+2025-04-22 01:42:47,911 - User started speaking.
+2025-04-22 01:42:47,941 - Background noise detected.
+2025-04-22 01:42:48,410 - User started speaking.
+2025-04-22 01:42:48,441 - Background noise detected.
+2025-04-22 01:42:48,480 - User refocused after 0.78 seconds of looking away.
+2025-04-22 01:42:48,612 - User started looking away.
+2025-04-22 01:42:48,642 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:48,812 - User started looking away.
+2025-04-22 01:42:48,842 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:48,945 - User started looking away.
+2025-04-22 01:42:49,212 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:42:49,313 - User started looking away.
+2025-04-22 01:42:49,342 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:49,378 - User started looking away.
+2025-04-22 01:42:49,546 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:42:49,576 - User started looking away.
+2025-04-22 01:42:50,108 - User started speaking.
+2025-04-22 01:42:50,141 - Background noise detected.
+2025-04-22 01:42:51,404 - User refocused after 1.83 seconds of looking away.
+2025-04-22 01:42:51,445 - User started looking away.
+2025-04-22 01:42:52,343 - User refocused after 0.90 seconds of looking away.
+2025-04-22 01:42:52,381 - User started looking away.
+2025-04-22 01:42:52,475 - User refocused after 0.09 seconds of looking away.
+2025-04-22 01:42:52,513 - User started looking away.
+2025-04-22 01:42:52,581 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:52,716 - User started looking away.
+2025-04-22 01:42:52,742 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:52,783 - User started looking away.
+2025-04-22 01:42:53,318 - User refocused after 0.54 seconds of looking away.
+2025-04-22 01:42:53,342 - User started looking away.
+2025-04-22 01:42:53,478 - User stopped speaking.
+2025-04-22 01:42:53,479 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:42:53,511 - User started looking away.
+2025-04-22 01:42:54,154 - User refocused after 0.64 seconds of looking away.
+2025-04-22 01:42:54,172 - User started looking away.
+2025-04-22 01:42:54,209 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:54,445 - User started looking away.
+2025-04-22 01:42:55,771 - Background noise detected.
+2025-04-22 01:42:55,811 - User refocused after 1.37 seconds of looking away.
+2025-04-22 01:42:55,846 - User started speaking.
+2025-04-22 01:42:55,878 - Background noise detected.
+2025-04-22 01:42:55,878 - User started looking away.
+2025-04-22 01:42:55,915 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:55,980 - User started speaking.
+2025-04-22 01:42:56,010 - Background noise detected.
+2025-04-22 01:42:56,748 - User started looking away.
+2025-04-22 01:42:56,919 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:42:56,948 - User started looking away.
+2025-04-22 01:42:57,210 - User refocused after 0.26 seconds of looking away.
+2025-04-22 01:42:57,244 - User started looking away.
+2025-04-22 01:42:57,281 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:42:57,447 - User started looking away.
+2025-04-22 01:42:57,482 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:57,849 - User started looking away.
+2025-04-22 01:42:58,117 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:42:58,648 - User started looking away.
+2025-04-22 01:42:58,682 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:58,883 - User started looking away.
+2025-04-22 01:42:58,918 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:42:59,048 - User started looking away.
+2025-04-22 01:42:59,116 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:42:59,148 - User started looking away.
+2025-04-22 01:42:59,716 - User refocused after 0.57 seconds of looking away.
+2025-04-22 01:42:59,818 - User started looking away.
+2025-04-22 01:43:00,385 - User refocused after 0.57 seconds of looking away.
+2025-04-22 01:43:00,415 - User started looking away.
+2025-04-22 01:43:00,451 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:00,507 - User started looking away.
+2025-04-22 01:43:01,217 - User refocused after 0.71 seconds of looking away.
+2025-04-22 01:43:01,283 - User started looking away.
+2025-04-22 01:43:02,349 - User started speaking.
+2025-04-22 01:43:02,407 - Background noise detected.
+2025-04-22 01:43:02,685 - User refocused after 1.40 seconds of looking away.
+2025-04-22 01:43:02,750 - User started looking away.
+2025-04-22 01:43:02,819 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:02,850 - User started looking away.
+2025-04-22 01:43:02,876 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:03,883 - User started speaking.
+2025-04-22 01:43:03,915 - Background noise detected.
+2025-04-22 01:43:04,122 - User started speaking.
+2025-04-22 01:43:04,150 - Background noise detected.
+2025-04-22 01:43:04,183 - User started speaking.
+2025-04-22 01:43:04,217 - Background noise detected.
+2025-04-22 01:43:04,253 - User started looking away.
+2025-04-22 01:43:04,286 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:04,351 - User started looking away.
+2025-04-22 01:43:04,416 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:43:04,452 - User started looking away.
+2025-04-22 01:43:04,483 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:04,818 - User started looking away.
+2025-04-22 01:43:04,852 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:04,886 - User started looking away.
+2025-04-22 01:43:05,112 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:43:05,150 - User started looking away.
+2025-04-22 01:43:05,244 - User refocused after 0.09 seconds of looking away.
+2025-04-22 01:43:05,354 - User started looking away.
+2025-04-22 01:43:05,381 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:05,420 - User started looking away.
+2025-04-22 01:43:05,452 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:05,487 - User started looking away.
+2025-04-22 01:43:05,522 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:05,553 - User started looking away.
+2025-04-22 01:43:06,420 - User refocused after 0.87 seconds of looking away.
+2025-04-22 01:43:06,675 - User started looking away.
+2025-04-22 01:43:06,752 - User refocused after 0.08 seconds of looking away.
+2025-04-22 01:43:07,286 - User started looking away.
+2025-04-22 01:43:07,388 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:07,418 - User started looking away.
+2025-04-22 01:43:08,917 - User refocused after 1.50 seconds of looking away.
+2025-04-22 01:43:08,958 - User started looking away.
+2025-04-22 01:43:08,984 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:09,289 - User started looking away.
+2025-04-22 01:43:09,320 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:09,356 - User started looking away.
+2025-04-22 01:43:09,489 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:09,511 - User started looking away.
+2025-04-22 01:43:09,552 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:09,621 - User started looking away.
+2025-04-22 01:43:09,651 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:10,124 - User started looking away.
+2025-04-22 01:43:10,291 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:43:10,318 - User started looking away.
+2025-04-22 01:43:10,445 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:10,489 - User started looking away.
+2025-04-22 01:43:10,521 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:10,588 - User started looking away.
+2025-04-22 01:43:10,622 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:10,758 - User started looking away.
+2025-04-22 01:43:10,858 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:10,888 - User started looking away.
+2025-04-22 01:43:11,220 - User refocused after 0.33 seconds of looking away.
+2025-04-22 01:43:11,325 - User started looking away.
+2025-04-22 01:43:11,351 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:11,779 - User started looking away.
+2025-04-22 01:43:12,625 - User refocused after 0.85 seconds of looking away.
+2025-04-22 01:43:12,886 - User started looking away.
+2025-04-22 01:43:12,925 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:13,277 - User started looking away.
+2025-04-22 01:43:14,188 - User refocused after 0.91 seconds of looking away.
+2025-04-22 01:43:14,213 - User started looking away.
+2025-04-22 01:43:14,489 - User refocused after 0.28 seconds of looking away.
+2025-04-22 01:43:14,557 - User started looking away.
+2025-04-22 01:43:14,790 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:43:15,255 - User started looking away.
+2025-04-22 01:43:15,322 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:15,362 - User started looking away.
+2025-04-22 01:43:15,385 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:43:15,521 - User started looking away.
+2025-04-22 01:43:15,621 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:15,755 - User started looking away.
+2025-04-22 01:43:15,992 - User refocused after 0.24 seconds of looking away.
+2025-04-22 01:43:16,025 - User started looking away.
+2025-04-22 01:43:16,581 - User refocused after 0.56 seconds of looking away.
+2025-04-22 01:43:16,625 - User started looking away.
+2025-04-22 01:43:16,724 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:16,764 - User started looking away.
+2025-04-22 01:43:16,992 - User refocused after 0.23 seconds of looking away.
+2025-04-22 01:43:17,024 - User started looking away.
+2025-04-22 01:43:17,049 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:43:17,088 - User started looking away.
+2025-04-22 01:43:17,931 - User refocused after 0.84 seconds of looking away.
+2025-04-22 01:43:18,016 - User started looking away.
+2025-04-22 01:43:18,224 - User refocused after 0.21 seconds of looking away.
+2025-04-22 01:43:18,294 - User started looking away.
+2025-04-22 01:43:18,324 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:18,391 - User started looking away.
+2025-04-22 01:43:18,428 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:18,586 - User started looking away.
+2025-04-22 01:43:18,728 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:43:18,759 - User started looking away.
+2025-04-22 01:43:18,790 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:18,889 - User started looking away.
+2025-04-22 01:43:18,930 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:18,951 - User started looking away.
+2025-04-22 01:43:19,023 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:19,088 - User started looking away.
+2025-04-22 01:43:19,324 - User refocused after 0.24 seconds of looking away.
+2025-04-22 01:43:19,392 - User started looking away.
+2025-04-22 01:43:19,457 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:19,789 - User started looking away.
+2025-04-22 01:43:19,887 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:21,559 - User started looking away.
+2025-04-22 01:43:21,730 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:43:21,760 - User started looking away.
+2025-04-22 01:43:21,981 - User refocused after 0.22 seconds of looking away.
+2025-04-22 01:43:22,017 - User started looking away.
+2025-04-22 01:43:22,126 - User refocused after 0.11 seconds of looking away.
+2025-04-22 01:43:22,158 - User started looking away.
+2025-04-22 01:43:22,230 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:22,656 - User started looking away.
+2025-04-22 01:43:22,698 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:22,861 - User started looking away.
+2025-04-22 01:43:22,994 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:23,192 - User started looking away.
+2025-04-22 01:43:23,218 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:24,129 - User started looking away.
+2025-04-22 01:43:24,298 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:43:24,559 - User started speaking.
+2025-04-22 01:43:24,655 - Background noise detected.
+2025-04-22 01:43:24,830 - User started speaking.
+2025-04-22 01:43:24,863 - Background noise detected.
+2025-04-22 01:43:24,929 - User started speaking.
+2025-04-22 01:43:24,964 - Background noise detected.
+2025-04-22 01:43:25,263 - User started looking away.
+2025-04-22 01:43:25,329 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:25,367 - User started looking away.
+2025-04-22 01:43:25,393 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:25,462 - User started looking away.
+2025-04-22 01:43:25,495 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:25,586 - User started looking away.
+2025-04-22 01:43:25,657 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:25,695 - User started looking away.
+2025-04-22 01:43:25,728 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:25,763 - User started looking away.
+2025-04-22 01:43:25,795 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:25,866 - User started looking away.
+2025-04-22 01:43:25,893 - User started speaking.
+2025-04-22 01:43:25,933 - Background noise detected.
+2025-04-22 01:43:25,961 - User started speaking.
+2025-04-22 01:43:25,962 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:25,997 - Background noise detected.
+2025-04-22 01:43:26,029 - User started looking away.
+2025-04-22 01:43:26,053 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:43:26,125 - User started speaking.
+2025-04-22 01:43:26,199 - Background noise detected.
+2025-04-22 01:43:26,226 - User started speaking.
+2025-04-22 01:43:26,264 - Background noise detected.
+2025-04-22 01:43:26,264 - User started looking away.
+2025-04-22 01:43:26,666 - User refocused after 0.40 seconds of looking away.
+2025-04-22 01:43:26,797 - User started looking away.
+2025-04-22 01:43:26,896 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:27,061 - User started looking away.
+2025-04-22 01:43:27,102 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:27,394 - User started looking away.
+2025-04-22 01:43:27,434 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:27,831 - User started looking away.
+2025-04-22 01:43:27,899 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:28,135 - User started looking away.
+2025-04-22 01:43:28,330 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:43:28,464 - User started looking away.
+2025-04-22 01:43:28,493 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:28,529 - User started looking away.
+2025-04-22 01:43:28,894 - User refocused after 0.36 seconds of looking away.
+2025-04-22 01:43:28,928 - User started looking away.
+2025-04-22 01:43:28,962 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:28,996 - User started looking away.
+2025-04-22 01:43:29,031 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:29,065 - User started looking away.
+2025-04-22 01:43:29,163 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:29,201 - User started looking away.
+2025-04-22 01:43:29,294 - User refocused after 0.09 seconds of looking away.
+2025-04-22 01:43:29,334 - User started looking away.
+2025-04-22 01:43:29,363 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:29,426 - User started looking away.
+2025-04-22 01:43:29,463 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:29,530 - User started looking away.
+2025-04-22 01:43:29,665 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:43:29,855 - User started looking away.
+2025-04-22 01:43:29,896 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:29,964 - User started looking away.
+2025-04-22 01:43:30,031 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:30,267 - User started looking away.
+2025-04-22 01:43:30,365 - User started speaking.
+2025-04-22 01:43:30,391 - Background noise detected.
+2025-04-22 01:43:30,465 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:43:30,598 - User started looking away.
+2025-04-22 01:43:30,634 - User started speaking.
+2025-04-22 01:43:30,634 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:30,661 - Background noise detected.
+2025-04-22 01:43:30,663 - User started looking away.
+2025-04-22 01:43:30,695 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:30,862 - User started looking away.
+2025-04-22 01:43:30,895 - User started speaking.
+2025-04-22 01:43:30,934 - Background noise detected.
+2025-04-22 01:43:31,133 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:43:31,162 - User started looking away.
+2025-04-22 01:43:31,234 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:31,366 - User started looking away.
+2025-04-22 01:43:31,500 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:31,566 - User started looking away.
+2025-04-22 01:43:31,662 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:31,759 - User started looking away.
+2025-04-22 01:43:31,796 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:31,934 - User started looking away.
+2025-04-22 01:43:31,968 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:31,997 - User started looking away.
+2025-04-22 01:43:32,101 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:32,364 - User started looking away.
+2025-04-22 01:43:32,502 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:43:32,833 - User started speaking.
+2025-04-22 01:43:32,865 - Background noise detected.
+2025-04-22 01:43:33,066 - User started looking away.
+2025-04-22 01:43:33,096 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:33,370 - User started looking away.
+2025-04-22 01:43:33,466 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:33,634 - User started looking away.
+2025-04-22 01:43:35,036 - User refocused after 1.40 seconds of looking away.
+2025-04-22 01:43:35,061 - User started looking away.
+2025-04-22 01:43:35,100 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:35,336 - User started speaking.
+2025-04-22 01:43:35,337 - User started looking away.
+2025-04-22 01:43:35,403 - Background noise detected.
+2025-04-22 01:43:35,403 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:35,432 - User started speaking.
+2025-04-22 01:43:35,432 - User started looking away.
+2025-04-22 01:43:35,464 - Background noise detected.
+2025-04-22 01:43:35,505 - User started speaking.
+2025-04-22 01:43:35,564 - Background noise detected.
+2025-04-22 01:43:35,867 - User started speaking.
+2025-04-22 01:43:35,900 - Background noise detected.
+2025-04-22 01:43:36,102 - User refocused after 0.67 seconds of looking away.
+2025-04-22 01:43:36,170 - User started looking away.
+2025-04-22 01:43:36,370 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:43:36,398 - User started looking away.
+2025-04-22 01:43:36,436 - User started speaking.
+2025-04-22 01:43:36,468 - Background noise detected.
+2025-04-22 01:43:36,469 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:36,493 - User started looking away.
+2025-04-22 01:43:36,532 - User stopped speaking.
+2025-04-22 01:43:36,566 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:36,600 - User started looking away.
+2025-04-22 01:43:36,636 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:36,667 - User started looking away.
+2025-04-22 01:43:36,932 - Background noise detected.
+2025-04-22 01:43:37,001 - User started speaking.
+2025-04-22 01:43:37,062 - Background noise detected.
+2025-04-22 01:43:37,101 - User stopped speaking.
+2025-04-22 01:43:37,172 - User started speaking.
+2025-04-22 01:43:37,234 - Background noise detected.
+2025-04-22 01:43:37,269 - User started speaking.
+2025-04-22 01:43:37,335 - Background noise detected.
+2025-04-22 01:43:37,382 - User started speaking.
+2025-04-22 01:43:37,391 - Background noise detected.
+2025-04-22 01:43:37,423 - User started speaking.
+2025-04-22 01:43:37,465 - Background noise detected.
+2025-04-22 01:43:37,669 - User refocused after 1.00 seconds of looking away.
+2025-04-22 01:43:37,869 - User started looking away.
+2025-04-22 01:43:37,893 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:43:37,936 - User started looking away.
+2025-04-22 01:43:38,432 - User started speaking.
+2025-04-22 01:43:38,464 - Background noise detected.
+2025-04-22 01:43:38,736 - User started speaking.
+2025-04-22 01:43:38,802 - Background noise detected.
+2025-04-22 01:43:40,438 - User started speaking.
+2025-04-22 01:43:40,467 - Background noise detected.
+2025-04-22 01:43:40,574 - User refocused after 2.64 seconds of looking away.
+2025-04-22 01:43:40,670 - User started looking away.
+2025-04-22 01:43:40,772 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:40,969 - User started looking away.
+2025-04-22 01:43:41,006 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:41,703 - User started speaking.
+2025-04-22 01:43:41,770 - Background noise detected.
+2025-04-22 01:43:41,836 - User started speaking.
+2025-04-22 01:43:41,870 - Background noise detected.
+2025-04-22 01:43:41,904 - User started speaking.
+2025-04-22 01:43:41,938 - Background noise detected.
+2025-04-22 01:43:42,001 - User started speaking.
+2025-04-22 01:43:42,033 - Background noise detected.
+2025-04-22 01:43:42,136 - User started speaking.
+2025-04-22 01:43:42,163 - Background noise detected.
+2025-04-22 01:43:42,199 - User started speaking.
+2025-04-22 01:43:42,230 - Background noise detected.
+2025-04-22 01:43:42,268 - User started speaking.
+2025-04-22 01:43:42,269 - User started looking away.
+2025-04-22 01:43:42,337 - Background noise detected.
+2025-04-22 01:43:42,339 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:42,372 - User started speaking.
+2025-04-22 01:43:42,402 - Background noise detected.
+2025-04-22 01:43:42,438 - User started looking away.
+2025-04-22 01:43:42,474 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:42,568 - User started looking away.
+2025-04-22 01:43:42,870 - User started speaking.
+2025-04-22 01:43:42,905 - Background noise detected.
+2025-04-22 01:43:42,938 - User started speaking.
+2025-04-22 01:43:42,972 - Background noise detected.
+2025-04-22 01:43:43,169 - User refocused after 0.60 seconds of looking away.
+2025-04-22 01:43:43,505 - User started speaking.
+2025-04-22 01:43:43,539 - Background noise detected.
+2025-04-22 01:43:43,598 - User started speaking.
+2025-04-22 01:43:43,635 - Background noise detected.
+2025-04-22 01:43:43,667 - User started speaking.
+2025-04-22 01:43:43,667 - User started looking away.
+2025-04-22 01:43:43,704 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:43,739 - Background noise detected.
+2025-04-22 01:43:43,772 - User started speaking.
+2025-04-22 01:43:43,803 - Background noise detected.
+2025-04-22 01:43:44,004 - User started speaking.
+2025-04-22 01:43:44,037 - Background noise detected.
+2025-04-22 01:43:44,506 - User started speaking.
+2025-04-22 01:43:44,569 - Background noise detected.
+2025-04-22 01:43:44,600 - User started speaking.
+2025-04-22 01:43:44,670 - Background noise detected.
+2025-04-22 01:43:44,774 - User started looking away.
+2025-04-22 01:43:44,839 - User started speaking.
+2025-04-22 01:43:44,871 - Background noise detected.
+2025-04-22 01:43:44,903 - User started speaking.
+2025-04-22 01:43:44,903 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:44,939 - Background noise detected.
+2025-04-22 01:43:44,939 - User started looking away.
+2025-04-22 01:43:44,975 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:45,172 - User started speaking.
+2025-04-22 01:43:45,204 - Background noise detected.
+2025-04-22 01:43:45,238 - User started looking away.
+2025-04-22 01:43:45,305 - User started speaking.
+2025-04-22 01:43:45,305 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:43:45,343 - Background noise detected.
+2025-04-22 01:43:45,465 - User started looking away.
+2025-04-22 01:43:45,502 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:45,534 - User stopped speaking.
+2025-04-22 01:43:45,534 - User started looking away.
+2025-04-22 01:43:45,638 - User started speaking.
+2025-04-22 01:43:45,674 - User stopped speaking.
+2025-04-22 01:43:45,740 - User refocused after 0.21 seconds of looking away.
+2025-04-22 01:43:45,772 - User started looking away.
+2025-04-22 01:43:46,175 - User started speaking.
+2025-04-22 01:43:46,176 - User refocused after 0.40 seconds of looking away.
+2025-04-22 01:43:46,239 - User started looking away.
+2025-04-22 01:43:46,274 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:46,300 - Background noise detected.
+2025-04-22 01:43:46,301 - User started looking away.
+2025-04-22 01:43:46,338 - User started speaking.
+2025-04-22 01:43:46,339 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:46,375 - Background noise detected.
+2025-04-22 01:43:46,376 - User started looking away.
+2025-04-22 01:43:46,506 - User stopped speaking.
+2025-04-22 01:43:46,509 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:46,538 - User started looking away.
+2025-04-22 01:43:46,898 - User refocused after 0.36 seconds of looking away.
+2025-04-22 01:43:46,898 - User started speaking.
+2025-04-22 01:43:46,935 - User started looking away.
+2025-04-22 01:43:46,972 - Background noise detected.
+2025-04-22 01:43:46,972 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:47,005 - User started looking away.
+2025-04-22 01:43:47,038 - User stopped speaking.
+2025-04-22 01:43:47,433 - User started speaking.
+2025-04-22 01:43:47,434 - User refocused after 0.43 seconds of looking away.
+2025-04-22 01:43:47,469 - Background noise detected.
+2025-04-22 01:43:47,470 - User started looking away.
+2025-04-22 01:43:47,573 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:47,699 - User started speaking.
+2025-04-22 01:43:47,736 - Background noise detected.
+2025-04-22 01:43:47,769 - User started speaking.
+2025-04-22 01:43:47,769 - User started looking away.
+2025-04-22 01:43:47,807 - Background noise detected.
+2025-04-22 01:43:47,903 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:43:47,970 - User started looking away.
+2025-04-22 01:43:48,073 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:48,141 - User started speaking.
+2025-04-22 01:43:48,174 - User stopped speaking.
+2025-04-22 01:43:48,175 - User started looking away.
+2025-04-22 01:43:48,246 - User started speaking.
+2025-04-22 01:43:48,336 - User refocused after 0.16 seconds of looking away.
+2025-04-22 01:43:48,371 - User stopped speaking.
+2025-04-22 01:43:48,440 - User started speaking.
+2025-04-22 01:43:48,471 - Background noise detected.
+2025-04-22 01:43:48,508 - User started looking away.
+2025-04-22 01:43:48,541 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:48,604 - User started looking away.
+2025-04-22 01:43:48,642 - User stopped speaking.
+2025-04-22 01:43:48,710 - Background noise detected.
+2025-04-22 01:43:48,805 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:43:49,075 - User started speaking.
+2025-04-22 01:43:49,108 - Background noise detected.
+2025-04-22 01:43:49,210 - User started looking away.
+2025-04-22 01:43:49,273 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:43:49,374 - User started looking away.
+2025-04-22 01:43:49,407 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:49,576 - User started looking away.
+2025-04-22 01:43:49,701 - User refocused after 0.12 seconds of looking away.
+2025-04-22 01:43:49,739 - User started speaking.
+2025-04-22 01:43:49,841 - Background noise detected.
+2025-04-22 01:43:49,873 - User started speaking.
+2025-04-22 01:43:49,907 - Background noise detected.
+2025-04-22 01:43:50,071 - User started speaking.
+2025-04-22 01:43:50,108 - Background noise detected.
+2025-04-22 01:43:50,269 - User started speaking.
+2025-04-22 01:43:50,340 - Background noise detected.
+2025-04-22 01:43:50,442 - User started looking away.
+2025-04-22 01:43:50,478 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:50,873 - User started looking away.
+2025-04-22 01:43:50,906 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:50,941 - User started looking away.
+2025-04-22 01:43:50,975 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:51,008 - User started looking away.
+2025-04-22 01:43:51,037 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:51,409 - User started looking away.
+2025-04-22 01:43:51,438 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:51,475 - User started looking away.
+2025-04-22 01:43:52,871 - User refocused after 1.40 seconds of looking away.
+2025-04-22 01:43:52,940 - User started looking away.
+2025-04-22 01:43:53,106 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:43:53,141 - User started looking away.
+2025-04-22 01:43:53,239 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:43:53,407 - User started looking away.
+2025-04-22 01:43:55,807 - User refocused after 2.40 seconds of looking away.
+2025-04-22 01:43:55,940 - User started looking away.
+2025-04-22 01:43:55,975 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:57,971 - User started looking away.
+2025-04-22 01:43:58,007 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:58,076 - User started looking away.
+2025-04-22 01:43:58,414 - User refocused after 0.34 seconds of looking away.
+2025-04-22 01:43:58,444 - User started looking away.
+2025-04-22 01:43:58,479 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:58,607 - User started looking away.
+2025-04-22 01:43:58,645 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:43:59,078 - User started looking away.
+2025-04-22 01:43:59,113 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:43:59,409 - User started looking away.
+2025-04-22 01:43:59,576 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:03,819 - User started looking away.
+2025-04-22 01:44:03,940 - User refocused after 0.12 seconds of looking away.
+2025-04-22 01:44:05,553 - User started looking away.
+2025-04-22 01:44:05,619 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:05,981 - User started looking away.
+2025-04-22 01:44:06,185 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:06,254 - User started looking away.
+2025-04-22 01:44:06,288 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:06,347 - User started looking away.
+2025-04-22 01:44:06,376 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:06,407 - User started looking away.
+2025-04-22 01:44:06,714 - User refocused after 0.31 seconds of looking away.
+2025-04-22 01:44:06,891 - User started looking away.
+2025-04-22 01:44:06,906 - User refocused after 0.01 seconds of looking away.
+2025-04-22 01:44:07,055 - User started looking away.
+2025-04-22 01:44:07,216 - User refocused after 0.16 seconds of looking away.
+2025-04-22 01:44:07,349 - User started looking away.
+2025-04-22 01:44:07,382 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:07,450 - User started looking away.
+2025-04-22 01:44:07,486 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:07,846 - User started looking away.
+2025-04-22 01:44:07,883 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:08,096 - User started looking away.
+2025-04-22 01:44:08,123 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:08,271 - User started looking away.
+2025-04-22 01:44:08,414 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:08,481 - User started looking away.
+2025-04-22 01:44:08,520 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:09,051 - User started looking away.
+2025-04-22 01:44:09,155 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:44:09,217 - User started looking away.
+2025-04-22 01:44:09,281 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:44:09,388 - User started looking away.
+2025-04-22 01:44:09,426 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:09,452 - User started looking away.
+2025-04-22 01:44:09,693 - User refocused after 0.24 seconds of looking away.
+2025-04-22 01:44:10,085 - User started looking away.
+2025-04-22 01:44:10,127 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:10,318 - User started looking away.
+2025-04-22 01:44:10,356 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:10,418 - User started looking away.
+2025-04-22 01:44:10,556 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:10,677 - User started looking away.
+2025-04-22 01:44:10,751 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:12,058 - User started looking away.
+2025-04-22 01:44:12,090 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:12,115 - User started looking away.
+2025-04-22 01:44:12,150 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:12,255 - User started looking away.
+2025-04-22 01:44:12,391 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:12,816 - User started looking away.
+2025-04-22 01:44:12,857 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:13,384 - User started looking away.
+2025-04-22 01:44:13,480 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:44:13,510 - User started looking away.
+2025-04-22 01:44:13,542 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:13,578 - User started looking away.
+2025-04-22 01:44:14,119 - User refocused after 0.54 seconds of looking away.
+2025-04-22 01:44:14,153 - User started looking away.
+2025-04-22 01:44:14,361 - User refocused after 0.21 seconds of looking away.
+2025-04-22 01:44:14,421 - User started looking away.
+2025-04-22 01:44:14,756 - User refocused after 0.33 seconds of looking away.
+2025-04-22 01:44:14,791 - User started looking away.
+2025-04-22 01:44:14,824 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:15,012 - User started looking away.
+2025-04-22 01:44:15,050 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:15,161 - User started looking away.
+2025-04-22 01:44:15,366 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:15,425 - User started looking away.
+2025-04-22 01:44:15,856 - User refocused after 0.43 seconds of looking away.
+2025-04-22 01:44:16,622 - User started looking away.
+2025-04-22 01:44:16,818 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:16,955 - User started looking away.
+2025-04-22 01:44:16,991 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:17,090 - User started looking away.
+2025-04-22 01:44:17,128 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:17,159 - User started looking away.
+2025-04-22 01:44:17,196 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:17,325 - User started looking away.
+2025-04-22 01:44:17,357 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:17,386 - User started looking away.
+2025-04-22 01:44:17,416 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:17,523 - User started looking away.
+2025-04-22 01:44:17,627 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:44:17,692 - User started looking away.
+2025-04-22 01:44:17,726 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:17,787 - User started looking away.
+2025-04-22 01:44:17,986 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:18,020 - User started looking away.
+2025-04-22 01:44:19,390 - User refocused after 1.37 seconds of looking away.
+2025-04-22 01:44:19,426 - User started looking away.
+2025-04-22 01:44:20,227 - User refocused after 0.80 seconds of looking away.
+2025-04-22 01:44:20,498 - User started looking away.
+2025-04-22 01:44:20,564 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:21,190 - User started looking away.
+2025-04-22 01:44:21,221 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:21,286 - User started looking away.
+2025-04-22 01:44:21,501 - User refocused after 0.22 seconds of looking away.
+2025-04-22 01:44:21,528 - User started looking away.
+2025-04-22 01:44:21,715 - User refocused after 0.19 seconds of looking away.
+2025-04-22 01:44:21,758 - User started looking away.
+2025-04-22 01:44:21,788 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:21,822 - User started looking away.
+2025-04-22 01:44:22,060 - User refocused after 0.24 seconds of looking away.
+2025-04-22 01:44:22,132 - User started looking away.
+2025-04-22 01:44:22,185 - User refocused after 0.05 seconds of looking away.
+2025-04-22 01:44:23,722 - User started looking away.
+2025-04-22 01:44:23,995 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:44:24,083 - User started looking away.
+2025-04-22 01:44:24,364 - User refocused after 0.28 seconds of looking away.
+2025-04-22 01:44:24,396 - User started looking away.
+2025-04-22 01:44:24,428 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:24,460 - User started looking away.
+2025-04-22 01:44:24,496 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:24,530 - User started looking away.
+2025-04-22 01:44:24,656 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:44:24,926 - User started looking away.
+2025-04-22 01:44:24,962 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:25,050 - User started looking away.
+2025-04-22 01:44:25,129 - User refocused after 0.08 seconds of looking away.
+2025-04-22 01:44:25,153 - User started looking away.
+2025-04-22 01:44:25,192 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:25,293 - User started looking away.
+2025-04-22 01:44:25,329 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:25,394 - User started looking away.
+2025-04-22 01:44:25,461 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:25,557 - User started looking away.
+2025-04-22 01:44:26,161 - User refocused after 0.60 seconds of looking away.
+2025-04-22 01:44:26,227 - User started looking away.
+2025-04-22 01:44:26,483 - User refocused after 0.26 seconds of looking away.
+2025-04-22 01:44:26,523 - User started looking away.
+2025-04-22 01:44:26,595 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:26,626 - User started looking away.
+2025-04-22 01:44:26,894 - User refocused after 0.27 seconds of looking away.
+2025-04-22 01:44:26,931 - User started looking away.
+2025-04-22 01:44:29,929 - User refocused after 3.00 seconds of looking away.
+2025-04-22 01:44:29,961 - User started looking away.
+2025-04-22 01:44:30,068 - User refocused after 0.11 seconds of looking away.
+2025-04-22 01:44:30,098 - User started looking away.
+2025-04-22 01:44:30,169 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:30,199 - User started looking away.
+2025-04-22 01:44:31,827 - User refocused after 1.63 seconds of looking away.
+2025-04-22 01:44:31,864 - User started looking away.
+2025-04-22 01:44:31,960 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:44:32,000 - User started looking away.
+2025-04-22 01:44:32,172 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:32,430 - User started looking away.
+2025-04-22 01:44:32,466 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:32,539 - User started looking away.
+2025-04-22 01:44:32,628 - User refocused after 0.09 seconds of looking away.
+2025-04-22 01:44:32,686 - User started looking away.
+2025-04-22 01:44:32,725 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:33,332 - User started looking away.
+2025-04-22 01:44:33,361 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:33,400 - User started looking away.
+2025-04-22 01:44:33,565 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:33,655 - User started looking away.
+2025-04-22 01:44:33,692 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:34,094 - User started looking away.
+2025-04-22 01:44:34,119 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:34,227 - User started looking away.
+2025-04-22 01:44:34,260 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:34,368 - User started looking away.
+2025-04-22 01:44:34,433 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:34,500 - User started looking away.
+2025-04-22 01:44:34,531 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:34,563 - User started looking away.
+2025-04-22 01:44:34,588 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:44:34,734 - User started looking away.
+2025-04-22 01:44:34,929 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:34,966 - User started looking away.
+2025-04-22 01:44:34,998 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:35,053 - User started looking away.
+2025-04-22 01:44:35,197 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:35,227 - User started looking away.
+2025-04-22 01:44:35,396 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:35,430 - User started looking away.
+2025-04-22 01:44:35,499 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:35,522 - User started looking away.
+2025-04-22 01:44:36,098 - User refocused after 0.58 seconds of looking away.
+2025-04-22 01:44:36,129 - User started looking away.
+2025-04-22 01:44:36,265 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:36,330 - User started looking away.
+2025-04-22 01:44:36,956 - User refocused after 0.63 seconds of looking away.
+2025-04-22 01:44:38,134 - User started looking away.
+2025-04-22 01:44:38,390 - User refocused after 0.26 seconds of looking away.
+2025-04-22 01:44:38,429 - User started looking away.
+2025-04-22 01:44:38,569 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:38,594 - User started looking away.
+2025-04-22 01:44:38,665 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:38,800 - User started looking away.
+2025-04-22 01:44:38,942 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:38,955 - User started looking away.
+2025-04-22 01:44:39,032 - User refocused after 0.08 seconds of looking away.
+2025-04-22 01:44:39,060 - User started looking away.
+2025-04-22 01:44:39,199 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:39,300 - User started looking away.
+2025-04-22 01:44:39,322 - User refocused after 0.02 seconds of looking away.
+2025-04-22 01:44:39,698 - User started looking away.
+2025-04-22 01:44:39,831 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:44:39,861 - User started looking away.
+2025-04-22 01:44:39,898 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:39,931 - User started looking away.
+2025-04-22 01:44:39,964 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:40,666 - User started looking away.
+2025-04-22 01:44:40,831 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:41,936 - User started looking away.
+2025-04-22 01:44:42,131 - User refocused after 0.19 seconds of looking away.
+2025-04-22 01:44:42,160 - User started looking away.
+2025-04-22 01:44:42,332 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:42,369 - User started looking away.
+2025-04-22 01:44:42,436 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:42,900 - User started looking away.
+2025-04-22 01:44:43,124 - User refocused after 0.22 seconds of looking away.
+2025-04-22 01:44:43,333 - User started looking away.
+2025-04-22 01:44:43,369 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:43,537 - User started looking away.
+2025-04-22 01:44:43,569 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:43,733 - User started looking away.
+2025-04-22 01:44:43,768 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:43,867 - User started speaking.
+2025-04-22 01:44:43,902 - Background noise detected.
+2025-04-22 01:44:43,935 - User started looking away.
+2025-04-22 01:44:43,968 - User started speaking.
+2025-04-22 01:44:43,968 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:44,003 - Background noise detected.
+2025-04-22 01:44:44,073 - User started looking away.
+2025-04-22 01:44:44,130 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:44:44,169 - User started looking away.
+2025-04-22 01:44:44,230 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:44:44,915 - User started looking away.
+2025-04-22 01:44:45,060 - User refocused after 0.15 seconds of looking away.
+2025-04-22 01:44:45,203 - User started looking away.
+2025-04-22 01:44:45,243 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:45,776 - User started looking away.
+2025-04-22 01:44:46,064 - User refocused after 0.29 seconds of looking away.
+2025-04-22 01:44:46,100 - User started looking away.
+2025-04-22 01:44:46,275 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:46,373 - User started looking away.
+2025-04-22 01:44:46,403 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:47,003 - User started looking away.
+2025-04-22 01:44:47,244 - User refocused after 0.24 seconds of looking away.
+2025-04-22 01:44:48,864 - User started looking away.
+2025-04-22 01:44:48,893 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:49,470 - User started looking away.
+2025-04-22 01:44:49,673 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:44:50,199 - User started looking away.
+2025-04-22 01:44:50,241 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:50,332 - User started looking away.
+2025-04-22 01:44:50,367 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:50,536 - User started looking away.
+2025-04-22 01:44:50,833 - User refocused after 0.30 seconds of looking away.
+2025-04-22 01:44:51,006 - User started speaking.
+2025-04-22 01:44:51,039 - Background noise detected.
+2025-04-22 01:44:51,104 - User started speaking.
+2025-04-22 01:44:51,206 - Background noise detected.
+2025-04-22 01:44:51,207 - User started looking away.
+2025-04-22 01:44:51,239 - User started speaking.
+2025-04-22 01:44:51,240 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:51,261 - Background noise detected.
+2025-04-22 01:44:51,302 - User started looking away.
+2025-04-22 01:44:51,337 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:51,373 - User started looking away.
+2025-04-22 01:44:51,407 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:51,434 - User started speaking.
+2025-04-22 01:44:51,434 - User started looking away.
+2025-04-22 01:44:51,473 - Background noise detected.
+2025-04-22 01:44:51,474 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:51,504 - User started looking away.
+2025-04-22 01:44:51,536 - User started speaking.
+2025-04-22 01:44:51,576 - Background noise detected.
+2025-04-22 01:44:51,576 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:51,671 - User started looking away.
+2025-04-22 01:44:51,708 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:51,773 - User started speaking.
+2025-04-22 01:44:51,804 - Background noise detected.
+2025-04-22 01:44:51,833 - User started speaking.
+2025-04-22 01:44:51,906 - Background noise detected.
+2025-04-22 01:44:52,037 - User started looking away.
+2025-04-22 01:44:52,176 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:44:52,741 - User started looking away.
+2025-04-22 01:44:52,772 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:52,808 - User started looking away.
+2025-04-22 01:44:52,838 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:53,443 - User started looking away.
+2025-04-22 01:44:53,578 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:44:55,608 - User started looking away.
+2025-04-22 01:44:55,776 - User refocused after 0.17 seconds of looking away.
+2025-04-22 01:44:56,072 - User started looking away.
+2025-04-22 01:44:56,171 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:44:56,411 - User started looking away.
+2025-04-22 01:44:56,606 - User refocused after 0.19 seconds of looking away.
+2025-04-22 01:44:56,672 - User started looking away.
+2025-04-22 01:44:56,741 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:44:56,776 - User started looking away.
+2025-04-22 01:44:56,805 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:44:56,874 - User started looking away.
+2025-04-22 01:44:56,910 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:44:57,042 - User stopped speaking.
+2025-04-22 01:50:18,041 - User started looking away.
+2025-04-22 01:52:56,630 - User started speaking.
+2025-04-22 01:52:56,695 - Background noise detected.
+2025-04-22 01:52:58,420 - User started speaking.
+2025-04-22 01:52:58,458 - Background noise detected.
+2025-04-22 01:52:58,549 - User started speaking.
+2025-04-22 01:52:58,623 - Background noise detected.
+2025-04-22 01:53:00,593 - User started speaking.
+2025-04-22 01:53:00,617 - Background noise detected.
+2025-04-22 01:53:01,353 - User started speaking.
+2025-04-22 01:53:01,389 - Background noise detected.
+2025-04-22 01:53:01,459 - User started speaking.
+2025-04-22 01:53:01,488 - Background noise detected.
+2025-04-22 01:53:01,553 - User started speaking.
+2025-04-22 01:53:01,660 - Background noise detected.
+2025-04-22 01:53:01,687 - User started speaking.
+2025-04-22 01:53:01,731 - Background noise detected.
+2025-04-22 01:53:01,857 - User started speaking.
+2025-04-22 01:53:01,886 - Background noise detected.
+2025-04-22 01:53:01,926 - User started speaking.
+2025-04-22 01:53:01,994 - Background noise detected.
+2025-04-22 01:53:02,059 - User started speaking.
+2025-04-22 01:53:02,086 - Background noise detected.
+2025-04-22 01:53:02,193 - User started speaking.
+2025-04-22 01:53:02,260 - Background noise detected.
+2025-04-22 01:53:02,325 - User started speaking.
+2025-04-22 01:53:02,390 - Background noise detected.
+2025-04-22 01:53:03,254 - User started speaking.
+2025-04-22 01:53:03,284 - Background noise detected.
+2025-04-22 01:53:03,419 - User started speaking.
+2025-04-22 01:53:03,457 - Background noise detected.
+2025-04-22 01:53:04,090 - User started speaking.
+2025-04-22 01:53:04,123 - Background noise detected.
+2025-04-22 01:53:04,522 - User started speaking.
+2025-04-22 01:53:04,591 - Background noise detected.
+2025-04-22 01:53:05,958 - User started speaking.
+2025-04-22 01:53:05,990 - Background noise detected.
+2025-04-22 01:53:10,993 - User started speaking.
+2025-04-22 01:53:11,061 - Background noise detected.
+2025-04-22 01:53:11,194 - User started speaking.
+2025-04-22 01:53:11,219 - Background noise detected.
+2025-04-22 01:53:11,293 - User started speaking.
+2025-04-22 01:53:11,328 - Background noise detected.
+2025-04-22 01:53:11,563 - User started speaking.
+2025-04-22 01:53:11,590 - Background noise detected.
+2025-04-22 01:53:11,630 - User started speaking.
+2025-04-22 01:53:11,689 - Background noise detected.
+2025-04-22 01:53:44,042 - User started looking away.
+2025-04-22 01:53:44,159 - User refocused after 0.12 seconds of looking away.
+2025-04-22 01:53:45,134 - User started looking away.
+2025-04-22 01:53:45,195 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:53:46,249 - User started looking away.
+2025-04-22 01:53:46,321 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:53:46,386 - User started looking away.
+2025-04-22 01:53:48,623 - User refocused after 2.24 seconds of looking away.
+2025-04-22 01:53:49,753 - User started looking away.
+2025-04-22 01:53:52,954 - User refocused after 3.20 seconds of looking away.
+2025-04-22 01:53:53,024 - User started looking away.
+2025-04-22 01:53:53,157 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:53:53,225 - User started looking away.
+2025-04-22 01:53:54,427 - User refocused after 1.20 seconds of looking away.
+2025-04-22 01:53:54,489 - User started looking away.
+2025-04-22 01:53:55,490 - User refocused after 1.00 seconds of looking away.
+2025-04-22 01:53:57,159 - User started looking away.
+2025-04-22 01:53:57,226 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:53:57,267 - User started looking away.
+2025-04-22 01:53:57,330 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:53:57,365 - User started looking away.
+2025-04-22 01:53:58,598 - User refocused after 1.23 seconds of looking away.
+2025-04-22 01:53:58,631 - User started looking away.
+2025-04-22 01:53:58,767 - User refocused after 0.14 seconds of looking away.
+2025-04-22 01:53:58,899 - User started looking away.
+2025-04-22 01:53:59,233 - User refocused after 0.33 seconds of looking away.
+2025-04-22 01:53:59,266 - User started looking away.
+2025-04-22 01:53:59,628 - User refocused after 0.36 seconds of looking away.
+2025-04-22 01:53:59,664 - User started looking away.
+2025-04-22 01:53:59,768 - User refocused after 0.10 seconds of looking away.
+2025-04-22 01:53:59,797 - User started looking away.
+2025-04-22 01:53:59,866 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:53:59,897 - User started looking away.
+2025-04-22 01:53:59,930 - User refocused after 0.03 seconds of looking away.
+2025-04-22 01:53:59,968 - User started looking away.
+2025-04-22 01:54:00,172 - User refocused after 0.20 seconds of looking away.
+2025-04-22 01:54:01,427 - User started looking away.
+2025-04-22 01:54:02,953 - User refocused after 1.53 seconds of looking away.
+2025-04-22 01:54:02,983 - User started looking away.
+2025-04-22 01:54:03,088 - User refocused after 0.11 seconds of looking away.
+2025-04-22 01:54:03,117 - User started looking away.
+2025-04-22 01:54:03,155 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:54:03,560 - User started looking away.
+2025-04-22 01:54:03,823 - User refocused after 0.26 seconds of looking away.
+2025-04-22 01:54:03,891 - User started looking away.
+2025-04-22 01:54:04,183 - User refocused after 0.29 seconds of looking away.
+2025-04-22 01:54:04,234 - User started looking away.
+2025-04-22 01:54:04,604 - User refocused after 0.37 seconds of looking away.
+2025-04-22 01:54:04,634 - User started looking away.
+2025-04-22 01:54:04,669 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:54:04,702 - User started looking away.
+2025-04-22 01:54:05,065 - User refocused after 0.36 seconds of looking away.
+2025-04-22 01:54:05,102 - User started looking away.
+2025-04-22 01:54:05,735 - User refocused after 0.63 seconds of looking away.
+2025-04-22 01:54:05,767 - User started looking away.
+2025-04-22 01:54:05,802 - User refocused after 0.04 seconds of looking away.
+2025-04-22 01:54:07,240 - User started looking away.
+2025-04-22 01:54:07,313 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:54:09,169 - User started looking away.
+2025-04-22 01:54:09,231 - User refocused after 0.06 seconds of looking away.
+2025-04-22 01:54:10,564 - User started looking away.
+2025-04-22 01:54:10,630 - User refocused after 0.07 seconds of looking away.
+2025-04-22 01:54:10,698 - User started looking away.
+2025-04-22 01:54:10,830 - User refocused after 0.13 seconds of looking away.
+2025-04-22 01:54:11,896 - User started looking away.
+2025-04-22 01:54:13,473 - User refocused after 1.58 seconds of looking away.
+2025-04-22 01:54:13,503 - User started looking away.
+2025-04-22 01:54:14,447 - User refocused after 0.94 seconds of looking away.
+2025-04-22 01:54:14,511 - User started looking away.
+2025-04-22 01:54:15,048 - User refocused after 0.54 seconds of looking away.
+2025-04-22 01:54:15,714 - User started looking away.
+2025-04-22 01:54:17,849 - User refocused after 2.14 seconds of looking away.
+2025-04-22 01:54:23,638 - User started looking away.
+2025-04-22 01:54:23,704 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:22:41,800 - User started looking away.
+2025-04-22 02:22:41,914 - User refocused after 0.11 seconds of looking away.
+2025-04-22 02:22:42,937 - User started looking away.
+2025-04-22 02:22:42,963 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:22:43,001 - User started looking away.
+2025-04-22 02:22:43,032 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:22:43,099 - User started looking away.
+2025-04-22 02:22:43,139 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:22:43,205 - User started looking away.
+2025-04-22 02:22:43,274 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:22:44,166 - User started looking away.
+2025-04-22 02:22:44,201 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:22:45,534 - User started looking away.
+2025-04-22 02:22:45,599 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:22:46,507 - User started looking away.
+2025-04-22 02:22:46,739 - User refocused after 0.23 seconds of looking away.
+2025-04-22 02:22:46,940 - User started looking away.
+2025-04-22 02:22:47,064 - User refocused after 0.12 seconds of looking away.
+2025-04-22 02:22:47,101 - User started looking away.
+2025-04-22 02:22:47,235 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:22:47,976 - User started looking away.
+2025-04-22 02:22:48,368 - User refocused after 0.39 seconds of looking away.
+2025-04-22 02:22:48,572 - User started looking away.
+2025-04-22 02:22:49,374 - User refocused after 0.80 seconds of looking away.
+2025-04-22 02:22:50,243 - User started looking away.
+2025-04-22 02:22:51,244 - User refocused after 1.00 seconds of looking away.
+2025-04-22 02:22:51,306 - User started looking away.
+2025-04-22 02:22:51,444 - User refocused after 0.14 seconds of looking away.
+2025-04-22 02:22:51,599 - User started looking away.
+2025-04-22 02:22:51,935 - User refocused after 0.34 seconds of looking away.
+2025-04-22 02:22:52,846 - User started looking away.
+2025-04-22 02:22:53,505 - User refocused after 0.66 seconds of looking away.
+2025-04-22 02:22:53,907 - User started looking away.
+2025-04-22 02:22:53,941 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:22:54,478 - User started looking away.
+2025-04-22 02:22:54,547 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:22:55,380 - User started looking away.
+2025-04-22 02:22:55,445 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:22:58,674 - User started looking away.
+2025-04-22 02:22:59,114 - User refocused after 0.44 seconds of looking away.
+2025-04-22 02:22:59,676 - User started looking away.
+2025-04-22 02:23:00,678 - User refocused after 1.00 seconds of looking away.
+2025-04-22 02:23:00,706 - User started looking away.
+2025-04-22 02:23:00,878 - User refocused after 0.17 seconds of looking away.
+2025-04-22 02:23:02,511 - User started looking away.
+2025-04-22 02:23:02,542 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:02,579 - User started looking away.
+2025-04-22 02:23:02,645 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:02,712 - User started looking away.
+2025-04-22 02:23:02,779 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:02,910 - User started looking away.
+2025-04-22 02:23:03,009 - User refocused after 0.10 seconds of looking away.
+2025-04-22 02:23:03,047 - User started looking away.
+2025-04-22 02:23:03,114 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:03,181 - User started looking away.
+2025-04-22 02:23:03,245 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:23:03,274 - User started looking away.
+2025-04-22 02:23:03,343 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:04,152 - User started looking away.
+2025-04-22 02:23:04,351 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:23:05,050 - User started looking away.
+2025-04-22 02:23:05,384 - User refocused after 0.33 seconds of looking away.
+2025-04-22 02:23:05,917 - User started looking away.
+2025-04-22 02:23:06,188 - User refocused after 0.27 seconds of looking away.
+2025-04-22 02:23:06,250 - User started looking away.
+2025-04-22 02:23:06,721 - User refocused after 0.47 seconds of looking away.
+2025-04-22 02:23:06,921 - User started looking away.
+2025-04-22 02:23:06,984 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:23:07,384 - User started looking away.
+2025-04-22 02:23:07,677 - User refocused after 0.29 seconds of looking away.
+2025-04-22 02:23:08,447 - User started looking away.
+2025-04-22 02:23:08,480 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:10,616 - User started looking away.
+2025-04-22 02:23:10,648 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:11,278 - User started looking away.
+2025-04-22 02:23:11,314 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:23:11,550 - User started looking away.
+2025-04-22 02:23:11,582 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:12,857 - User started looking away.
+2025-04-22 02:23:12,923 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:13,190 - User started looking away.
+2025-04-22 02:23:13,682 - User refocused after 0.49 seconds of looking away.
+2025-04-22 02:23:13,749 - User started looking away.
+2025-04-22 02:23:14,952 - User refocused after 1.20 seconds of looking away.
+2025-04-22 02:23:15,048 - User started looking away.
+2025-04-22 02:23:15,084 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:23:16,485 - User started looking away.
+2025-04-22 02:23:16,514 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:16,616 - User started looking away.
+2025-04-22 02:23:16,882 - User refocused after 0.27 seconds of looking away.
+2025-04-22 02:23:16,920 - User started looking away.
+2025-04-22 02:23:16,947 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:17,253 - User started looking away.
+2025-04-22 02:23:17,279 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:17,349 - User started looking away.
+2025-04-22 02:23:17,389 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:23:17,587 - User started looking away.
+2025-04-22 02:23:18,447 - User refocused after 0.86 seconds of looking away.
+2025-04-22 02:23:18,487 - User started looking away.
+2025-04-22 02:23:20,525 - User refocused after 2.04 seconds of looking away.
+2025-04-22 02:23:20,657 - User started looking away.
+2025-04-22 02:23:20,793 - User refocused after 0.14 seconds of looking away.
+2025-04-22 02:23:22,127 - User started looking away.
+2025-04-22 02:23:22,193 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:22,259 - User started looking away.
+2025-04-22 02:23:22,594 - User refocused after 0.34 seconds of looking away.
+2025-04-22 02:23:22,658 - User started looking away.
+2025-04-22 02:23:23,060 - User refocused after 0.40 seconds of looking away.
+2025-04-22 02:23:23,263 - User started looking away.
+2025-04-22 02:23:23,395 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:23:23,462 - User started looking away.
+2025-04-22 02:23:23,726 - User refocused after 0.26 seconds of looking away.
+2025-04-22 02:23:23,794 - User started looking away.
+2025-04-22 02:23:23,929 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:23:24,658 - User started looking away.
+2025-04-22 02:23:25,757 - User refocused after 1.10 seconds of looking away.
+2025-04-22 02:23:25,891 - User started looking away.
+2025-04-22 02:23:25,958 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:27,428 - User started looking away.
+2025-04-22 02:23:27,890 - User refocused after 0.46 seconds of looking away.
+2025-04-22 02:23:29,564 - User started looking away.
+2025-04-22 02:23:30,026 - User refocused after 0.46 seconds of looking away.
+2025-04-22 02:23:30,058 - User started looking away.
+2025-04-22 02:23:30,091 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:30,260 - User started looking away.
+2025-04-22 02:23:30,288 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:33,022 - User started looking away.
+2025-04-22 02:23:33,060 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:23:33,127 - User started looking away.
+2025-04-22 02:23:33,160 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:23:33,192 - User started looking away.
+2025-04-22 02:23:33,294 - User refocused after 0.10 seconds of looking away.
+2025-04-22 02:23:33,325 - User started looking away.
+2025-04-22 02:23:33,563 - User refocused after 0.24 seconds of looking away.
+2025-04-22 02:23:34,765 - User started looking away.
+2025-04-22 02:23:34,830 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:23:34,896 - User started looking away.
+2025-04-22 02:23:34,966 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:23:35,562 - User started looking away.
+2025-04-22 02:42:23,515 - User started looking away.
+2025-04-22 02:42:23,623 - User refocused after 0.11 seconds of looking away.
+2025-04-22 02:42:24,282 - User started looking away.
+2025-04-22 02:42:24,349 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:24,445 - User started looking away.
+2025-04-22 02:42:24,646 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:24,687 - User started looking away.
+2025-04-22 02:42:24,753 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:25,049 - User started looking away.
+2025-04-22 02:42:25,282 - User refocused after 0.23 seconds of looking away.
+2025-04-22 02:42:25,453 - User started looking away.
+2025-04-22 02:42:26,014 - User refocused after 0.56 seconds of looking away.
+2025-04-22 02:42:26,447 - User started looking away.
+2025-04-22 02:42:26,487 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:26,754 - User started looking away.
+2025-04-22 02:42:26,954 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:27,022 - User started looking away.
+2025-04-22 02:42:27,293 - User refocused after 0.27 seconds of looking away.
+2025-04-22 02:42:27,495 - User started looking away.
+2025-04-22 02:42:27,555 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:27,623 - User started looking away.
+2025-04-22 02:42:27,692 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:27,892 - User started looking away.
+2025-04-22 02:42:28,020 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:42:30,295 - User started looking away.
+2025-04-22 02:42:30,624 - User refocused after 0.33 seconds of looking away.
+2025-04-22 02:42:30,696 - User started looking away.
+2025-04-22 02:42:31,094 - User refocused after 0.40 seconds of looking away.
+2025-04-22 02:42:31,556 - User started looking away.
+2025-04-22 02:42:31,625 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:32,024 - User started looking away.
+2025-04-22 02:42:32,161 - User refocused after 0.14 seconds of looking away.
+2025-04-22 02:42:32,424 - User started looking away.
+2025-04-22 02:42:32,495 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:32,556 - User started looking away.
+2025-04-22 02:42:32,624 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:33,500 - User started looking away.
+2025-04-22 02:42:33,558 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:33,628 - User started looking away.
+2025-04-22 02:42:34,154 - User refocused after 0.53 seconds of looking away.
+2025-04-22 02:42:34,358 - User started looking away.
+2025-04-22 02:42:35,228 - User refocused after 0.87 seconds of looking away.
+2025-04-22 02:42:35,299 - User started looking away.
+2025-04-22 02:42:36,024 - User refocused after 0.73 seconds of looking away.
+2025-04-22 02:42:36,225 - User started looking away.
+2025-04-22 02:42:36,428 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:36,561 - User started looking away.
+2025-04-22 02:42:36,761 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:36,828 - User started looking away.
+2025-04-22 02:42:36,959 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:42:37,227 - User started looking away.
+2025-04-22 02:42:38,358 - User refocused after 1.13 seconds of looking away.
+2025-04-22 02:42:38,426 - User started looking away.
+2025-04-22 02:42:38,629 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:38,700 - User started looking away.
+2025-04-22 02:42:38,954 - User refocused after 0.25 seconds of looking away.
+2025-04-22 02:42:39,016 - User started looking away.
+2025-04-22 02:42:39,056 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:39,184 - User started looking away.
+2025-04-22 02:42:39,430 - User refocused after 0.25 seconds of looking away.
+2025-04-22 02:42:39,561 - User started looking away.
+2025-04-22 02:42:39,630 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:40,027 - User started looking away.
+2025-04-22 02:42:40,228 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:40,299 - User started looking away.
+2025-04-22 02:42:40,498 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:40,628 - User started looking away.
+2025-04-22 02:42:40,697 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:40,962 - User started looking away.
+2025-04-22 02:42:41,161 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:44,503 - User started looking away.
+2025-04-22 02:42:45,029 - User refocused after 0.53 seconds of looking away.
+2025-04-22 02:42:45,099 - User started looking away.
+2025-04-22 02:42:45,161 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:45,699 - User started looking away.
+2025-04-22 02:42:45,762 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:46,099 - User started looking away.
+2025-04-22 02:42:46,164 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:46,502 - User started looking away.
+2025-04-22 02:42:46,563 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:46,633 - User started looking away.
+2025-04-22 02:42:46,831 - User refocused after 0.20 seconds of looking away.
+2025-04-22 02:42:46,902 - User started looking away.
+2025-04-22 02:42:46,963 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:47,032 - User started looking away.
+2025-04-22 02:42:48,028 - User refocused after 1.00 seconds of looking away.
+2025-04-22 02:42:48,059 - User started looking away.
+2025-04-22 02:42:48,097 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:48,190 - User started looking away.
+2025-04-22 02:42:48,225 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:42:48,294 - User started looking away.
+2025-04-22 02:42:48,323 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:42:48,491 - User started looking away.
+2025-04-22 02:42:48,526 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:48,788 - User started looking away.
+2025-04-22 02:42:48,826 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:48,894 - User started looking away.
+2025-04-22 02:42:48,958 - User refocused after 0.06 seconds of looking away.
+2025-04-22 02:42:49,026 - User started looking away.
+2025-04-22 02:42:49,160 - User refocused after 0.13 seconds of looking away.
+2025-04-22 02:42:50,494 - User started looking away.
+2025-04-22 02:42:50,523 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:42:51,160 - User started looking away.
+2025-04-22 02:42:51,394 - User refocused after 0.23 seconds of looking away.
+2025-04-22 02:42:51,427 - User started looking away.
+2025-04-22 02:42:51,497 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:51,564 - User started looking away.
+2025-04-22 02:42:51,591 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:42:51,761 - User started looking away.
+2025-04-22 02:42:51,829 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:51,960 - User started looking away.
+2025-04-22 02:42:52,028 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:52,124 - User started looking away.
+2025-04-22 02:42:52,165 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:52,261 - User started looking away.
+2025-04-22 02:42:52,298 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:53,191 - User started looking away.
+2025-04-22 02:42:53,232 - User refocused after 0.04 seconds of looking away.
+2025-04-22 02:42:53,301 - User started looking away.
+2025-04-22 02:42:53,367 - User refocused after 0.07 seconds of looking away.
+2025-04-22 02:42:53,993 - User started looking away.
+2025-04-22 02:42:54,027 - User refocused after 0.03 seconds of looking away.
+2025-04-22 02:42:54,365 - User started looking away.
+2025-04-22 02:42:54,966 - User refocused after 0.60 seconds of looking away.
+2025-04-22 03:16:13,835 - User started looking away.
+2025-04-22 03:16:13,944 - User refocused after 0.11 seconds of looking away.
+2025-04-22 03:16:14,534 - User started looking away.
+2025-04-22 03:16:14,598 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:16:14,637 - User started looking away.
+2025-04-22 03:16:14,703 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:14,728 - User started looking away.
+2025-04-22 03:16:14,769 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:16:14,802 - User started looking away.
+2025-04-22 03:16:14,835 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:16:14,870 - User started looking away.
+2025-04-22 03:16:15,137 - User refocused after 0.27 seconds of looking away.
+2025-04-22 03:16:15,166 - User started looking away.
+2025-04-22 03:16:15,200 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:16:15,644 - User started looking away.
+2025-04-22 03:16:15,710 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:18,210 - User started looking away.
+2025-04-22 03:16:18,343 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:16:18,542 - User started looking away.
+2025-04-22 03:16:18,743 - User refocused after 0.20 seconds of looking away.
+2025-04-22 03:16:19,341 - User started looking away.
+2025-04-22 03:16:19,411 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:19,874 - User started looking away.
+2025-04-22 03:16:19,941 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:20,077 - User started looking away.
+2025-04-22 03:16:20,214 - User refocused after 0.14 seconds of looking away.
+2025-04-22 03:16:20,274 - User started looking away.
+2025-04-22 03:16:20,409 - User refocused after 0.14 seconds of looking away.
+2025-04-22 03:16:20,544 - User started looking away.
+2025-04-22 03:16:20,612 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:21,678 - User started looking away.
+2025-04-22 03:16:22,013 - User refocused after 0.34 seconds of looking away.
+2025-04-22 03:16:22,414 - User started looking away.
+2025-04-22 03:16:22,615 - User refocused after 0.20 seconds of looking away.
+2025-04-22 03:16:23,345 - User started looking away.
+2025-04-22 03:16:23,416 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:16:24,567 - User started looking away.
+2025-04-22 03:16:24,606 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:16:24,937 - User started looking away.
+2025-04-22 03:16:24,973 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:24:29,519 - User started speaking.
+2025-04-22 03:24:29,583 - Background noise detected.
+2025-04-22 03:24:30,034 - User started speaking.
+2025-04-22 03:24:30,069 - Background noise detected.
+2025-04-22 03:24:30,246 - User started speaking.
+2025-04-22 03:24:30,276 - Background noise detected.
+2025-04-22 03:24:30,676 - User started speaking.
+2025-04-22 03:24:30,710 - Background noise detected.
+2025-04-22 03:24:30,813 - User started speaking.
+2025-04-22 03:24:30,844 - Background noise detected.
+2025-04-22 03:24:30,877 - User started speaking.
+2025-04-22 03:24:30,982 - Background noise detected.
+2025-04-22 03:24:31,048 - User started speaking.
+2025-04-22 03:24:31,115 - Background noise detected.
+2025-04-22 03:24:31,177 - User started speaking.
+2025-04-22 03:24:31,242 - Background noise detected.
+2025-04-22 03:24:31,344 - User started speaking.
+2025-04-22 03:24:31,379 - Background noise detected.
+2025-04-22 03:24:31,448 - User started speaking.
+2025-04-22 03:24:31,544 - Background noise detected.
+2025-04-22 03:24:31,610 - User started speaking.
+2025-04-22 03:24:31,644 - Background noise detected.
+2025-04-22 03:24:31,677 - User started speaking.
+2025-04-22 03:24:31,709 - Background noise detected.
+2025-04-22 03:24:31,774 - User started speaking.
+2025-04-22 03:24:31,812 - Background noise detected.
+2025-04-22 03:24:31,978 - User started speaking.
+2025-04-22 03:24:32,009 - Background noise detected.
+2025-04-22 03:24:32,912 - User started speaking.
+2025-04-22 03:24:32,943 - Background noise detected.
+2025-04-22 03:24:33,008 - User started speaking.
+2025-04-22 03:24:33,049 - Background noise detected.
+2025-04-22 03:24:33,144 - User started speaking.
+2025-04-22 03:24:33,212 - Background noise detected.
+2025-04-22 03:24:33,280 - User started speaking.
+2025-04-22 03:24:33,338 - Background noise detected.
+2025-04-22 03:24:33,407 - User started speaking.
+2025-04-22 03:24:33,545 - Background noise detected.
+2025-04-22 03:24:33,612 - User started speaking.
+2025-04-22 03:24:33,746 - Background noise detected.
+2025-04-22 03:24:33,805 - User started speaking.
+2025-04-22 03:24:33,948 - Background noise detected.
+2025-04-22 03:24:34,078 - User started speaking.
+2025-04-22 03:24:34,116 - Background noise detected.
+2025-04-22 03:24:34,272 - User started speaking.
+2025-04-22 03:24:34,314 - Background noise detected.
+2025-04-22 03:24:34,344 - User started speaking.
+2025-04-22 03:24:34,384 - Background noise detected.
+2025-04-22 03:24:34,810 - User started speaking.
+2025-04-22 03:24:34,849 - Background noise detected.
+2025-04-22 03:24:34,878 - User started speaking.
+2025-04-22 03:24:34,916 - Background noise detected.
+2025-04-22 03:24:34,982 - User started speaking.
+2025-04-22 03:24:35,076 - Background noise detected.
+2025-04-22 03:24:35,385 - User started speaking.
+2025-04-22 03:24:35,476 - Background noise detected.
+2025-04-22 03:24:35,546 - User started speaking.
+2025-04-22 03:24:35,582 - Background noise detected.
+2025-04-22 03:24:35,749 - User started speaking.
+2025-04-22 03:24:35,777 - Background noise detected.
+2025-04-22 03:24:35,917 - User started speaking.
+2025-04-22 03:24:35,979 - Background noise detected.
+2025-04-22 03:24:36,017 - User started speaking.
+2025-04-22 03:24:36,141 - Background noise detected.
+2025-04-22 03:24:36,245 - User started speaking.
+2025-04-22 03:24:36,283 - Background noise detected.
+2025-04-22 03:24:36,547 - User started speaking.
+2025-04-22 03:24:36,583 - Background noise detected.
+2025-04-22 03:24:36,710 - User started speaking.
+2025-04-22 03:24:36,782 - Background noise detected.
+2025-04-22 03:24:36,880 - User started speaking.
+2025-04-22 03:24:36,914 - Background noise detected.
+2025-04-22 03:24:37,146 - User started speaking.
+2025-04-22 03:24:37,185 - Background noise detected.
+2025-04-22 03:24:37,478 - User started speaking.
+2025-04-22 03:24:37,519 - Background noise detected.
+2025-04-22 03:24:38,314 - User started speaking.
+2025-04-22 03:24:38,349 - Background noise detected.
+2025-04-22 03:24:39,180 - User started speaking.
+2025-04-22 03:24:39,215 - Background noise detected.
+2025-04-22 03:24:39,282 - User started speaking.
+2025-04-22 03:24:39,311 - Background noise detected.
+2025-04-22 03:24:39,349 - User started speaking.
+2025-04-22 03:24:39,515 - Background noise detected.
+2025-04-22 03:24:39,915 - User started speaking.
+2025-04-22 03:24:39,949 - Background noise detected.
+2025-04-22 03:24:40,051 - User started speaking.
+2025-04-22 03:24:40,080 - Background noise detected.
+2025-04-22 03:24:40,115 - User started speaking.
+2025-04-22 03:24:40,216 - Background noise detected.
+2025-04-22 03:24:40,278 - User started speaking.
+2025-04-22 03:24:40,386 - Background noise detected.
+2025-04-22 03:24:40,412 - User started speaking.
+2025-04-22 03:24:40,479 - Background noise detected.
+2025-04-22 03:24:40,551 - User started speaking.
+2025-04-22 03:24:40,616 - Background noise detected.
+2025-04-22 03:24:40,682 - User started speaking.
+2025-04-22 03:24:40,747 - Background noise detected.
+2025-04-22 03:24:40,787 - User started speaking.
+2025-04-22 03:24:40,851 - Background noise detected.
+2025-04-22 03:24:40,882 - User started speaking.
+2025-04-22 03:24:40,916 - Background noise detected.
+2025-04-22 03:24:40,983 - User started speaking.
+2025-04-22 03:24:41,015 - Background noise detected.
+2025-04-22 03:24:41,273 - User stopped speaking.
+2025-04-22 03:24:41,315 - User started speaking.
+2025-04-22 03:24:41,385 - Background noise detected.
+2025-04-22 03:24:41,446 - User started speaking.
+2025-04-22 03:24:41,485 - User stopped speaking.
+2025-04-22 03:24:41,515 - Background noise detected.
+2025-04-22 03:24:41,617 - User started speaking.
+2025-04-22 03:24:41,652 - Background noise detected.
+2025-04-22 03:24:41,682 - User started speaking.
+2025-04-22 03:24:41,715 - Background noise detected.
+2025-04-22 03:24:41,743 - User started speaking.
+2025-04-22 03:24:41,783 - Background noise detected.
+2025-04-22 03:24:42,352 - User started speaking.
+2025-04-22 03:24:42,384 - Background noise detected.
+2025-04-22 03:24:43,215 - User started speaking.
+2025-04-22 03:24:43,283 - Background noise detected.
+2025-04-22 03:24:43,354 - User started speaking.
+2025-04-22 03:24:43,384 - Background noise detected.
+2025-04-22 03:24:43,681 - User started speaking.
+2025-04-22 03:24:43,717 - User stopped speaking.
+2025-04-22 03:24:45,388 - Background noise detected.
+2025-04-22 03:24:45,417 - User stopped speaking.
+2025-04-22 03:24:45,554 - User started speaking.
+2025-04-22 03:24:45,579 - User stopped speaking.
+2025-04-22 03:24:45,625 - Background noise detected.
+2025-04-22 03:24:46,016 - User started speaking.
+2025-04-22 03:24:46,054 - Background noise detected.
+2025-04-22 03:24:46,081 - User started speaking.
+2025-04-22 03:24:46,121 - Background noise detected.
+2025-04-22 03:24:47,181 - User started speaking.
+2025-04-22 03:24:47,222 - Background noise detected.
+2025-04-22 03:24:47,316 - User started speaking.
+2025-04-22 03:24:47,386 - Background noise detected.
+2025-04-22 03:24:48,421 - User started speaking.
+2025-04-22 03:24:48,450 - Background noise detected.
+2025-04-22 03:24:49,616 - User started speaking.
+2025-04-22 03:24:49,656 - Background noise detected.
+2025-04-22 03:24:51,460 - User started speaking.
+2025-04-22 03:24:51,524 - Background noise detected.
+2025-04-22 03:24:52,458 - User started speaking.
+2025-04-22 03:24:52,556 - Background noise detected.
+2025-04-22 03:24:56,061 - User started speaking.
+2025-04-22 03:24:56,085 - Background noise detected.
+2025-04-22 03:24:57,352 - User started speaking.
+2025-04-22 03:24:57,393 - Background noise detected.
+2025-04-22 03:24:57,423 - User started speaking.
+2025-04-22 03:24:57,455 - Background noise detected.
+2025-04-22 03:24:57,789 - User started speaking.
+2025-04-22 03:24:57,827 - Background noise detected.
+2025-04-22 03:24:57,854 - User stopped speaking.
+2025-04-22 03:24:58,085 - User started speaking.
+2025-04-22 03:24:58,120 - Background noise detected.
+2025-04-22 03:24:58,258 - User started speaking.
+2025-04-22 03:24:58,289 - Background noise detected.
+2025-04-22 03:24:58,993 - User started speaking.
+2025-04-22 03:24:59,059 - Background noise detected.
+2025-04-22 03:24:59,127 - User started speaking.
+2025-04-22 03:24:59,161 - Background noise detected.
+2025-04-22 03:24:59,258 - User stopped speaking.
+2025-04-22 03:24:59,293 - User started speaking.
+2025-04-22 03:24:59,326 - User stopped speaking.
+2025-04-22 03:24:59,428 - Background noise detected.
+2025-04-22 03:24:59,483 - User stopped speaking.
+2025-04-22 03:24:59,561 - User started speaking.
+2025-04-22 03:24:59,590 - Background noise detected.
+2025-04-22 03:24:59,727 - User stopped speaking.
+2025-04-22 03:24:59,828 - User started speaking.
+2025-04-22 03:24:59,860 - User stopped speaking.
+2025-04-22 03:24:59,895 - Background noise detected.
+2025-04-22 03:24:59,925 - User started speaking.
+2025-04-22 03:24:59,953 - User stopped speaking.
+2025-04-22 03:24:59,995 - User started speaking.
+2025-04-22 03:25:00,024 - Background noise detected.
+2025-04-22 03:25:00,061 - User stopped speaking.
+2025-04-22 03:25:00,093 - Background noise detected.
+2025-04-22 03:25:00,492 - User started speaking.
+2025-04-22 03:25:00,526 - Background noise detected.
+2025-04-22 03:25:00,591 - User started speaking.
+2025-04-22 03:25:00,660 - Background noise detected.
+2025-04-22 03:25:00,797 - User started speaking.
+2025-04-22 03:25:00,823 - Background noise detected.
+2025-04-22 03:25:00,992 - User started speaking.
+2025-04-22 03:25:01,026 - Background noise detected.
+2025-04-22 03:25:01,228 - User started speaking.
+2025-04-22 03:25:01,354 - Background noise detected.
+2025-04-22 03:25:01,496 - User started speaking.
+2025-04-22 03:25:01,588 - Background noise detected.
+2025-04-22 03:25:01,627 - User started speaking.
+2025-04-22 03:25:01,658 - Background noise detected.
+2025-04-22 03:25:01,726 - User started speaking.
+2025-04-22 03:25:01,764 - User stopped speaking.
+2025-04-22 03:25:02,492 - User started speaking.
+2025-04-22 03:25:02,527 - Background noise detected.
+2025-04-22 03:25:02,628 - User started speaking.
+2025-04-22 03:25:02,661 - Background noise detected.
+2025-04-22 03:25:02,827 - User started speaking.
+2025-04-22 03:25:02,858 - Background noise detected.
+2025-04-22 03:25:03,324 - User started speaking.
+2025-04-22 03:25:03,363 - Background noise detected.
+2025-04-22 03:25:03,989 - User started speaking.
+2025-04-22 03:25:04,029 - Background noise detected.
+2025-04-22 03:25:04,295 - User started speaking.
+2025-04-22 03:25:04,328 - Background noise detected.
+2025-04-22 03:25:04,622 - User started speaking.
+2025-04-22 03:25:04,657 - Background noise detected.
+2025-04-22 03:25:05,293 - User started speaking.
+2025-04-22 03:25:05,362 - Background noise detected.
+2025-04-22 03:25:05,529 - User started speaking.
+2025-04-22 03:25:05,555 - Background noise detected.
+2025-04-22 03:25:05,694 - User started speaking.
+2025-04-22 03:25:05,727 - Background noise detected.
+2025-04-22 03:25:07,332 - User started speaking.
+2025-04-22 03:25:07,361 - Background noise detected.
+2025-04-22 03:25:07,463 - User started speaking.
+2025-04-22 03:25:07,497 - Background noise detected.
+2025-04-22 03:25:07,629 - User started speaking.
+2025-04-22 03:25:07,698 - Background noise detected.
+2025-04-22 03:25:08,533 - User started speaking.
+2025-04-22 03:25:08,564 - Background noise detected.
+2025-04-22 03:25:08,964 - User stopped speaking.
+2025-04-22 03:25:08,997 - User started speaking.
+2025-04-22 03:25:09,029 - Background noise detected.
+2025-04-22 03:25:09,128 - User started speaking.
+2025-04-22 03:25:09,165 - Background noise detected.
+2025-04-22 03:25:09,630 - User started speaking.
+2025-04-22 03:25:09,665 - Background noise detected.
+2025-04-22 03:25:09,997 - User stopped speaking.
+2025-04-22 03:25:10,033 - User started speaking.
+2025-04-22 03:25:10,096 - Background noise detected.
+2025-04-22 03:25:10,195 - User started speaking.
+2025-04-22 03:25:10,224 - Background noise detected.
+2025-04-22 03:25:10,264 - User started speaking.
+2025-04-22 03:25:10,298 - Background noise detected.
+2025-04-22 03:25:10,496 - User started speaking.
+2025-04-22 03:25:10,528 - Background noise detected.
+2025-04-22 03:25:10,797 - User started speaking.
+2025-04-22 03:25:10,864 - Background noise detected.
+2025-04-22 03:25:10,998 - User started speaking.
+2025-04-22 03:25:11,065 - User stopped speaking.
+2025-04-22 03:25:11,159 - User started speaking.
+2025-04-22 03:25:11,233 - Background noise detected.
+2025-04-22 03:25:11,263 - User stopped speaking.
+2025-04-22 03:25:11,298 - User started speaking.
+2025-04-22 03:25:11,461 - Background noise detected.
+2025-04-22 03:25:11,499 - User stopped speaking.
+2025-04-22 03:25:11,532 - User started speaking.
+2025-04-22 03:25:11,602 - Background noise detected.
+2025-04-22 03:25:11,667 - User started speaking.
+2025-04-22 03:25:11,695 - Background noise detected.
+2025-04-22 03:25:11,765 - User started speaking.
+2025-04-22 03:25:11,796 - User stopped speaking.
+2025-04-22 03:25:11,835 - User started speaking.
+2025-04-22 03:25:11,861 - Background noise detected.
+2025-04-22 03:25:12,033 - User started speaking.
+2025-04-22 03:25:12,065 - Background noise detected.
+2025-04-22 03:25:12,332 - User started speaking.
+2025-04-22 03:25:12,367 - Background noise detected.
+2025-04-22 03:25:12,602 - User started speaking.
+2025-04-22 03:25:12,627 - Background noise detected.
+2025-04-22 03:25:12,663 - User started speaking.
+2025-04-22 03:25:12,731 - Background noise detected.
+2025-04-22 03:25:12,832 - User started speaking.
+2025-04-22 03:25:12,895 - Background noise detected.
+2025-04-22 03:25:12,934 - User stopped speaking.
+2025-04-22 03:25:12,967 - User started speaking.
+2025-04-22 03:25:12,999 - Background noise detected.
+2025-04-22 03:25:13,130 - User started speaking.
+2025-04-22 03:25:13,168 - Background noise detected.
+2025-04-22 03:25:13,198 - User started speaking.
+2025-04-22 03:25:13,267 - Background noise detected.
+2025-04-22 03:25:13,401 - User started speaking.
+2025-04-22 03:25:13,428 - Background noise detected.
+2025-04-22 03:25:13,862 - User started speaking.
+2025-04-22 03:25:13,929 - Background noise detected.
+2025-04-22 03:25:14,034 - User started speaking.
+2025-04-22 03:25:14,099 - Background noise detected.
+2025-04-22 03:25:16,563 - User started speaking.
+2025-04-22 03:25:16,600 - Background noise detected.
+2025-04-22 03:25:16,699 - User started speaking.
+2025-04-22 03:25:16,733 - Background noise detected.
+2025-04-22 03:25:16,762 - User started speaking.
+2025-04-22 03:25:16,802 - Background noise detected.
+2025-04-22 03:25:16,832 - User started speaking.
+2025-04-22 03:25:16,870 - Background noise detected.
+2025-04-22 03:25:16,898 - User started speaking.
+2025-04-22 03:25:16,970 - Background noise detected.
+2025-04-22 03:25:17,695 - User started speaking.
+2025-04-22 03:25:17,736 - Background noise detected.
+2025-04-22 03:25:18,033 - User started speaking.
+2025-04-22 03:25:18,070 - Background noise detected.
+2025-04-22 03:25:18,368 - User started speaking.
+2025-04-22 03:25:18,401 - Background noise detected.
+2025-04-22 03:25:21,335 - User started speaking.
+2025-04-22 03:25:21,375 - Background noise detected.
+2025-04-22 03:25:21,473 - User started speaking.
+2025-04-22 03:25:21,504 - Background noise detected.
+2025-04-22 03:25:21,567 - User started speaking.
+2025-04-22 03:25:21,639 - Background noise detected.
+2025-04-22 03:25:21,738 - User started speaking.
+2025-04-22 03:25:21,804 - Background noise detected.
+2025-04-22 03:25:21,942 - User started speaking.
+2025-04-22 03:25:22,005 - Background noise detected.
+2025-04-22 03:25:22,033 - User started speaking.
+2025-04-22 03:25:22,068 - Background noise detected.
+2025-04-22 03:25:22,365 - User started speaking.
+2025-04-22 03:25:22,402 - Background noise detected.
+2025-04-22 03:25:22,837 - User started speaking.
+2025-04-22 03:25:22,869 - Background noise detected.
+2025-04-22 03:25:22,904 - User started speaking.
+2025-04-22 03:25:22,936 - Background noise detected.
+2025-04-22 03:25:23,769 - User started speaking.
+2025-04-22 03:25:23,808 - Background noise detected.
+2025-04-22 03:25:23,834 - User started speaking.
+2025-04-22 03:25:23,870 - Background noise detected.
+2025-04-22 03:25:24,105 - User started speaking.
+2025-04-22 03:25:24,142 - Background noise detected.
+2025-04-22 03:25:24,233 - User started speaking.
+2025-04-22 03:25:24,270 - Background noise detected.
+2025-04-22 03:25:25,036 - User started speaking.
+2025-04-22 03:25:25,072 - Background noise detected.
+2025-04-22 03:25:25,164 - User started speaking.
+2025-04-22 03:25:25,199 - Background noise detected.
+2025-04-22 03:25:26,309 - User started speaking.
+2025-04-22 03:25:26,335 - Background noise detected.
+2025-04-22 03:25:26,603 - User started speaking.
+2025-04-22 03:25:26,640 - Background noise detected.
+2025-04-22 03:25:26,774 - User started speaking.
+2025-04-22 03:25:26,807 - Background noise detected.
+2025-04-22 03:25:27,138 - User started speaking.
+2025-04-22 03:25:27,173 - Background noise detected.
+2025-04-22 03:25:27,344 - User started speaking.
+2025-04-22 03:25:27,409 - Background noise detected.
+2025-04-22 03:25:27,705 - User started speaking.
+2025-04-22 03:25:27,737 - Background noise detected.
+2025-04-22 03:25:27,843 - User started speaking.
+2025-04-22 03:25:27,870 - Background noise detected.
+2025-04-22 03:25:28,880 - User started speaking.
+2025-04-22 03:25:28,934 - Background noise detected.
+2025-04-22 03:25:30,977 - User started speaking.
+2025-04-22 03:25:31,003 - Background noise detected.
+2025-04-22 03:25:31,142 - User started speaking.
+2025-04-22 03:25:31,178 - Background noise detected.
+2025-04-22 03:25:31,268 - User started speaking.
+2025-04-22 03:25:31,308 - Background noise detected.
+2025-04-22 03:25:31,407 - User started speaking.
+2025-04-22 03:25:31,444 - Background noise detected.
+2025-04-22 03:25:31,468 - User started speaking.
+2025-04-22 03:25:31,510 - Background noise detected.
+2025-04-22 03:25:31,539 - User started speaking.
+2025-04-22 03:25:31,580 - Background noise detected.
+2025-04-22 03:25:31,707 - User started speaking.
+2025-04-22 03:25:31,736 - Background noise detected.
+2025-04-22 03:25:31,775 - User started speaking.
+2025-04-22 03:25:31,806 - Background noise detected.
+2025-04-22 03:25:31,908 - User started speaking.
+2025-04-22 03:25:31,942 - Background noise detected.
+2025-04-22 03:25:32,242 - User started speaking.
+2025-04-22 03:25:32,277 - Background noise detected.
+2025-04-22 03:25:32,710 - User started speaking.
+2025-04-22 03:25:32,811 - Background noise detected.
+2025-04-22 03:25:33,877 - User started speaking.
+2025-04-22 03:25:33,944 - Background noise detected.
+2025-04-22 03:25:34,007 - User started speaking.
+2025-04-22 03:25:34,045 - Background noise detected.
+2025-04-22 03:25:34,211 - User started speaking.
+2025-04-22 03:25:34,242 - Background noise detected.
+2025-04-22 03:25:35,143 - User started speaking.
+2025-04-22 03:25:35,178 - Background noise detected.
+2025-04-22 03:25:38,141 - User started speaking.
+2025-04-22 03:25:38,178 - Background noise detected.
+2025-04-22 03:25:38,944 - User started speaking.
+2025-04-22 03:25:38,976 - Background noise detected.
+2025-04-22 03:25:39,042 - User started speaking.
+2025-04-22 03:25:39,079 - Background noise detected.
+2025-04-22 03:25:39,109 - User started speaking.
+2025-04-22 03:25:39,217 - Background noise detected.
+2025-04-22 03:25:39,283 - User started speaking.
+2025-04-22 03:25:39,377 - Background noise detected.
+2025-04-22 03:25:39,477 - User started speaking.
+2025-04-22 03:25:39,514 - Background noise detected.
+2025-04-22 03:25:39,797 - User started speaking.
+2025-04-22 03:25:39,927 - Background noise detected.
+2025-04-22 03:25:40,258 - User stopped speaking.
+2025-04-22 03:25:40,727 - User started speaking.
+2025-04-22 03:25:40,828 - Background noise detected.
+2025-04-22 03:25:41,098 - User started speaking.
+2025-04-22 03:25:41,123 - Background noise detected.
+2025-04-22 03:25:41,192 - User stopped speaking.
+2025-04-22 03:25:41,561 - User started speaking.
+2025-04-22 03:25:41,597 - User stopped speaking.
+2025-04-22 03:25:41,862 - User started speaking.
+2025-04-22 03:25:41,890 - User stopped speaking.
+2025-04-22 03:25:41,991 - User started speaking.
+2025-04-22 03:25:42,028 - User stopped speaking.
+2025-04-22 03:25:42,062 - Background noise detected.
+2025-04-22 03:25:42,160 - User stopped speaking.
+2025-04-22 03:25:42,195 - Background noise detected.
+2025-04-22 03:25:42,228 - User stopped speaking.
+2025-04-22 03:25:42,260 - User started speaking.
+2025-04-22 03:25:42,327 - Background noise detected.
+2025-04-22 03:25:42,431 - User started speaking.
+2025-04-22 03:25:42,494 - Background noise detected.
+2025-04-22 03:25:42,596 - User stopped speaking.
+2025-04-22 03:25:42,630 - User started speaking.
+2025-04-22 03:25:42,658 - User stopped speaking.
+2025-04-22 03:25:42,699 - User started speaking.
+2025-04-22 03:25:42,724 - User stopped speaking.
+2025-04-22 03:25:42,792 - Background noise detected.
+2025-04-22 03:25:43,549 - User stopped speaking.
+2025-04-22 03:25:43,692 - User started speaking.
+2025-04-22 03:25:43,725 - Background noise detected.
+2025-04-22 03:25:43,764 - User stopped speaking.
+2025-04-22 03:25:43,795 - User started speaking.
+2025-04-22 03:25:43,827 - Background noise detected.
+2025-04-22 03:25:44,980 - User stopped speaking.
+2025-04-22 03:25:45,047 - User started speaking.
+2025-04-22 03:25:45,109 - Background noise detected.
+2025-04-22 03:25:45,483 - User started speaking.
+2025-04-22 03:25:45,515 - Background noise detected.
+2025-04-22 03:25:45,706 - User stopped speaking.
+2025-04-22 03:25:45,752 - User started speaking.
+2025-04-22 03:25:45,779 - Background noise detected.
+2025-04-22 03:25:45,819 - User stopped speaking.
+2025-04-22 03:25:45,850 - Background noise detected.
+2025-04-22 03:25:45,880 - User stopped speaking.
+2025-04-22 03:25:45,953 - Background noise detected.
+2025-04-22 03:25:45,979 - User stopped speaking.
+2025-04-22 03:25:46,020 - Background noise detected.
+2025-04-22 03:25:46,044 - User stopped speaking.
+2025-04-22 03:25:46,085 - Background noise detected.
+2025-04-22 03:25:46,114 - User stopped speaking.
+2025-04-22 03:25:46,177 - User started speaking.
+2025-04-22 03:25:46,218 - User stopped speaking.
+2025-04-22 03:25:46,419 - User started speaking.
+2025-04-22 03:25:46,447 - Background noise detected.
+2025-04-22 03:25:46,529 - User stopped speaking.
+2025-04-22 03:25:46,898 - Background noise detected.
+2025-04-22 03:25:46,926 - User stopped speaking.
+2025-04-22 03:25:47,332 - User started speaking.
+2025-04-22 03:25:47,464 - Background noise detected.
+2025-04-22 03:25:47,625 - User stopped speaking.
+2025-04-22 03:25:48,166 - User started speaking.
+2025-04-22 03:25:48,198 - Background noise detected.
+2025-04-22 03:25:48,230 - User stopped speaking.
+2025-04-22 03:25:48,262 - Background noise detected.
+2025-04-22 03:25:48,301 - User stopped speaking.
+2025-04-22 03:25:48,366 - User started speaking.
+2025-04-22 03:25:48,393 - User stopped speaking.
+2025-04-22 03:25:49,066 - User started speaking.
+2025-04-22 03:25:49,098 - Background noise detected.
+2025-04-22 03:25:49,199 - User started speaking.
+2025-04-22 03:25:49,233 - Background noise detected.
+2025-04-22 03:25:49,366 - User stopped speaking.
+2025-04-22 03:25:49,401 - User started speaking.
+2025-04-22 03:25:49,427 - Background noise detected.
+2025-04-22 03:25:49,469 - User started speaking.
+2025-04-22 03:25:49,531 - Background noise detected.
+2025-04-22 03:25:49,729 - User started speaking.
+2025-04-22 03:25:49,766 - Background noise detected.
+2025-04-22 03:25:50,096 - User stopped speaking.
+2025-04-22 03:25:50,137 - User started speaking.
+2025-04-22 03:25:50,160 - Background noise detected.
+2025-04-22 03:25:50,200 - User started speaking.
+2025-04-22 03:25:50,230 - Background noise detected.
+2025-04-22 03:25:50,263 - User started speaking.
+2025-04-22 03:25:50,401 - Background noise detected.
+2025-04-22 03:25:50,430 - User started speaking.
+2025-04-22 03:25:50,462 - Background noise detected.
+2025-04-22 03:25:50,499 - User stopped speaking.
+2025-04-22 03:25:50,730 - User started speaking.
+2025-04-22 03:25:50,796 - Background noise detected.
+2025-04-22 03:25:50,931 - User stopped speaking.
+2025-04-22 03:25:50,963 - User started speaking.
+2025-04-22 03:25:51,034 - Background noise detected.
+2025-04-22 03:25:51,063 - User started speaking.
+2025-04-22 03:25:51,132 - Background noise detected.
+2025-04-22 03:25:51,166 - User stopped speaking.
+2025-04-22 03:25:51,830 - User started speaking.
+2025-04-22 03:25:51,896 - Background noise detected.
+2025-04-22 03:25:53,393 - User started speaking.
+2025-04-22 03:25:53,458 - Background noise detected.
+2025-04-22 03:25:53,598 - User started speaking.
+2025-04-22 03:25:53,647 - Background noise detected.
+2025-04-22 03:25:54,022 - User started speaking.
+2025-04-22 03:25:54,089 - Background noise detected.
+2025-04-22 03:25:54,154 - User started speaking.
+2025-04-22 03:25:54,188 - Background noise detected.
+2025-04-22 03:25:54,253 - User started speaking.
+2025-04-22 03:25:54,289 - Background noise detected.
+2025-04-22 03:25:54,321 - User started speaking.
+2025-04-22 03:25:54,353 - Background noise detected.
+2025-04-22 03:25:54,917 - User started speaking.
+2025-04-22 03:25:54,957 - Background noise detected.
+2025-04-22 03:25:55,399 - User started speaking.
+2025-04-22 03:25:55,435 - Background noise detected.
+2025-04-22 03:25:55,735 - User started speaking.
+2025-04-22 03:25:55,767 - Background noise detected.
+2025-04-22 03:25:55,806 - User started speaking.
+2025-04-22 03:25:55,902 - Background noise detected.
+2025-04-22 03:25:55,933 - User started speaking.
+2025-04-22 03:25:56,005 - Background noise detected.
+2025-04-22 03:25:56,068 - User started speaking.
+2025-04-22 03:25:56,168 - Background noise detected.
+2025-04-22 03:25:56,237 - User started speaking.
+2025-04-22 03:25:56,268 - Background noise detected.
+2025-04-22 03:25:56,539 - User started speaking.
+2025-04-22 03:25:56,563 - Background noise detected.
+2025-04-22 03:25:56,672 - User started speaking.
+2025-04-22 03:25:56,804 - Background noise detected.
+2025-04-22 03:25:56,836 - User started speaking.
+2025-04-22 03:25:56,900 - Background noise detected.
+2025-04-22 03:25:57,032 - User started speaking.
+2025-04-22 03:25:57,104 - Background noise detected.
+2025-04-22 03:25:57,130 - User started speaking.
+2025-04-22 03:25:57,201 - User stopped speaking.
+2025-04-22 03:25:59,505 - User started speaking.
+2025-04-22 03:25:59,534 - Background noise detected.
+2025-04-22 03:25:59,704 - User started speaking.
+2025-04-22 03:25:59,730 - Background noise detected.
+2025-04-22 03:25:59,901 - User started speaking.
+2025-04-22 03:25:59,967 - Background noise detected.
+2025-04-22 03:26:00,106 - User started speaking.
+2025-04-22 03:26:00,137 - Background noise detected.
+2025-04-22 03:26:00,174 - User started speaking.
+2025-04-22 03:26:00,198 - Background noise detected.
+2025-04-22 03:26:00,628 - User started speaking.
+2025-04-22 03:26:00,692 - Background noise detected.
+2025-04-22 03:26:00,920 - User started speaking.
+2025-04-22 03:26:00,956 - Background noise detected.
+2025-04-22 03:26:00,989 - User started speaking.
+2025-04-22 03:26:01,025 - Background noise detected.
+2025-04-22 03:26:01,158 - User started speaking.
+2025-04-22 03:26:01,225 - Background noise detected.
+2025-04-22 03:26:01,692 - User started speaking.
+2025-04-22 03:26:01,722 - Background noise detected.
+2025-04-22 03:26:02,625 - User started speaking.
+2025-04-22 03:26:02,658 - Background noise detected.
+2025-04-22 03:26:02,725 - User started speaking.
+2025-04-22 03:26:02,756 - Background noise detected.
+2025-04-22 03:26:03,024 - User started speaking.
+2025-04-22 03:26:03,058 - Background noise detected.
+2025-04-22 03:26:03,257 - User started speaking.
+2025-04-22 03:26:03,291 - Background noise detected.
+2025-04-22 03:26:03,324 - User started speaking.
+2025-04-22 03:26:03,359 - Background noise detected.
+2025-04-22 03:26:03,427 - User started speaking.
+2025-04-22 03:26:03,524 - Background noise detected.
+2025-04-22 03:26:03,626 - User started speaking.
+2025-04-22 03:26:03,657 - Background noise detected.
+2025-04-22 03:26:03,830 - User started speaking.
+2025-04-22 03:26:03,853 - Background noise detected.
+2025-04-22 03:26:03,889 - User started speaking.
+2025-04-22 03:26:03,918 - Background noise detected.
+2025-04-22 03:26:03,957 - User started speaking.
+2025-04-22 03:26:04,023 - Background noise detected.
+2025-04-22 03:26:04,062 - User started speaking.
+2025-04-22 03:26:04,128 - Background noise detected.
+2025-04-22 03:26:04,222 - User started speaking.
+2025-04-22 03:26:04,260 - Background noise detected.
+2025-04-22 03:26:04,291 - User started speaking.
+2025-04-22 03:26:04,324 - Background noise detected.
+2025-04-22 03:26:04,456 - User started speaking.
+2025-04-22 03:26:04,495 - Background noise detected.
+2025-04-22 03:26:04,956 - User started speaking.
+2025-04-22 03:26:04,996 - Background noise detected.
+2025-04-22 03:26:05,060 - User started speaking.
+2025-04-22 03:26:05,128 - Background noise detected.
+2025-04-22 03:26:05,206 - User started speaking.
+2025-04-22 03:26:05,238 - Background noise detected.
+2025-04-22 03:26:05,346 - User stopped speaking.
+2025-04-22 03:26:16,148 - User started speaking.
+2025-04-22 03:26:16,246 - User stopped speaking.
+2025-04-22 03:26:16,277 - User started speaking.
+2025-04-22 03:26:16,343 - Background noise detected.
+2025-04-22 03:26:16,379 - User started speaking.
+2025-04-22 03:26:16,478 - User stopped speaking.
+2025-04-22 03:26:16,509 - User started speaking.
+2025-04-22 03:26:16,537 - Background noise detected.
+2025-04-22 03:26:16,581 - User started speaking.
+2025-04-22 03:26:16,612 - Background noise detected.
+2025-04-22 03:26:16,745 - User stopped speaking.
+2025-04-22 03:26:16,879 - User started speaking.
+2025-04-22 03:26:17,005 - Background noise detected.
+2025-04-22 03:26:17,196 - User started speaking.
+2025-04-22 03:26:17,235 - Background noise detected.
+2025-04-22 03:26:17,331 - User started speaking.
+2025-04-22 03:26:17,364 - Background noise detected.
+2025-04-22 03:26:17,459 - User started speaking.
+2025-04-22 03:26:17,633 - Background noise detected.
+2025-04-22 03:26:17,796 - User started speaking.
+2025-04-22 03:26:17,834 - Background noise detected.
+2025-04-22 03:26:17,901 - User started speaking.
+2025-04-22 03:26:17,965 - User stopped speaking.
+2025-04-22 03:26:18,392 - User started speaking.
+2025-04-22 03:26:18,436 - Background noise detected.
+2025-04-22 03:26:18,696 - User started speaking.
+2025-04-22 03:26:18,737 - Background noise detected.
+2025-04-22 03:26:19,003 - User started speaking.
+2025-04-22 03:26:19,031 - Background noise detected.
+2025-04-22 03:26:19,098 - User started speaking.
+2025-04-22 03:26:19,167 - Background noise detected.
+2025-04-22 03:26:19,235 - User started speaking.
+2025-04-22 03:26:19,266 - Background noise detected.
+2025-04-22 03:26:19,398 - User started speaking.
+2025-04-22 03:26:19,437 - Background noise detected.
+2025-04-22 03:26:19,568 - User started speaking.
+2025-04-22 03:26:19,602 - Background noise detected.
+2025-04-22 03:26:19,834 - User started speaking.
+2025-04-22 03:26:19,866 - Background noise detected.
+2025-04-22 03:26:19,935 - User started speaking.
+2025-04-22 03:26:20,003 - Background noise detected.
+2025-04-22 03:26:20,135 - User started speaking.
+2025-04-22 03:26:20,259 - Background noise detected.
+2025-04-22 03:26:20,301 - User started speaking.
+2025-04-22 03:26:20,397 - Background noise detected.
+2025-04-22 03:26:20,835 - User started speaking.
+2025-04-22 03:26:20,867 - Background noise detected.
+2025-04-22 03:26:21,599 - User started speaking.
+2025-04-22 03:26:21,629 - Background noise detected.
+2025-04-22 03:26:21,698 - User started speaking.
+2025-04-22 03:26:21,735 - Background noise detected.
+2025-04-22 03:26:23,967 - User started speaking.
+2025-04-22 03:26:24,033 - Background noise detected.
+2025-04-22 03:26:24,102 - User started speaking.
+2025-04-22 03:26:24,131 - Background noise detected.
+2025-04-22 03:26:24,203 - User started speaking.
+2025-04-22 03:26:24,236 - Background noise detected.
+2025-04-22 03:26:24,330 - User started speaking.
+2025-04-22 03:26:24,375 - Background noise detected.
+2025-04-22 03:26:24,505 - User started speaking.
+2025-04-22 03:26:24,531 - Background noise detected.
+2025-04-22 03:26:24,599 - User started speaking.
+2025-04-22 03:26:24,637 - Background noise detected.
+2025-04-22 03:26:24,832 - User started speaking.
+2025-04-22 03:26:24,901 - Background noise detected.
+2025-04-22 03:26:25,171 - User started speaking.
+2025-04-22 03:26:25,204 - Background noise detected.
+2025-04-22 03:26:25,267 - User started speaking.
+2025-04-22 03:26:25,332 - Background noise detected.
+2025-04-22 03:26:25,370 - User started speaking.
+2025-04-22 03:26:25,437 - Background noise detected.
+2025-04-22 03:26:26,202 - User started speaking.
+2025-04-22 03:26:26,233 - Background noise detected.
+2025-04-22 03:26:26,502 - User started speaking.
+2025-04-22 03:26:26,532 - Background noise detected.
+2025-04-22 03:26:26,906 - User started speaking.
+2025-04-22 03:26:26,933 - Background noise detected.
+2025-04-22 03:26:27,333 - User started speaking.
+2025-04-22 03:26:27,370 - Background noise detected.
+2025-04-22 03:26:27,437 - User started speaking.
+2025-04-22 03:26:27,469 - Background noise detected.
+2025-04-22 03:26:27,603 - User started speaking.
+2025-04-22 03:26:27,673 - Background noise detected.
+2025-04-22 03:26:27,842 - User started speaking.
+2025-04-22 03:26:27,906 - Background noise detected.
+2025-04-22 03:26:28,133 - User started speaking.
+2025-04-22 03:26:28,173 - Background noise detected.
+2025-04-22 03:26:28,474 - User started speaking.
+2025-04-22 03:26:28,576 - Background noise detected.
+2025-04-22 03:26:28,705 - User started speaking.
+2025-04-22 03:26:28,771 - Background noise detected.
+2025-04-22 03:26:31,506 - User started speaking.
+2025-04-22 03:26:31,537 - Background noise detected.
+2025-04-22 03:26:31,608 - User started speaking.
+2025-04-22 03:26:31,639 - Background noise detected.
+2025-04-22 03:26:31,974 - User started speaking.
+2025-04-22 03:26:32,009 - Background noise detected.
+2025-04-22 03:26:32,104 - User started speaking.
+2025-04-22 03:26:32,142 - Background noise detected.
+2025-04-22 03:26:32,866 - User started speaking.
+2025-04-22 03:26:32,908 - Background noise detected.
+2025-04-22 03:26:32,974 - User started speaking.
+2025-04-22 03:26:33,008 - Background noise detected.
+2025-04-22 03:26:33,332 - User started speaking.
+2025-04-22 03:26:33,375 - Background noise detected.
+2025-04-22 03:26:33,541 - User started speaking.
+2025-04-22 03:26:33,574 - Background noise detected.
+2025-04-22 03:26:33,670 - User started speaking.
+2025-04-22 03:26:33,710 - Background noise detected.
+2025-04-22 03:26:33,739 - User started speaking.
+2025-04-22 03:26:33,777 - Background noise detected.
+2025-04-22 03:26:36,645 - User started speaking.
+2025-04-22 03:26:36,738 - Background noise detected.
+2025-04-22 03:26:36,873 - User started speaking.
+2025-04-22 03:26:36,908 - Background noise detected.
+2025-04-22 03:26:37,641 - User started speaking.
+2025-04-22 03:26:37,678 - Background noise detected.
+2025-04-22 03:26:37,743 - User started speaking.
+2025-04-22 03:26:37,777 - Background noise detected.
+2025-04-22 03:26:37,806 - User started speaking.
+2025-04-22 03:26:37,846 - Background noise detected.
+2025-04-22 03:26:38,610 - User started speaking.
+2025-04-22 03:26:38,642 - Background noise detected.
+2025-04-22 03:26:38,779 - User started speaking.
+2025-04-22 03:26:38,805 - Background noise detected.
+2025-04-22 03:26:39,275 - User started speaking.
+2025-04-22 03:26:39,343 - Background noise detected.
+2025-04-22 03:26:39,474 - User started speaking.
+2025-04-22 03:26:39,540 - Background noise detected.
+2025-04-22 03:26:39,673 - User started speaking.
+2025-04-22 03:26:39,712 - Background noise detected.
+2025-04-22 03:26:39,841 - User started speaking.
+2025-04-22 03:26:39,872 - Background noise detected.
+2025-04-22 03:26:39,941 - User started speaking.
+2025-04-22 03:26:39,979 - Background noise detected.
+2025-04-22 03:26:40,273 - User started speaking.
+2025-04-22 03:26:40,308 - Background noise detected.
+2025-04-22 03:26:40,577 - User stopped speaking.
+2025-04-22 03:26:40,612 - User started speaking.
+2025-04-22 03:26:40,643 - Background noise detected.
+2025-04-22 03:26:43,847 - User started speaking.
+2025-04-22 03:26:43,874 - Background noise detected.
+2025-04-22 03:26:46,680 - User started speaking.
+2025-04-22 03:26:46,744 - Background noise detected.
+2025-04-22 03:26:46,812 - User started speaking.
+2025-04-22 03:26:46,850 - Background noise detected.
+2025-04-22 03:26:48,113 - User started speaking.
+2025-04-22 03:26:48,146 - Background noise detected.
+2025-04-22 03:26:48,315 - User started speaking.
+2025-04-22 03:26:48,348 - Background noise detected.
+2025-04-22 03:26:49,151 - User started speaking.
+2025-04-22 03:26:49,176 - Background noise detected.
+2025-04-22 03:26:50,416 - User started speaking.
+2025-04-22 03:26:50,481 - Background noise detected.
+2025-04-22 03:26:50,579 - User started speaking.
+2025-04-22 03:26:50,608 - Background noise detected.
+2025-04-22 03:26:50,853 - User started speaking.
+2025-04-22 03:26:50,879 - Background noise detected.
+2025-04-22 03:26:51,011 - User started speaking.
+2025-04-22 03:26:51,149 - Background noise detected.
+2025-04-22 03:26:51,182 - User started speaking.
+2025-04-22 03:26:51,217 - Background noise detected.
+2025-04-22 03:26:51,319 - User started speaking.
+2025-04-22 03:26:51,414 - Background noise detected.
+2025-04-22 03:26:51,450 - User started speaking.
+2025-04-22 03:26:51,483 - Background noise detected.
+2025-04-22 03:26:51,582 - User started speaking.
+2025-04-22 03:26:51,616 - Background noise detected.
+2025-04-22 03:26:51,819 - User stopped speaking.
+2025-04-22 03:26:51,849 - User started speaking.
+2025-04-22 03:26:51,880 - Background noise detected.
+2025-04-22 03:26:51,948 - User started speaking.
+2025-04-22 03:26:52,119 - Background noise detected.
+2025-04-22 03:26:52,182 - User started speaking.
+2025-04-22 03:26:52,215 - Background noise detected.
+2025-04-22 03:26:52,315 - User started speaking.
+2025-04-22 03:26:52,385 - Background noise detected.
+2025-04-22 03:26:52,547 - User started speaking.
+2025-04-22 03:26:52,585 - Background noise detected.
+2025-04-22 03:26:54,219 - User started speaking.
+2025-04-22 03:26:54,249 - Background noise detected.
+2025-04-22 03:26:54,344 - User started speaking.
+2025-04-22 03:26:54,386 - Background noise detected.
+2025-04-22 03:26:54,451 - User started speaking.
+2025-04-22 03:26:54,516 - Background noise detected.
+2025-04-22 03:26:54,547 - User started speaking.
+2025-04-22 03:26:54,587 - Background noise detected.
+2025-04-22 03:26:54,653 - User started speaking.
+2025-04-22 03:26:54,679 - Background noise detected.
+2025-04-22 03:26:54,750 - User started speaking.
+2025-04-22 03:26:54,783 - Background noise detected.
+2025-04-22 03:26:55,084 - User started speaking.
+2025-04-22 03:26:55,151 - User stopped speaking.
+2025-04-22 03:26:55,190 - User started speaking.
+2025-04-22 03:26:55,215 - Background noise detected.
+2025-04-22 03:26:55,276 - User started speaking.
+2025-04-22 03:26:55,319 - Background noise detected.
+2025-04-22 03:26:55,382 - User started speaking.
+2025-04-22 03:26:55,422 - Background noise detected.
+2025-04-22 03:26:55,449 - User stopped speaking.
+2025-04-22 03:26:56,081 - User started speaking.
+2025-04-22 03:26:56,115 - Background noise detected.
+2025-04-22 03:26:56,158 - User started speaking.
+2025-04-22 03:26:56,223 - Background noise detected.
+2025-04-22 03:26:56,485 - User started speaking.
+2025-04-22 03:26:56,519 - Background noise detected.
+2025-04-22 03:26:56,681 - User started speaking.
+2025-04-22 03:26:56,720 - Background noise detected.
+2025-04-22 03:26:56,987 - User started speaking.
+2025-04-22 03:26:57,018 - Background noise detected.
+2025-04-22 03:26:57,055 - User started speaking.
+2025-04-22 03:26:57,120 - Background noise detected.
+2025-04-22 03:26:58,023 - User started speaking.
+2025-04-22 03:26:58,052 - Background noise detected.
+2025-04-22 03:26:58,315 - User started speaking.
+2025-04-22 03:26:58,353 - Background noise detected.
+2025-04-22 03:26:58,482 - User started speaking.
+2025-04-22 03:26:58,546 - Background noise detected.
+2025-04-22 03:26:58,889 - User started speaking.
+2025-04-22 03:26:58,917 - Background noise detected.
+2025-04-22 03:27:00,655 - User started speaking.
+2025-04-22 03:27:00,684 - Background noise detected.
+2025-04-22 03:27:00,722 - User started speaking.
+2025-04-22 03:27:00,752 - User stopped speaking.
+2025-04-22 03:27:03,105 - User started speaking.
+2025-04-22 03:27:03,132 - User stopped speaking.
+2025-04-22 03:27:03,169 - User started speaking.
+2025-04-22 03:27:03,193 - User stopped speaking.
+2025-04-22 03:27:03,240 - Background noise detected.
+2025-04-22 03:27:03,266 - User stopped speaking.
+2025-04-22 03:27:03,304 - Background noise detected.
+2025-04-22 03:27:03,333 - User stopped speaking.
+2025-04-22 03:27:04,169 - Background noise detected.
+2025-04-22 03:27:04,203 - User stopped speaking.
+2025-04-22 03:27:04,269 - User started speaking.
+2025-04-22 03:27:04,301 - User stopped speaking.
+2025-04-22 03:27:05,339 - Background noise detected.
+2025-04-22 03:27:05,365 - User stopped speaking.
+2025-04-22 03:27:05,440 - Background noise detected.
+2025-04-22 03:27:05,470 - User stopped speaking.
+2025-04-22 03:27:05,505 - Background noise detected.
+2025-04-22 03:27:05,573 - User stopped speaking.
+2025-04-22 03:27:05,735 - Background noise detected.
+2025-04-22 03:27:05,771 - User started speaking.
+2025-04-22 03:27:05,803 - Background noise detected.
+2025-04-22 03:27:05,974 - User started speaking.
+2025-04-22 03:27:05,996 - Background noise detected.
+2025-04-22 03:27:06,039 - User stopped speaking.
+2025-04-22 03:27:06,073 - User started speaking.
+2025-04-22 03:27:06,103 - Background noise detected.
+2025-04-22 03:27:06,200 - User stopped speaking.
+2025-04-22 03:27:06,243 - User started speaking.
+2025-04-22 03:27:06,304 - User stopped speaking.
+2025-04-22 03:27:06,336 - User started speaking.
+2025-04-22 03:27:06,371 - User stopped speaking.
+2025-04-22 03:27:06,635 - Background noise detected.
+2025-04-22 03:27:06,736 - User stopped speaking.
+2025-04-22 03:27:06,776 - Background noise detected.
+2025-04-22 03:27:06,906 - User started speaking.
+2025-04-22 03:27:07,003 - Background noise detected.
+2025-04-22 03:27:07,098 - User started speaking.
+2025-04-22 03:27:07,170 - Background noise detected.
+2025-04-22 03:27:07,237 - User stopped speaking.
+2025-04-22 03:27:07,303 - User started speaking.
+2025-04-22 03:27:07,341 - User stopped speaking.
+2025-04-22 03:27:08,201 - User started speaking.
+2025-04-22 03:27:08,269 - Background noise detected.
+2025-04-22 03:27:08,304 - User started speaking.
+2025-04-22 03:27:08,331 - Background noise detected.
+2025-04-22 03:27:08,372 - User started speaking.
+2025-04-22 03:27:08,407 - Background noise detected.
+2025-04-22 03:27:08,440 - User started speaking.
+2025-04-22 03:27:08,473 - Background noise detected.
+2025-04-22 03:27:08,603 - User started speaking.
+2025-04-22 03:27:08,640 - Background noise detected.
+2025-04-22 03:27:08,922 - User started speaking.
+2025-04-22 03:27:08,960 - Background noise detected.
+2025-04-22 03:27:09,058 - User started speaking.
+2025-04-22 03:27:09,090 - Background noise detected.
+2025-04-22 03:27:09,226 - User started speaking.
+2025-04-22 03:27:09,359 - Background noise detected.
+2025-04-22 03:27:09,656 - User started speaking.
+2025-04-22 03:27:09,691 - Background noise detected.
+2025-04-22 03:27:09,854 - User started speaking.
+2025-04-22 03:27:09,923 - Background noise detected.
+2025-04-22 03:27:09,960 - User started speaking.
+2025-04-22 03:27:09,990 - Background noise detected.
+2025-04-22 03:27:13,028 - User started speaking.
+2025-04-22 03:27:13,061 - User stopped speaking.
+2025-04-22 03:27:13,095 - Background noise detected.
+2025-04-22 03:27:13,162 - User started speaking.
+2025-04-22 03:27:13,192 - Background noise detected.
+2025-04-22 03:27:13,428 - User started speaking.
+2025-04-22 03:27:13,454 - Background noise detected.
+2025-04-22 03:27:13,832 - User started speaking.
+2025-04-22 03:27:13,888 - Background noise detected.
+2025-04-22 03:27:14,091 - User started speaking.
+2025-04-22 03:27:14,130 - Background noise detected.
+2025-04-22 03:27:14,154 - User started speaking.
+2025-04-22 03:27:14,225 - Background noise detected.
+2025-04-22 03:27:14,262 - User started speaking.
+2025-04-22 03:27:14,295 - Background noise detected.
+2025-04-22 03:27:14,530 - User started speaking.
+2025-04-22 03:27:14,558 - Background noise detected.
+2025-04-22 03:27:14,664 - User started speaking.
+2025-04-22 03:27:14,764 - Background noise detected.
+2025-04-22 03:27:15,030 - User started speaking.
+2025-04-22 03:27:15,059 - Background noise detected.
+2025-04-22 03:27:15,095 - User started speaking.
+2025-04-22 03:27:15,158 - Background noise detected.
+2025-04-22 03:27:15,195 - User started speaking.
+2025-04-22 03:27:15,294 - Background noise detected.
+2025-04-22 03:27:15,562 - User started speaking.
+2025-04-22 03:27:15,659 - Background noise detected.
+2025-04-22 03:27:15,763 - User started speaking.
+2025-04-22 03:27:15,788 - Background noise detected.
+2025-04-22 03:27:15,860 - User started speaking.
+2025-04-22 03:27:15,928 - Background noise detected.
+2025-04-22 03:27:16,028 - User started speaking.
+2025-04-22 03:27:16,060 - Background noise detected.
+2025-04-22 03:27:16,093 - User started speaking.
+2025-04-22 03:27:16,127 - Background noise detected.
+2025-04-22 03:27:16,162 - User started speaking.
+2025-04-22 03:27:16,231 - Background noise detected.
+2025-04-22 03:27:17,798 - User started speaking.
+2025-04-22 03:27:17,825 - Background noise detected.
+2025-04-22 03:27:17,931 - User started speaking.
+2025-04-22 03:27:17,960 - Background noise detected.
+2025-04-22 03:27:18,028 - User started speaking.
+2025-04-22 03:27:18,060 - Background noise detected.
+2025-04-22 03:27:18,163 - User started speaking.
+2025-04-22 03:27:18,196 - Background noise detected.
+2025-04-22 03:27:18,366 - User started speaking.
+2025-04-22 03:27:18,393 - Background noise detected.
+2025-04-22 03:27:18,627 - User started speaking.
+2025-04-22 03:27:18,666 - Background noise detected.
+2025-04-22 03:27:22,598 - User started speaking.
+2025-04-22 03:27:22,634 - Background noise detected.
+2025-04-22 03:27:22,662 - User started speaking.
+2025-04-22 03:27:22,698 - Background noise detected.
+2025-04-22 03:27:22,766 - User started speaking.
+2025-04-22 03:27:22,791 - Background noise detected.
+2025-04-22 03:27:22,970 - User started speaking.
+2025-04-22 03:27:22,995 - Background noise detected.
+2025-04-22 03:27:23,034 - User started speaking.
+2025-04-22 03:27:23,066 - Background noise detected.
+2025-04-22 03:34:43,636 - User started looking away.
+2025-04-22 03:34:43,743 - User refocused after 0.11 seconds of looking away.
+2025-04-22 03:34:45,376 - User started looking away.
+2025-04-22 03:34:45,439 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:34:45,466 - User started looking away.
+2025-04-22 03:34:45,507 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:34:46,303 - User started looking away.
+2025-04-22 03:34:46,633 - User refocused after 0.33 seconds of looking away.
+2025-04-22 03:34:46,874 - User started looking away.
+2025-04-22 03:34:46,902 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:34:46,942 - User started looking away.
+2025-04-22 03:34:47,015 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:34:47,275 - User started looking away.
+2025-04-22 03:34:47,339 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:34:47,368 - User started looking away.
+2025-04-22 03:34:47,436 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:34:47,536 - User started looking away.
+2025-04-22 03:34:47,834 - User refocused after 0.30 seconds of looking away.
+2025-04-22 03:34:47,871 - User started looking away.
+2025-04-22 03:34:48,968 - User refocused after 1.10 seconds of looking away.
+2025-04-22 03:34:49,278 - User started looking away.
+2025-04-22 03:34:49,347 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:34:51,472 - User started looking away.
+2025-04-22 03:34:51,508 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:34:51,538 - User started looking away.
+2025-04-22 03:34:51,636 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:34:52,413 - User started looking away.
+2025-04-22 03:34:52,481 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:34:56,078 - User started looking away.
+2025-04-22 03:34:56,106 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:34:56,148 - User started looking away.
+2025-04-22 03:34:56,748 - User refocused after 0.60 seconds of looking away.
+2025-04-22 03:34:56,818 - User started looking away.
+2025-04-22 03:34:56,949 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:34:57,349 - User started looking away.
+2025-04-22 03:34:58,082 - User refocused after 0.73 seconds of looking away.
+2025-04-22 03:34:58,219 - User started looking away.
+2025-04-22 03:35:00,220 - User refocused after 2.00 seconds of looking away.
+2025-04-22 03:35:00,283 - User started looking away.
+2025-04-22 03:35:00,350 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:00,420 - User started looking away.
+2025-04-22 03:35:00,550 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:35:01,085 - User started looking away.
+2025-04-22 03:35:01,151 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:01,286 - User started looking away.
+2025-04-22 03:35:01,538 - User refocused after 0.25 seconds of looking away.
+2025-04-22 03:35:01,651 - User started looking away.
+2025-04-22 03:35:01,719 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:01,850 - User started looking away.
+2025-04-22 03:35:02,513 - User refocused after 0.66 seconds of looking away.
+2025-04-22 03:35:03,115 - User started looking away.
+2025-04-22 03:35:03,181 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:03,283 - User started looking away.
+2025-04-22 03:35:03,551 - User refocused after 0.27 seconds of looking away.
+2025-04-22 03:35:03,625 - User started looking away.
+2025-04-22 03:35:05,311 - User refocused after 1.69 seconds of looking away.
+2025-04-22 03:35:05,381 - User started looking away.
+2025-04-22 03:35:05,483 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:35:05,685 - User started looking away.
+2025-04-22 03:35:05,746 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:35:05,945 - User started looking away.
+2025-04-22 03:35:05,983 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:35:06,046 - User started looking away.
+2025-04-22 03:35:06,084 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:35:06,109 - User started looking away.
+2025-04-22 03:35:06,150 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:35:06,354 - User started looking away.
+2025-04-22 03:35:06,426 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:06,487 - User started looking away.
+2025-04-22 03:35:06,820 - User refocused after 0.33 seconds of looking away.
+2025-04-22 03:35:07,488 - User started looking away.
+2025-04-22 03:35:07,556 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:10,288 - User started looking away.
+2025-04-22 03:35:10,354 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:10,623 - User started looking away.
+2025-04-22 03:35:10,690 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:10,957 - User started looking away.
+2025-04-22 03:35:11,293 - User refocused after 0.34 seconds of looking away.
+2025-04-22 03:35:11,356 - User started looking away.
+2025-04-22 03:35:11,625 - User refocused after 0.27 seconds of looking away.
+2025-04-22 03:35:11,676 - User started looking away.
+2025-04-22 03:35:11,709 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:35:11,742 - User started looking away.
+2025-04-22 03:35:12,287 - User refocused after 0.55 seconds of looking away.
+2025-04-22 03:35:12,426 - User started looking away.
+2025-04-22 03:35:12,556 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:35:12,627 - User started looking away.
+2025-04-22 03:35:12,688 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:35:13,230 - User started looking away.
+2025-04-22 03:35:13,786 - User refocused after 0.56 seconds of looking away.
+2025-04-22 03:35:13,847 - User started looking away.
+2025-04-22 03:35:14,970 - User refocused after 1.12 seconds of looking away.
+2025-04-22 03:35:15,040 - User started looking away.
+2025-04-22 03:35:15,238 - User refocused after 0.20 seconds of looking away.
+2025-04-22 03:35:16,465 - User started looking away.
+2025-04-22 03:35:16,503 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:35:16,760 - User started looking away.
+2025-04-22 03:35:16,892 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:35:16,958 - User started looking away.
+2025-04-22 03:35:17,028 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:17,693 - User started looking away.
+2025-04-22 03:35:17,759 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:17,892 - User started looking away.
+2025-04-22 03:35:17,961 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:35:21,631 - User started looking away.
+2025-04-22 03:35:21,689 - User refocused after 0.06 seconds of looking away.

@@ -1,0 +1,248 @@
+2025-04-22 03:59:36,625 - User started looking away.
+2025-04-22 03:59:36,699 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:59:38,587 - User started looking away.
+2025-04-22 03:59:38,685 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:59:38,786 - User started looking away.
+2025-04-22 03:59:38,821 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:38,886 - User started looking away.
+2025-04-22 03:59:38,921 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:39,122 - User started looking away.
+2025-04-22 03:59:39,158 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:39,257 - User started looking away.
+2025-04-22 03:59:39,288 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:39,564 - User started looking away.
+2025-04-22 03:59:39,590 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:39,763 - User started looking away.
+2025-04-22 03:59:40,892 - User refocused after 1.13 seconds of looking away.
+2025-04-22 03:59:40,923 - User started looking away.
+2025-04-22 03:59:40,994 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:59:41,021 - User started looking away.
+2025-04-22 03:59:41,057 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:41,094 - User started looking away.
+2025-04-22 03:59:41,123 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:41,559 - User started looking away.
+2025-04-22 03:59:41,591 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:42,056 - User started looking away.
+2025-04-22 03:59:42,088 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:42,223 - User started looking away.
+2025-04-22 03:59:44,459 - User refocused after 2.24 seconds of looking away.
+2025-04-22 03:59:46,392 - User started looking away.
+2025-04-22 03:59:46,423 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:46,462 - User started looking away.
+2025-04-22 03:59:46,523 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:59:46,561 - User started looking away.
+2025-04-22 03:59:46,622 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:59:46,659 - User started looking away.
+2025-04-22 03:59:46,923 - User refocused after 0.26 seconds of looking away.
+2025-04-22 03:59:46,960 - User started looking away.
+2025-04-22 03:59:47,226 - User refocused after 0.27 seconds of looking away.
+2025-04-22 03:59:47,292 - User started looking away.
+2025-04-22 03:59:47,323 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:47,362 - User started looking away.
+2025-04-22 03:59:47,458 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:59:47,498 - User started looking away.
+2025-04-22 03:59:47,659 - User refocused after 0.16 seconds of looking away.
+2025-04-22 03:59:47,698 - User started looking away.
+2025-04-22 03:59:47,725 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:47,764 - User started looking away.
+2025-04-22 03:59:47,895 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:59:47,996 - User started looking away.
+2025-04-22 03:59:48,057 - User refocused after 0.06 seconds of looking away.
+2025-04-22 03:59:48,124 - User started looking away.
+2025-04-22 03:59:48,261 - User refocused after 0.14 seconds of looking away.
+2025-04-22 03:59:48,295 - User started looking away.
+2025-04-22 03:59:48,393 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:59:48,531 - User started looking away.
+2025-04-22 03:59:49,196 - User refocused after 0.67 seconds of looking away.
+2025-04-22 03:59:49,428 - User started looking away.
+2025-04-22 03:59:49,461 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:49,495 - User started looking away.
+2025-04-22 03:59:49,599 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:59:49,660 - User started looking away.
+2025-04-22 03:59:49,696 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:49,728 - User started looking away.
+2025-04-22 03:59:49,857 - User refocused after 0.13 seconds of looking away.
+2025-04-22 03:59:49,896 - User started looking away.
+2025-04-22 03:59:50,195 - User refocused after 0.30 seconds of looking away.
+2025-04-22 03:59:50,260 - User started looking away.
+2025-04-22 03:59:50,297 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:50,326 - User started looking away.
+2025-04-22 03:59:50,397 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:59:50,461 - User started looking away.
+2025-04-22 03:59:50,495 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:50,531 - User started looking away.
+2025-04-22 03:59:51,398 - User refocused after 0.87 seconds of looking away.
+2025-04-22 03:59:51,429 - User started looking away.
+2025-04-22 03:59:51,463 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:51,502 - User started looking away.
+2025-04-22 03:59:51,764 - User refocused after 0.26 seconds of looking away.
+2025-04-22 03:59:52,500 - User started looking away.
+2025-04-22 03:59:52,527 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:53,499 - User started looking away.
+2025-04-22 03:59:53,593 - User refocused after 0.09 seconds of looking away.
+2025-04-22 03:59:53,631 - User started looking away.
+2025-04-22 03:59:53,797 - User refocused after 0.17 seconds of looking away.
+2025-04-22 03:59:53,864 - User started looking away.
+2025-04-22 03:59:53,964 - User refocused after 0.10 seconds of looking away.
+2025-04-22 03:59:54,031 - User started looking away.
+2025-04-22 03:59:54,334 - User refocused after 0.30 seconds of looking away.
+2025-04-22 03:59:54,365 - User started looking away.
+2025-04-22 03:59:54,398 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:54,435 - User started looking away.
+2025-04-22 03:59:54,465 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:54,631 - User started looking away.
+2025-04-22 03:59:54,666 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:54,696 - User started looking away.
+2025-04-22 03:59:54,770 - User refocused after 0.07 seconds of looking away.
+2025-04-22 03:59:54,798 - User started looking away.
+2025-04-22 03:59:54,830 - User refocused after 0.03 seconds of looking away.
+2025-04-22 03:59:54,864 - User started looking away.
+2025-04-22 03:59:57,229 - User refocused after 2.37 seconds of looking away.
+2025-04-22 03:59:57,864 - User started looking away.
+2025-04-22 03:59:57,901 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:58,165 - User started looking away.
+2025-04-22 03:59:58,206 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:58,364 - User started looking away.
+2025-04-22 03:59:58,403 - User refocused after 0.04 seconds of looking away.
+2025-04-22 03:59:58,432 - User started looking away.
+2025-04-22 03:59:58,600 - User refocused after 0.17 seconds of looking away.
+2025-04-22 04:00:01,304 - User started looking away.
+2025-04-22 04:00:01,331 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:01,568 - User started looking away.
+2025-04-22 04:00:01,666 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:02,241 - User started looking away.
+2025-04-22 04:00:02,300 - User refocused after 0.06 seconds of looking away.
+2025-04-22 04:00:02,334 - User started looking away.
+2025-04-22 04:00:02,368 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:04,101 - User started looking away.
+2025-04-22 04:00:04,202 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:04,711 - User started looking away.
+2025-04-22 04:00:04,735 - User refocused after 0.02 seconds of looking away.
+2025-04-22 04:00:05,003 - User started looking away.
+2025-04-22 04:00:05,037 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:05,134 - User started looking away.
+2025-04-22 04:00:05,175 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:09,402 - User started looking away.
+2025-04-22 04:00:09,434 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:10,037 - User started looking away.
+2025-04-22 04:00:10,104 - User refocused after 0.07 seconds of looking away.
+2025-04-22 04:00:10,137 - User started looking away.
+2025-04-22 04:00:10,237 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:10,303 - User started looking away.
+2025-04-22 04:00:10,336 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:13,544 - User started looking away.
+2025-04-22 04:00:13,607 - User refocused after 0.06 seconds of looking away.
+2025-04-22 04:00:13,841 - User started looking away.
+2025-04-22 04:00:13,907 - User refocused after 0.07 seconds of looking away.
+2025-04-22 04:00:13,972 - User started looking away.
+2025-04-22 04:00:15,810 - User refocused after 1.84 seconds of looking away.
+2025-04-22 04:00:16,239 - User started looking away.
+2025-04-22 04:00:16,273 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:17,407 - User started looking away.
+2025-04-22 04:00:17,444 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:18,142 - User started looking away.
+2025-04-22 04:00:18,243 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:19,480 - User started looking away.
+2025-04-22 04:00:19,508 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:19,544 - User started looking away.
+2025-04-22 04:00:19,580 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:19,707 - User started looking away.
+2025-04-22 04:00:19,744 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:19,839 - User started looking away.
+2025-04-22 04:00:20,142 - User refocused after 0.30 seconds of looking away.
+2025-04-22 04:00:20,309 - User started looking away.
+2025-04-22 04:00:20,344 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:20,443 - User started looking away.
+2025-04-22 04:00:20,512 - User refocused after 0.07 seconds of looking away.
+2025-04-22 04:00:20,542 - User started looking away.
+2025-04-22 04:00:20,576 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:21,546 - User started looking away.
+2025-04-22 04:00:21,677 - User refocused after 0.13 seconds of looking away.
+2025-04-22 04:00:22,444 - User started looking away.
+2025-04-22 04:00:22,477 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:22,614 - User started looking away.
+2025-04-22 04:00:23,079 - User refocused after 0.46 seconds of looking away.
+2025-04-22 04:00:23,116 - User started looking away.
+2025-04-22 04:00:23,182 - User refocused after 0.07 seconds of looking away.
+2025-04-22 04:00:23,213 - User started looking away.
+2025-04-22 04:00:23,244 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:23,546 - User started looking away.
+2025-04-22 04:00:23,682 - User refocused after 0.14 seconds of looking away.
+2025-04-22 04:00:25,745 - User started looking away.
+2025-04-22 04:00:25,785 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:26,148 - User started looking away.
+2025-04-22 04:00:26,211 - User refocused after 0.06 seconds of looking away.
+2025-04-22 04:00:26,282 - User started looking away.
+2025-04-22 04:00:26,310 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:27,283 - User started looking away.
+2025-04-22 04:00:27,347 - User refocused after 0.06 seconds of looking away.
+2025-04-22 04:00:30,350 - User started looking away.
+2025-04-22 04:00:30,382 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:30,649 - User started looking away.
+2025-04-22 04:00:30,686 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:30,813 - User started looking away.
+2025-04-22 04:00:30,848 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:32,986 - User started looking away.
+2025-04-22 04:00:33,016 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:33,149 - User started looking away.
+2025-04-22 04:00:33,184 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:33,355 - User started looking away.
+2025-04-22 04:00:33,449 - User refocused after 0.09 seconds of looking away.
+2025-04-22 04:00:33,784 - User started looking away.
+2025-04-22 04:00:33,814 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:36,689 - User started looking away.
+2025-04-22 04:00:36,790 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:36,848 - User started looking away.
+2025-04-22 04:00:36,885 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:36,919 - User started looking away.
+2025-04-22 04:00:37,188 - User refocused after 0.27 seconds of looking away.
+2025-04-22 04:00:37,219 - User started looking away.
+2025-04-22 04:00:37,415 - User refocused after 0.20 seconds of looking away.
+2025-04-22 04:00:37,750 - User started looking away.
+2025-04-22 04:00:37,785 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:38,347 - User started looking away.
+2025-04-22 04:00:38,389 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:38,486 - User started looking away.
+2025-04-22 04:00:38,587 - User refocused after 0.10 seconds of looking away.
+2025-04-22 04:00:38,786 - User started looking away.
+2025-04-22 04:00:38,815 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:38,953 - User started looking away.
+2025-04-22 04:00:38,985 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:39,022 - User started looking away.
+2025-04-22 04:00:39,051 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:39,121 - User started looking away.
+2025-04-22 04:00:39,361 - User refocused after 0.24 seconds of looking away.
+2025-04-22 04:00:39,522 - User started looking away.
+2025-04-22 04:00:42,387 - User refocused after 2.87 seconds of looking away.
+2025-04-22 04:00:42,419 - User started looking away.
+2025-04-22 04:00:42,720 - User refocused after 0.30 seconds of looking away.
+2025-04-22 04:00:42,759 - User started looking away.
+2025-04-22 04:00:42,954 - User refocused after 0.20 seconds of looking away.
+2025-04-22 04:00:50,859 - User started looking away.
+2025-04-22 04:00:50,898 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:51,060 - User started looking away.
+2025-04-22 04:00:51,093 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:51,262 - User started looking away.
+2025-04-22 04:00:51,293 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:51,659 - User started looking away.
+2025-04-22 04:00:51,697 - User refocused after 0.04 seconds of looking away.
+2025-04-22 04:00:52,291 - User started looking away.
+2025-04-22 04:00:52,323 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:52,564 - User started looking away.
+2025-04-22 04:00:52,624 - User refocused after 0.06 seconds of looking away.
+2025-04-22 04:00:52,661 - User started looking away.
+2025-04-22 04:00:53,125 - User refocused after 0.46 seconds of looking away.
+2025-04-22 04:00:53,227 - User started looking away.
+2025-04-22 04:00:53,261 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:53,399 - User started looking away.
+2025-04-22 04:00:53,425 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:53,464 - User started looking away.
+2025-04-22 04:00:53,824 - User refocused after 0.36 seconds of looking away.
+2025-04-22 04:00:53,864 - User started looking away.
+2025-04-22 04:00:54,224 - User refocused after 0.36 seconds of looking away.
+2025-04-22 04:00:54,261 - User started looking away.
+2025-04-22 04:00:54,395 - User refocused after 0.13 seconds of looking away.
+2025-04-22 04:00:54,464 - User started looking away.
+2025-04-22 04:00:54,493 - User refocused after 0.03 seconds of looking away.
+2025-04-22 04:00:55,199 - User started looking away.
+2025-04-22 04:00:55,228 - User refocused after 0.03 seconds of looking away.

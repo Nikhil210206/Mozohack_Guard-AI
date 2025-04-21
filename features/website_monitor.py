@@ -3,6 +3,7 @@ import os
 import time
 import subprocess
 from datetime import datetime
+
 log_file_path = "website_usage_logs.txt"
 
 def log_event(message):
@@ -38,22 +39,22 @@ def get_safari_tabs():
         log_event(f"Error running AppleScript: {e}")
         return []
 
-def monitor_website_usage():
-    start_message = "🚨 Guard AI Monitoring Started!"
-    print(start_message)
-    log_event(start_message)
-
+def run_website_monitor():
     print("Monitoring website usage... Press Ctrl+C to stop.")
-    while True:
-        if is_safari_open():
-            print("Safari is open.")
-            log_event("Safari is open.")
-            open_tabs = get_safari_tabs()
-            print(f"Open tabs in Safari: {open_tabs}")
-            log_event(f"Open tabs in Safari: {open_tabs}")
-        else:
-            print("Safari is not open.")
-            log_event("Safari is not open.")
-        time.sleep(5)  
-if __name__ == "__main__":
-    monitor_website_usage()
+    log_event("🚨 Guard AI Monitoring Started!")
+
+    try:
+        while True:
+            if is_safari_open():
+                print("Safari is open.")
+                log_event("Safari is open.")
+                open_tabs = get_safari_tabs()
+                print(f"Open tabs in Safari: {open_tabs}")
+                log_event(f"Open tabs in Safari: {open_tabs}")
+            else:
+                print("Safari is not open.")
+                log_event("Safari is not open.")
+            time.sleep(5)
+    except KeyboardInterrupt:
+        print("Monitoring stopped.")
+        log_event("Monitoring stopped.")
