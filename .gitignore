@@ -1,3 +1,6 @@
 guardai-venv/
 __pycache__/
 *.pyc
+guardai-venv/
+__pycache__/
+*.pyc
