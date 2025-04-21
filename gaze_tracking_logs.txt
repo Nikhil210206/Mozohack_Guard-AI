@@ -1,0 +1,401 @@
+2025-04-21 21:27:06,986 - User started looking away.
+2025-04-21 21:27:07,093 - User refocused after 0.11 seconds of looking away.
+2025-04-21 21:27:07,986 - User started looking away.
+2025-04-21 21:27:08,017 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:08,524 - User started looking away.
+2025-04-21 21:27:08,658 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:08,922 - User started looking away.
+2025-04-21 21:27:09,123 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:09,192 - User started looking away.
+2025-04-21 21:27:09,323 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:09,725 - User started looking away.
+2025-04-21 21:27:09,793 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:09,857 - User started looking away.
+2025-04-21 21:27:10,324 - User refocused after 0.47 seconds of looking away.
+2025-04-21 21:27:10,592 - User started looking away.
+2025-04-21 21:27:10,657 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:10,792 - User started looking away.
+2025-04-21 21:27:10,857 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:10,927 - User started looking away.
+2025-04-21 21:27:13,721 - User refocused after 2.79 seconds of looking away.
+2025-04-21 21:27:14,486 - User started looking away.
+2025-04-21 21:27:14,522 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:27:18,018 - User started looking away.
+2025-04-21 21:27:18,151 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:18,222 - User started looking away.
+2025-04-21 21:27:18,323 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:19,118 - User started looking away.
+2025-04-21 21:27:19,322 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:19,758 - User started looking away.
+2025-04-21 21:27:19,961 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:20,053 - User started looking away.
+2025-04-21 21:27:20,291 - User refocused after 0.24 seconds of looking away.
+2025-04-21 21:27:20,365 - User started looking away.
+2025-04-21 21:27:20,524 - User refocused after 0.16 seconds of looking away.
+2025-04-21 21:27:20,622 - User started looking away.
+2025-04-21 21:27:22,468 - User refocused after 1.85 seconds of looking away.
+2025-04-21 21:27:23,732 - User started looking away.
+2025-04-21 21:27:23,798 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:23,867 - User started looking away.
+2025-04-21 21:27:24,068 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:24,198 - User started looking away.
+2025-04-21 21:27:24,265 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:25,025 - User started looking away.
+2025-04-21 21:27:25,128 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:25,159 - User started looking away.
+2025-04-21 21:27:25,224 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:25,328 - User started looking away.
+2025-04-21 21:27:25,399 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:25,462 - User started looking away.
+2025-04-21 21:27:25,490 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:25,665 - User started looking away.
+2025-04-21 21:27:25,689 - User refocused after 0.02 seconds of looking away.
+2025-04-21 21:27:26,266 - User started looking away.
+2025-04-21 21:27:26,334 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:27,134 - User started looking away.
+2025-04-21 21:27:27,200 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:28,499 - User started looking away.
+2025-04-21 21:27:28,568 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:28,633 - User started looking away.
+2025-04-21 21:27:29,134 - User refocused after 0.50 seconds of looking away.
+2025-04-21 21:27:29,401 - User started looking away.
+2025-04-21 21:27:29,596 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:30,632 - User started looking away.
+2025-04-21 21:27:30,835 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:30,900 - User started looking away.
+2025-04-21 21:27:31,700 - User refocused after 0.80 seconds of looking away.
+2025-04-21 21:27:31,728 - User started looking away.
+2025-04-21 21:27:32,125 - User refocused after 0.40 seconds of looking away.
+2025-04-21 21:27:32,232 - User started looking away.
+2025-04-21 21:27:32,336 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:32,406 - User started looking away.
+2025-04-21 21:27:32,471 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:32,537 - User started looking away.
+2025-04-21 21:27:32,602 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:33,406 - User started looking away.
+2025-04-21 21:27:34,198 - User refocused after 0.79 seconds of looking away.
+2025-04-21 21:27:34,267 - User started looking away.
+2025-04-21 21:27:34,402 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:34,535 - User started looking away.
+2025-04-21 21:27:34,599 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:34,934 - User started looking away.
+2025-04-21 21:27:35,696 - User refocused after 0.76 seconds of looking away.
+2025-04-21 21:27:36,630 - User started looking away.
+2025-04-21 21:27:36,837 - User refocused after 0.21 seconds of looking away.
+2025-04-21 21:27:37,804 - User started looking away.
+2025-04-21 21:27:37,872 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:37,942 - User started looking away.
+2025-04-21 21:27:38,006 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:38,436 - User started looking away.
+2025-04-21 21:27:38,502 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:27:38,531 - User started looking away.
+2025-04-21 21:27:39,036 - User refocused after 0.51 seconds of looking away.
+2025-04-21 21:27:39,061 - User started looking away.
+2025-04-21 21:27:39,100 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:27:39,132 - User started looking away.
+2025-04-21 21:27:39,266 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:39,301 - User started looking away.
+2025-04-21 21:27:39,799 - User refocused after 0.50 seconds of looking away.
+2025-04-21 21:27:39,833 - User started looking away.
+2025-04-21 21:27:40,436 - User refocused after 0.60 seconds of looking away.
+2025-04-21 21:27:40,969 - User started looking away.
+2025-04-21 21:27:41,137 - User refocused after 0.17 seconds of looking away.
+2025-04-21 21:27:41,169 - User started looking away.
+2025-04-21 21:27:41,269 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:41,301 - User started looking away.
+2025-04-21 21:27:41,665 - User refocused after 0.36 seconds of looking away.
+2025-04-21 21:27:41,704 - User started looking away.
+2025-04-21 21:27:42,206 - User refocused after 0.50 seconds of looking away.
+2025-04-21 21:27:42,464 - User started looking away.
+2025-04-21 21:27:42,803 - User refocused after 0.34 seconds of looking away.
+2025-04-21 21:27:42,836 - User started looking away.
+2025-04-21 21:27:43,034 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:43,074 - User started looking away.
+2025-04-21 21:27:43,469 - User refocused after 0.40 seconds of looking away.
+2025-04-21 21:27:44,240 - User started looking away.
+2025-04-21 21:27:44,304 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:44,336 - User started looking away.
+2025-04-21 21:27:44,437 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:44,469 - User started looking away.
+2025-04-21 21:27:44,533 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:27:44,599 - User started looking away.
+2025-04-21 21:27:44,838 - User refocused after 0.24 seconds of looking away.
+2025-04-21 21:27:44,864 - User started looking away.
+2025-04-21 21:27:44,902 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:27:44,938 - User started looking away.
+2025-04-21 21:27:44,969 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:45,037 - User started looking away.
+2025-04-21 21:27:45,071 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:45,169 - User started looking away.
+2025-04-21 21:27:45,204 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:45,236 - User started looking away.
+2025-04-21 21:27:45,272 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:27:45,437 - User started looking away.
+2025-04-21 21:27:45,537 - User refocused after 0.10 seconds of looking away.
+2025-04-21 21:27:45,573 - User started looking away.
+2025-04-21 21:27:45,760 - User refocused after 0.19 seconds of looking away.
+2025-04-21 21:27:45,821 - User started looking away.
+2025-04-21 21:27:50,844 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:50,917 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:50,982 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,046 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,113 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,180 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,245 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,314 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,382 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,447 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,516 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,582 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,646 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,716 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,779 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,847 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,914 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:51,974 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,008 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,038 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,079 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,147 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,212 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,281 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,343 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,374 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,407 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,442 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,468 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,508 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,539 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,578 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,645 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,711 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,780 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,846 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,916 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:52,986 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:53,047 - User has been looking away for more than 5 seconds.
+2025-04-21 21:27:53,116 - User refocused after 7.30 seconds of looking away.
+2025-04-21 21:27:53,180 - User started looking away.
+2025-04-21 21:27:54,005 - User refocused after 0.83 seconds of looking away.
+2025-04-21 21:27:54,111 - User started looking away.
+2025-04-21 21:27:54,140 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:54,246 - User started looking away.
+2025-04-21 21:27:54,273 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:27:54,315 - User started looking away.
+2025-04-21 21:27:54,445 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:27:54,541 - User started looking away.
+2025-04-21 21:27:54,745 - User refocused after 0.20 seconds of looking away.
+2025-04-21 21:27:54,775 - User started looking away.
+2025-04-21 21:27:57,519 - User refocused after 2.74 seconds of looking away.
+2025-04-21 21:27:57,650 - User started looking away.
+2025-04-21 21:27:58,680 - User refocused after 1.03 seconds of looking away.
+2025-04-21 21:27:58,747 - User started looking away.
+2025-04-21 21:27:59,347 - User refocused after 0.60 seconds of looking away.
+2025-04-21 21:27:59,410 - User started looking away.
+2025-04-21 21:28:03,157 - User refocused after 3.75 seconds of looking away.
+2025-04-21 21:28:03,223 - User started looking away.
+2025-04-21 21:28:03,628 - User refocused after 0.40 seconds of looking away.
+2025-04-21 21:28:03,686 - User started looking away.
+2025-04-21 21:28:04,596 - User refocused after 0.91 seconds of looking away.
+2025-04-21 21:28:04,657 - User started looking away.
+2025-04-21 21:28:04,793 - User refocused after 0.14 seconds of looking away.
+2025-04-21 21:28:04,884 - User started looking away.
+2025-04-21 21:28:05,224 - User refocused after 0.34 seconds of looking away.
+2025-04-21 21:28:05,251 - User started looking away.
+2025-04-21 21:28:10,259 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,295 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,321 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,358 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,393 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,426 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,459 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,495 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,522 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,562 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,591 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,626 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,659 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,696 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,721 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,761 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,791 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,829 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,855 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,893 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,925 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,961 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:10,989 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,029 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,054 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,095 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,122 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,160 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,193 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,228 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,256 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,298 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,366 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,426 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,457 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,492 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,524 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,559 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,592 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,627 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,659 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,692 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,726 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,760 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,795 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,827 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,861 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,895 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,926 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,962 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:11,993 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,031 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,099 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,165 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,235 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,299 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,367 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,431 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,501 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,567 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,631 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,697 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,764 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,833 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,902 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:12,966 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,032 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,101 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,172 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,236 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,299 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,366 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,441 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,505 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,567 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,635 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,702 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,767 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,837 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,904 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:13,969 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,035 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,101 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,169 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,238 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,304 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,371 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,436 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,502 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,570 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,635 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,705 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,767 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,843 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,903 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:14,970 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,036 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,104 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,169 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,235 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,306 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,369 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,437 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,503 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,569 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,636 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,703 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,770 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,839 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,900 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:15,971 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,041 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,108 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,171 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,237 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,306 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,369 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,438 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,502 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,571 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,636 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,703 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,771 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,833 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,903 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:16,967 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,040 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,100 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,171 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,238 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,302 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,371 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,439 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,503 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,572 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,637 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,705 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,770 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,858 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,916 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:17,986 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,052 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,117 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,186 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,254 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,321 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,388 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,456 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,515 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,587 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,651 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,718 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,788 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,851 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,918 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:18,988 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:19,053 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:19,122 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:19,189 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:19,258 - User has been looking away for more than 5 seconds.
+2025-04-21 21:28:19,301 - User refocused after 14.05 seconds of looking away.
+2025-04-21 21:28:19,330 - User started looking away.
+2025-04-21 21:28:19,978 - User refocused after 0.65 seconds of looking away.
+2025-04-21 21:28:20,203 - User started looking away.
+2025-04-21 21:28:20,336 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:28:20,361 - User started looking away.
+2025-04-21 21:28:20,466 - User refocused after 0.11 seconds of looking away.
+2025-04-21 21:28:20,498 - User started looking away.
+2025-04-21 21:28:24,644 - User refocused after 4.15 seconds of looking away.
+2025-04-21 21:28:25,032 - User started looking away.
+2025-04-21 21:28:25,105 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:28:25,169 - User started looking away.
+2025-04-21 21:28:25,204 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:28:25,233 - User started looking away.
+2025-04-21 21:28:25,841 - User refocused after 0.61 seconds of looking away.
+2025-04-21 21:28:25,903 - User started looking away.
+2025-04-21 21:28:25,966 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:28:26,304 - User started looking away.
+2025-04-21 21:28:26,374 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:28:26,438 - User started looking away.
+2025-04-21 21:28:26,468 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:28:26,534 - User started looking away.
+2025-04-21 21:28:26,573 - User refocused after 0.04 seconds of looking away.
+2025-04-21 21:28:26,600 - User started looking away.
+2025-04-21 21:28:28,711 - User refocused after 2.11 seconds of looking away.
+2025-04-21 21:28:30,646 - User started looking away.
+2025-04-21 21:28:30,710 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:28:31,512 - User started looking away.
+2025-04-21 21:28:31,577 - User refocused after 0.06 seconds of looking away.
+2025-04-21 21:28:31,646 - User started looking away.
+2025-04-21 21:28:31,778 - User refocused after 0.13 seconds of looking away.
+2025-04-21 21:28:31,847 - User started looking away.
+2025-04-21 21:28:31,914 - User refocused after 0.07 seconds of looking away.
+2025-04-21 21:28:33,110 - User started looking away.
+2025-04-21 21:28:33,136 - User refocused after 0.03 seconds of looking away.
+2025-04-21 21:28:33,246 - User started looking away.
+2025-04-21 21:28:33,380 - User refocused after 0.13 seconds of looking away.
