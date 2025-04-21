@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+  }
+  
+  header {
+    background: #2d3748;
+    color: #fff;
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  section#features {
+    padding: 2rem;
+  }
+  
+  .feature {
+    background: #fff;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
+  
+  footer {
+    text-align: center;
+    padding: 1rem;
+    background: #2d3748;
+    color: #fff;
+  }
+  
