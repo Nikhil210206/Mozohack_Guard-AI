@@ -31,4 +31,28 @@ body {
     background: #2d3748;
     color: #fff;
   }
+  nav {
+    background-color: #16202e;
+    padding: 1rem;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.2s ease;
+  }
+  
+  nav a:hover {
+    color: #ffcc00;
+  }
   
