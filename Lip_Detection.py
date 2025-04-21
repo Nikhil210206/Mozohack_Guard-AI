@@ -5,7 +5,6 @@ import sounddevice as sd
 import threading
 import logging
 
-# Set up logging
 logging.basicConfig(filename="lip_audio_logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
 
 mp_face_mesh = mp.solutions.face_mesh
@@ -73,14 +72,10 @@ while cap.isOpened():
                 status = "Background Noise Detected"
             else:
                 status = "Not Speaking"
-            
-            # Draw points
             for idx in UPPER_LIP + LOWER_LIP:
                 x = int(landmarks.landmark[idx].x * w)
                 y = int(landmarks.landmark[idx].y * h)
                 cv2.circle(frame, (x, y), 2, (0, 255, 0), -1)
-
-    # Check if status has changed
     if status != previous_status:
         if status == "Speaking":
             logging.info("User started speaking.")
@@ -89,14 +84,11 @@ while cap.isOpened():
         elif status == "Not Speaking":
             logging.info("User stopped speaking.")
         previous_status = status
-
-    # Display status on screen
     color = (0, 255, 0) if status == "Speaking" else (0, 0, 255) if status == "Not Speaking" else (255, 0, 0)
     cv2.putText(frame, status, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, color, 2)
     cv2.imshow("Lip + Audio Detection", frame)
 
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
-
 cap.release()
 cv2.destroyAllWindows()
