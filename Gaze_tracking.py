@@ -6,11 +6,9 @@ import time
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(refine_landmarks=True, max_num_faces=1)
 
-# Eye landmarks (eyeball boundary)
 LEFT_EYE = [362, 385, 387, 263, 373, 380]
 RIGHT_EYE = [33, 160, 158, 133, 153, 144]
 
-# Iris landmarks
 LEFT_IRIS = [474, 475, 476, 477]
 RIGHT_IRIS = [469, 470, 471, 472]
 
@@ -20,20 +18,16 @@ def get_iris_position(landmarks, eye_landmarks, iris_landmarks, frame):
     eye_points = np.array([(int(landmarks[i].x * w), int(landmarks[i].y * h)) for i in eye_landmarks])
     iris_points = np.array([(int(landmarks[i].x * w), int(landmarks[i].y * h)) for i in iris_landmarks])
 
-    # Bounding box of eye
     x_min, y_min = np.min(eye_points, axis=0)
     x_max, y_max = np.max(eye_points, axis=0)
 
-    # Crop the eye region
     eye_region = frame[y_min:y_max, x_min:x_max]
     gray_eye = cv2.cvtColor(eye_region, cv2.COLOR_BGR2GRAY)
     _, threshold_eye = cv2.threshold(gray_eye, 50, 255, cv2.THRESH_BINARY_INV)
 
-    # Find contours
     contours, _ = cv2.findContours(threshold_eye, cv2.RETR_TREE, cv2.CHAIN_APPROX_SIMPLE)
 
     if contours:
-        # Biggest contour is probably iris
         contour = max(contours, key=cv2.contourArea)
         (x, y, w_eye, h_eye) = cv2.boundingRect(contour)
 
@@ -55,8 +49,7 @@ def get_iris_position(landmarks, eye_landmarks, iris_landmarks, frame):
 cap = cv2.VideoCapture(0)
 
 look_away_start = None
-AWAY_THRESHOLD = 2  # Change the threshold to 2 seconds
-
+AWAY_THRESHOLD = 2  
 while True:
     ret, frame = cap.read()
     if not ret:
@@ -75,29 +68,23 @@ while True:
         for face_landmarks in results.multi_face_landmarks:
             left_eye_direction = get_iris_position(face_landmarks.landmark, LEFT_EYE, LEFT_IRIS, frame)
             right_eye_direction = get_iris_position(face_landmarks.landmark, RIGHT_EYE, RIGHT_IRIS, frame)
-
-            # If both eyes same -> final decision
             if left_eye_direction == right_eye_direction:
                 direction = left_eye_direction
             else:
-                direction = "Adjusting..."
-
-            # Draw eye landmarks
+                direction = "looking away !!"
             for idx in LEFT_EYE + RIGHT_EYE + LEFT_IRIS + RIGHT_IRIS:
                 x = int(face_landmarks.landmark[idx].x * w)
                 y = int(face_landmarks.landmark[idx].y * h)
                 cv2.circle(frame, (x, y), 1, (0, 255, 0), -1)
 
-    # Handle timer for warning
     if direction != "Looking Center":
         if look_away_start is None:
             look_away_start = time.time()
         elif time.time() - look_away_start > AWAY_THRESHOLD:
             warning = "⚠ Please focus on screen!"
     else:
-        look_away_start = None  # reset timer
+        look_away_start = None 
 
-    # Display text
     cv2.putText(frame, f"{direction}", (30, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 0), 2)
     if warning:
         cv2.putText(frame, warning, (30, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 0, 255), 3)
