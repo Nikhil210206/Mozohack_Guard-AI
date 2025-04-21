@@ -3,10 +3,17 @@ import mediapipe as mp
 import numpy as np
 import sounddevice as sd
 import threading
+import logging
+
+# Set up logging
+logging.basicConfig(filename="lip_audio_logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
+
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(min_detection_confidence=0.5, min_tracking_confidence=0.5)
+
 UPPER_LIP = [13, 14]
 LOWER_LIP = [17, 18]
+
 LIP_MOVEMENT_THRESHOLD = 2.5  
 SPEAKING_AUDIO_THRESHOLD = 0.01  
 BACKGROUND_NOISE_THRESHOLD = 0.08  
@@ -15,6 +22,8 @@ FS = 44100
 
 audio_detected = False
 background_noise_detected = False
+
+previous_status = "Not Speaking"
 
 def get_lip_distance(landmarks, upper_lip_idx, lower_lip_idx, frame_w, frame_h):
     upper_lip_points = np.array([(landmarks[i].x * frame_w, landmarks[i].y * frame_h) for i in upper_lip_idx])
@@ -64,11 +73,24 @@ while cap.isOpened():
                 status = "Background Noise Detected"
             else:
                 status = "Not Speaking"
+            
+            # Draw points
             for idx in UPPER_LIP + LOWER_LIP:
                 x = int(landmarks.landmark[idx].x * w)
                 y = int(landmarks.landmark[idx].y * h)
                 cv2.circle(frame, (x, y), 2, (0, 255, 0), -1)
 
+    # Check if status has changed
+    if status != previous_status:
+        if status == "Speaking":
+            logging.info("User started speaking.")
+        elif status == "Background Noise Detected":
+            logging.warning("Background noise detected.")
+        elif status == "Not Speaking":
+            logging.info("User stopped speaking.")
+        previous_status = status
+
+    # Display status on screen
     color = (0, 255, 0) if status == "Speaking" else (0, 0, 255) if status == "Not Speaking" else (255, 0, 0)
     cv2.putText(frame, status, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, color, 2)
     cv2.imshow("Lip + Audio Detection", frame)

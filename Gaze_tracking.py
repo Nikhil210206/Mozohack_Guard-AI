@@ -2,6 +2,10 @@ import cv2
 import mediapipe as mp
 import numpy as np
 import time
+import logging
+
+# Set up logging
+logging.basicConfig(filename="gaze_tracking_logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
 
 mp_face_mesh = mp.solutions.face_mesh
 face_mesh = mp_face_mesh.FaceMesh(refine_landmarks=True, max_num_faces=1)
@@ -49,7 +53,10 @@ def get_iris_position(landmarks, eye_landmarks, iris_landmarks, frame):
 cap = cv2.VideoCapture(0)
 
 look_away_start = None
-AWAY_THRESHOLD = 2  
+AWAY_THRESHOLD = 2  # seconds to detect looking away
+LOOK_AWAY_DURATION = 5  # 5 seconds to consider it as a warning
+look_away_time = 0  # time spent looking away
+
 while True:
     ret, frame = cap.read()
     if not ret:
@@ -71,24 +78,34 @@ while True:
             if left_eye_direction == right_eye_direction:
                 direction = left_eye_direction
             else:
-                direction = "looking away !!"
+                direction = "Looking away !!"
             for idx in LEFT_EYE + RIGHT_EYE + LEFT_IRIS + RIGHT_IRIS:
                 x = int(face_landmarks.landmark[idx].x * w)
                 y = int(face_landmarks.landmark[idx].y * h)
                 cv2.circle(frame, (x, y), 1, (0, 255, 0), -1)
 
+    # Check if the person is looking away
     if direction != "Looking Center":
         if look_away_start is None:
             look_away_start = time.time()
+            logging.info("User started looking away.")
         elif time.time() - look_away_start > AWAY_THRESHOLD:
-            warning = "⚠ Please focus on screen!"
+            look_away_time = time.time() - look_away_start
+            if look_away_time > LOOK_AWAY_DURATION:
+                warning = "⚠ Please focus on screen!"
+                logging.warning("User has been looking away for more than 5 seconds.")
     else:
-        look_away_start = None 
+        if look_away_start is not None:
+            look_away_time = time.time() - look_away_start
+            logging.info(f"User refocused after {look_away_time:.2f} seconds of looking away.")
+        look_away_start = None
+        look_away_time = 0  # Reset time when looking center
 
     cv2.putText(frame, f"{direction}", (30, 50), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 255, 0), 2)
     if warning:
         cv2.putText(frame, warning, (30, 100), cv2.FONT_HERSHEY_SIMPLEX, 1.2, (0, 0, 255), 3)
 
+    # Show the frame
     cv2.imshow("Gaze Tracker - Eye Movement", frame)
     if cv2.waitKey(1) & 0xFF == ord("q"):
         break
