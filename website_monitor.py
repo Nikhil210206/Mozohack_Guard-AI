@@ -3,8 +3,6 @@ import os
 import time
 import subprocess
 from datetime import datetime
-
-# File to store the logs
 log_file_path = "website_usage_logs.txt"
 
 def log_event(message):
@@ -37,9 +35,14 @@ def get_safari_tabs():
             return []
     except Exception as e:
         print(f"Error running AppleScript: {e}")
+        log_event(f"Error running AppleScript: {e}")
         return []
 
 def monitor_website_usage():
+    start_message = "🚨 Guard AI Monitoring Started!"
+    print(start_message)
+    log_event(start_message)
+
     print("Monitoring website usage... Press Ctrl+C to stop.")
     while True:
         if is_safari_open():
@@ -51,7 +54,6 @@ def monitor_website_usage():
         else:
             print("Safari is not open.")
             log_event("Safari is not open.")
-        time.sleep(10)  # Check every 10 seconds
-
+        time.sleep(5)  
 if __name__ == "__main__":
     monitor_website_usage()

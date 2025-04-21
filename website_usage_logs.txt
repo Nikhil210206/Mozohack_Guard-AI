@@ -1,4 +1,17 @@
-[2025-04-21 23:03:25] Safari is open.
-[2025-04-21 23:03:25] Open tabs in Safari: ['Clone Git Repo Mac', 'Mozohack_Guard-AI/website_monitor.py at main · Nikhil210206/Mozohack_Guard-AI']
-[2025-04-21 23:03:35] Safari is open.
-[2025-04-21 23:03:35] Open tabs in Safari: ['Clone Git Repo Mac', 'Mozohack_Guard-AI/website_monitor.py at main · Nikhil210206/Mozohack_Guard-AI']
+[2025-04-21 23:20:24] 🚨 Guard AI Monitoring Started!
+[2025-04-21 23:20:24] Safari is open.
+[2025-04-21 23:20:24] Open tabs in Safari: ['Clone Git Repo Mac', 'Nikhil210206/Mozohack_Guard-AI']
+[2025-04-21 23:20:29] Safari is open.
+[2025-04-21 23:20:29] Open tabs in Safari: ['Clone Git Repo Mac', 'Nikhil210206/Mozohack_Guard-AI']
+[2025-04-21 23:20:34] Safari is open.
+[2025-04-21 23:20:34] Open tabs in Safari: ['Clone Git Repo Mac', 'Nikhil210206/Mozohack_Guard-AI']
+[2025-04-21 23:20:39] Safari is open.
+[2025-04-21 23:20:39] Open tabs in Safari: ['Clone Git Repo Mac', 'Nikhil210206/Mozohack_Guard-AI']
+[2025-04-21 23:20:44] Safari is open.
+[2025-04-21 23:20:44] Open tabs in Safari: ['']
+[2025-04-21 23:20:49] Safari is open.
+[2025-04-21 23:20:50] Open tabs in Safari: ['']
+[2025-04-21 23:20:55] Safari is open.
+[2025-04-21 23:20:55] Open tabs in Safari: ['Start Page']
+[2025-04-21 23:21:00] Safari is open.
+[2025-04-21 23:21:00] Open tabs in Safari: ['Start Page']
