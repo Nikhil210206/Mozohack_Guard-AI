@@ -16,39 +16,33 @@ def generate():
         while True:
             ret, frame = cap.read()
             if not ret:
-                print("Failed to capture frame")  
+                print("Failed to capture frame")
                 continue
 
             rgb_frame = cv2.cvtColor(frame, cv2.COLOR_BGR2RGB)
             results = face_mesh.process(rgb_frame)
 
             if results.multi_face_landmarks:
-                print("Face landmarks detected") 
                 for face_landmarks in results.multi_face_landmarks:
                     mp_drawing.draw_landmarks(
                         frame, face_landmarks, mp_face_mesh.FACEMESH_CONTOURS)
 
-                    nose = face_landmarks.landmark[1]
-                    left_eye = face_landmarks.landmark[33]
-                    right_eye = face_landmarks.landmark[263]
+            ret, buffer = cv2.imencode('.jpg', frame)
+            frame = buffer.tobytes()
 
-                    nose_x, nose_y = int(nose.x * frame.shape[1]), int(nose.y * frame.shape[0])
-                    left_eye_x, left_eye_y = int(left_eye.x * frame.shape[1]), int(left_eye.y * frame.shape[0])
-                    right_eye_x, right_eye_y = int(right_eye.x * frame.shape[1]), int(right_eye.y * frame.shape[0])
-
-                    angle = math.atan2(right_eye_y - left_eye_y, right_eye_x - left_eye_x)
-                    angle = math.degrees(angle)
-
-                    if abs(angle) > 10:
-                        cv2.putText(frame, "Alert: Looking Away!", (10, 60), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
-
-            ret, jpeg = cv2.imencode('.jpg', frame)
-            frame_bytes = jpeg.tobytes()
             yield (b'--frame\r\n'
-                   b'Content-Type: image/jpeg\r\n\r\n' + frame_bytes + b'\r\n')
+                   b'Content-Type: image/jpeg\r\n\r\n' + frame + b'\r\n')
 
+
+@app.route('/')
+def index():
+    return render_template('index.html')  # <- This will render a page that shows the video
+
+@app.route('/video_feed')
+def video_feed():
+    return Response(generate(), mimetype='multipart/x-mixed-replace; boundary=frame')
 
 
 if __name__ == '__main__':
     debug_mode = os.getenv('FLASK_DEBUG', '0') == '1'
-    app.run(debug=debug_mode)
+    app.run(host='0.0.0.0', port=5000, debug=debug_mode)
