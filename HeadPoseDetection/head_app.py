@@ -36,7 +36,7 @@ def generate():
 
 @app.route('/')
 def index():
-    return render_template('index.html')  # <- This will render a page that shows the video
+    return render_template('index.html') 
 
 @app.route('/video_feed')
 def video_feed():
