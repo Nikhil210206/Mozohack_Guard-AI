@@ -3,28 +3,178 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Home | Guard AI</title>
-  <link href="style.css" rel="stylesheet">
+  <title>Guard AI | Home</title>
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Rajdhani:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- AOS Animate On Scroll CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
 </head>
 <body>
-    <nav>
-        <ul>
-          <li><a href="index.html">Home</a></li>
-          <li><a href="feature.html">Features</a></li>
-        </ul>
-    </nav>      
+  <!-- Background Grid -->
+  <div class="background-grid full-page-grid"></div>
+
+  <!-- Particle Canvas -->
+  <canvas id="dust-canvas"></canvas>
+
+  <!-- Navigation Bar -->
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="feature.html">Features</a></li>
+    </ul>
+  </nav>
+
+  <!-- Intro Section with Start Button -->
+  <section class="intro-section">
     <header>
-        <h1>Welcome to Guard AI</h1>
-        <p>Your AI-powered solution for secure and fair online exams</p>
+      <h1>Guard - AI</h1>
+      <p>Ai Based Remote Proctoring System</p>
+      <div class="start-button-container">
+        <a href="feature.html" class="start-button">Start Guard AI</a>
+      </div>
     </header>
+  </section>
 
-    <section id="home">
-        <h2>Why Choose Guard AI?</h2>
-        <p>Guard AI ensures secure, fair, and efficient online examinations with cutting-edge AI technologies.</p>
-    </section>
+  <!-- Info Sections -->
+  <section class="info-section">
+    <div class="info-card" data-aos="fade-up" data-aos-duration="1000">
+      <h2>🚨 Problem with Unmonitored Exams</h2>
+      <p>
+        With the explosion of remote education, many institutions rely on online exams. But most of these are held without any real-time proctoring, leading to:
+        <ul>
+          <li>Rampant cheating through multiple devices and collaboration</li>
+          <li>Lack of fairness, undermining the credibility of scores</li>
+          <li>No way to detect impersonation or suspicious behavior</li>
+          <li>Loss of trust in online certifications by employers and universities</li>
+        </ul>
+        The lack of robust monitoring tools compromises academic integrity on a massive scale.
+      </p>
+    </div>
 
-    <footer>
-        <p>© 2025 Guard AI | Made with ❤️ by Team XCoders</p>
-    </footer>
+    <div class="info-card" data-aos="fade-up" data-aos-delay="150" data-aos-duration="1000">
+      <h2>🤖 How Guard AI Works</h2>
+      <p>
+        Guard AI is an advanced, multi-layered proctoring system that uses artificial intelligence to:
+        <ul>
+          <li>Detect head, eye, and lip movements to prevent external communication</li>
+          <li>Monitor screen activity for suspicious app usage</li>
+          <li>Analyze real-time audio for unauthorized voices or noise</li>
+          <li>Check device ports (like USBs) to catch unauthorized hardware</li>
+          <li>Generate timestamped reports with flagged anomalies</li>
+        </ul>
+        All while respecting user privacy and being lightweight enough to deploy anywhere.
+      </p>
+    </div>
+
+    <div class="info-card" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+      <h2>🌍 Real-World Impacts</h2>
+      <p>
+        Guard AI doesn't just detect cheating—it transforms how remote exams are conducted:
+        <ul>
+          <li>Restores trust in online exams and remote education systems</li>
+          <li>Ensures fair assessments even in low-resource environments</li>
+          <li>Scales easily from classrooms to corporates to government exams</li>
+          <li>Supports global accessibility without expensive infrastructure</li>
+          <li>Enables secure certifications for universities, employers, and institutions</li>
+        </ul>
+      </p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Guard AI | Made with ❤️ by Team XCoders</p>
+  </footer>
+
+  <!-- AOS Animate On Scroll JS -->
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
+<!-- Particle Dust Animation -->
+<script>
+  const canvas = document.getElementById('dust-canvas');
+  const ctx = canvas.getContext('2d');
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight;
+
+  let particles = [];
+  const colors = ['#ff5cb3', '#fdf5c9']; // Neon pink and gold
+
+  class Particle {
+    constructor() {
+      this.reset();
+    }
+
+    reset() {
+      this.x = Math.random() * canvas.width;
+      this.y = canvas.height + Math.random() * 100;
+      this.size = Math.random() * 3 + 1;
+      this.speed = Math.random() * 1 + 0.5;
+      this.color = colors[Math.floor(Math.random() * colors.length)];
+      this.opacity = Math.random() * 0.7 + 0.3;
+    }
+
+    update() {
+      this.y -= this.speed;
+      if (this.y < -this.size) this.reset();
+    }
+
+    draw() {
+      ctx.beginPath();
+      ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
+      ctx.fillStyle = this.color;
+      ctx.globalAlpha = this.opacity;
+      ctx.fill();
+      ctx.globalAlpha = 1;
+    }
+  }
+
+  for (let i = 0; i < 100; i++) {
+    particles.push(new Particle());
+  }
+
+  function animateParticles() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    for (let p of particles) {
+      p.update();
+      p.draw();
+    }
+    requestAnimationFrame(animateParticles);
+  }
+
+  animateParticles();
+
+  // Reversible scroll trigger for particle canvas
+  const firstCard = document.querySelector('.info-card');
+  const observer = new IntersectionObserver(
+    (entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          // Hide canvas
+          canvas.style.transition = 'opacity 1s ease';
+          canvas.style.opacity = '0';
+        } else {
+          // Show canvas again when card is out of view (scrolling back up)
+          canvas.style.transition = 'opacity 1s ease';
+          canvas.style.opacity = '1';
+        }
+      });
+    },
+    { threshold: 0.2 }
+  );
+
+  if (firstCard) observer.observe(firstCard);
+
+  window.addEventListener('resize', () => {
+    canvas.width = window.innerWidth;
+    canvas.height = window.innerHeight;
+  });
+</script>
+
 </body>
 </html>
