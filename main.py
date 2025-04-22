@@ -10,9 +10,17 @@ import time
 import subprocess
 from datetime import datetime
 import logging
+from fpdf import FPDF
+import textwrap
 
 # Logging setup
+os.makedirs("logs", exist_ok=True)
 logging.basicConfig(filename="logs/guard_ai_logs.txt", level=logging.INFO, format="%(asctime)s - %(message)s")
+
+# Paths
+log_file_path = "website_usage_logs.txt"
+session_report_path = "logs/session_report.txt"
+final_pdf_report_path = "logs/final_report.pdf"
 
 # Lip Detection Constants
 UPPER_LIP = [13, 14]
@@ -28,22 +36,24 @@ LEFT_EYE = [362, 385, 387, 263, 373, 380]
 RIGHT_EYE = [33, 160, 158, 133, 153, 144]
 LEFT_IRIS = [474, 475, 476, 477]
 RIGHT_IRIS = [469, 470, 471, 472]
-AWAY_THRESHOLD = 2
 LOOK_AWAY_DURATION = 5
-
-# Website Monitor Constants
-log_file_path = "website_usage_logs.txt"
 
 # Global Variables
 audio_detected = False
 background_noise_detected = False
-frame_queue = queue.Queue()  # Queue to share frames between threads
+frame_queue = queue.Queue()
+event_log = []
+logged_tabs = set()
 
 # Helper Functions
 def log_event(message):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     with open(log_file_path, "a") as f:
         f.write(f"[{timestamp}] {message}\n")
+
+def log_session_event(event_type, start_time, end_time):
+    with open(session_report_path, "a") as f:
+        f.write(f"{event_type} | {start_time} | {end_time}\n")
 
 def is_safari_open():
     for proc in psutil.process_iter(['pid', 'name']):
@@ -72,6 +82,82 @@ def get_safari_tabs():
         print(f"Error running AppleScript: {e}")
         log_event(f"Error running AppleScript: {e}")
         return []
+
+def create_pdf_report(txt_path, pdf_path):
+    pdf = FPDF()
+    pdf.add_page()
+    
+    # Title
+    pdf.set_font("Arial", 'B', size=16)
+    pdf.cell(0, 10, "Guard - AI Report", ln=True, align='C')
+    pdf.ln(10)
+
+    pdf.set_font("Arial", size=12)
+
+    website_events = []
+    speaking_events = []
+    looking_events = []
+
+    try:
+        with open(txt_path, "r", encoding="utf-8") as file:
+            for line in file:
+                line = line.strip()
+                if not line:
+                    continue
+
+                if line.startswith("Website Activity"):
+                    if "Tabs:" in line:
+                        tabs_part = line.split("Tabs:")[-1].strip()
+                        tabs = [t.strip() for t in tabs_part.split(",")]
+                        time_str = line.split("|")[1].strip()
+                        for tab in tabs:
+                            if tab not in logged_tabs:
+                                logged_tabs.add(tab)
+                                website_events.append(f"New Tab Opened: {tab} at {time_str}")
+                elif line.startswith("Speaking") and len(speaking_events) < 5:
+                    speaking_events.append(line.replace("|", "-"))
+                elif line.startswith("Looking Away") and len(looking_events) < 5:
+                    looking_events.append(line.replace("|", "-"))
+
+        # Section: Website Tracking
+        pdf.set_font("Arial", 'B', 14)
+        pdf.cell(0, 10, "Website Tracking", ln=True)
+        pdf.set_font("Arial", size=12)
+        if website_events:
+            for event in website_events:
+                wrapped = textwrap.wrap(event, width=90)
+                for w in wrapped:
+                    pdf.cell(0, 10, txt=w, ln=True)
+        else:
+            pdf.cell(0, 10, "No new/reopened tabs detected.", ln=True)
+
+        # Section: Speaking
+        pdf.ln(5)
+        pdf.set_font("Arial", 'B', 14)
+        pdf.cell(0, 10, "Speaking Events", ln=True)
+        pdf.set_font("Arial", size=12)
+        if speaking_events:
+            for event in speaking_events:
+                pdf.cell(0, 10, txt=event, ln=True)
+        else:
+            pdf.cell(0, 10, "No speaking events recorded.", ln=True)
+
+        # Section: Looking Away
+        pdf.ln(5)
+        pdf.set_font("Arial", 'B', 14)
+        pdf.cell(0, 10, "Looking Away Events", ln=True)
+        pdf.set_font("Arial", size=12)
+        if looking_events:
+            for event in looking_events:
+                pdf.cell(0, 10, txt=event, ln=True)
+        else:
+            pdf.cell(0, 10, "No distractions recorded.", ln=True)
+
+        pdf.output(pdf_path)
+        print(f"✅ Final report saved to {pdf_path}")
+
+    except Exception as e:
+        print(f"❌ PDF creation error: {e}")
 
 # Lip Detection
 def get_lip_distance(landmarks, upper_lip_idx, lower_lip_idx, frame_w, frame_h):
@@ -122,7 +208,7 @@ def get_iris_position(landmarks, eye_landmarks, iris_landmarks, frame):
             return "Looking Center"
     return "Looking Center"
 
-# Combined Lip Detection and Gaze Tracking
+# Combined Detection
 def run_combined_detection():
     print("[Combined Detection] Started")
     face_mesh = mp.solutions.face_mesh.FaceMesh(refine_landmarks=True, max_num_faces=1)
@@ -130,6 +216,7 @@ def run_combined_detection():
     cap = cv2.VideoCapture(0)
     previous_distance = 0
     look_away_start = None
+    speaking_start = None
 
     while cap.isOpened():
         ret, frame = cap.read()
@@ -146,42 +233,41 @@ def run_combined_detection():
 
         if result.multi_face_landmarks:
             for landmarks in result.multi_face_landmarks:
-                # Lip Detection
                 distance = get_lip_distance(landmarks.landmark, UPPER_LIP, LOWER_LIP, w, h)
                 lip_moving = abs(distance - previous_distance) > LIP_MOVEMENT_THRESHOLD
                 previous_distance = distance
+                current_time = datetime.now().strftime("%H:%M:%S")
+
                 if lip_moving and audio_detected:
                     status = "Speaking"
-                elif background_noise_detected and not lip_moving:
-                    status = "Background Noise Detected"
+                    if speaking_start is None:
+                        speaking_start = current_time
                 else:
-                    status = "Not Speaking"
+                    if speaking_start is not None:
+                        log_session_event("Speaking", speaking_start, current_time)
+                        speaking_start = None
 
-                # Gaze Tracking
                 left_eye_direction = get_iris_position(landmarks.landmark, LEFT_EYE, LEFT_IRIS, frame)
                 right_eye_direction = get_iris_position(landmarks.landmark, RIGHT_EYE, RIGHT_IRIS, frame)
                 direction = left_eye_direction if left_eye_direction == right_eye_direction else "Looking Away"
 
-        # Handle "Looking Away" warning
         if direction != "Looking Center":
             if look_away_start is None:
-                look_away_start = time.time()
-                logging.info("User started looking away.")
-            elif time.time() - look_away_start > LOOK_AWAY_DURATION:
+                look_away_start = datetime.now().strftime("%H:%M:%S")
+                start_time_away = look_away_start
+            elif (datetime.now() - datetime.strptime(start_time_away, "%H:%M:%S")).seconds > LOOK_AWAY_DURATION:
                 warning = "⚠ Please focus on screen!"
-                logging.warning("User has been looking away for more than 5 seconds.")
         else:
             if look_away_start is not None:
-                logging.info(f"User refocused after {time.time() - look_away_start:.2f} seconds of looking away.")
+                end_time_away = datetime.now().strftime("%H:%M:%S")
+                log_session_event("Looking Away", start_time_away, end_time_away)
             look_away_start = None
 
-        # Add text to the frame
         cv2.putText(frame, f"Lip Status: {status}", (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 255, 0), 2)
         cv2.putText(frame, f"Gaze Direction: {direction}", (10, 70), cv2.FONT_HERSHEY_SIMPLEX, 1, (255, 0, 0), 2)
         if warning:
             cv2.putText(frame, warning, (10, 110), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
 
-        # Add the frame to the queue
         if not frame_queue.full():
             frame_queue.put(frame)
 
@@ -197,13 +283,13 @@ def run_website_monitor():
             log_event("Safari is open.")
             open_tabs = get_safari_tabs()
             log_event(f"Open tabs in Safari: {open_tabs}")
-            print(f"Safari is open. Open tabs: {open_tabs}")
+            log_session_event("Website Activity", str(datetime.now().strftime("%H:%M:%S")), "Tabs: " + ", ".join(open_tabs))
         else:
             log_event("Safari is not open.")
-            print("Safari is not open.")
+            log_session_event("Website Activity", str(datetime.now().strftime("%H:%M:%S")), "Safari is not open.")
         time.sleep(5)
 
-# Main Function
+# Main
 if __name__ == "__main__":
     combined_thread = threading.Thread(target=run_combined_detection, daemon=True)
     website_thread = threading.Thread(target=run_website_monitor, daemon=True)
@@ -216,11 +302,13 @@ if __name__ == "__main__":
         while True:
             if not frame_queue.empty():
                 frame = frame_queue.get()
-                cv2.imshow("Combined Detection", frame)
+                cv2.imshow("Guard-AI", frame)
                 if cv2.waitKey(1) & 0xFF == ord('q'):
                     break
             time.sleep(0.01)
     except KeyboardInterrupt:
-        print("Exiting Guard-AI.")
+        print("\nExiting Guard-AI...")
     finally:
+        print("\nSaving Final Report...")
+        create_pdf_report(session_report_path, final_pdf_report_path)
         cv2.destroyAllWindows()

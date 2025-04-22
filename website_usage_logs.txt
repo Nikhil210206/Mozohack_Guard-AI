@@ -1,0 +1,62 @@
+[2025-04-22 05:21:23] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:21:23] Safari is open.
+[2025-04-22 05:21:23] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:21:28] Safari is open.
+[2025-04-22 05:21:28] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:21:33] Safari is open.
+[2025-04-22 05:21:33] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:21:38] Safari is open.
+[2025-04-22 05:21:38] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:21:43] Safari is open.
+[2025-04-22 05:21:43] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:23:36] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:23:36] Safari is open.
+[2025-04-22 05:23:37] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:23:42] Safari is open.
+[2025-04-22 05:23:42] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:27:15] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:27:15] Safari is open.
+[2025-04-22 05:27:15] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:27:20] Safari is open.
+[2025-04-22 05:27:20] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:27:25] Safari is open.
+[2025-04-22 05:27:26] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:33:05] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:33:05] New Tab Opened: Event Duration Logging at 05:33:05
+[2025-04-22 05:33:05] New Tab Opened: Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI at 05:33:05
+[2025-04-22 05:35:40] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:35:40] Website Opened: Event Duration Logging at 05:35:40
+[2025-04-22 05:35:40] Website Opened: Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI at 05:35:40
+[2025-04-22 05:35:59] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:35:59] Website Opened: Event Duration Logging at 05:35:59
+[2025-04-22 05:35:59] Website Opened: Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI at 05:35:59
+[2025-04-22 05:38:53] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:38:53] Safari is open.
+[2025-04-22 05:38:53] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:38:58] Safari is open.
+[2025-04-22 05:38:59] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:39:04] Safari is open.
+[2025-04-22 05:39:04] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:39:09] Safari is open.
+[2025-04-22 05:39:09] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:41:28] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:41:28] Safari is open.
+[2025-04-22 05:41:28] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:41:33] Safari is open.
+[2025-04-22 05:41:33] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:41:38] Safari is open.
+[2025-04-22 05:41:38] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:48:17] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:48:18] Safari is open.
+[2025-04-22 05:48:18] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:48:23] Safari is open.
+[2025-04-22 05:48:23] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:48:28] Safari is open.
+[2025-04-22 05:48:28] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:54:35] 🚨 Guard AI Monitoring Started!
+[2025-04-22 05:54:35] Safari is open.
+[2025-04-22 05:54:35] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:54:40] Safari is open.
+[2025-04-22 05:54:40] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
+[2025-04-22 05:54:45] Safari is open.
+[2025-04-22 05:54:45] Open tabs in Safari: ['Mozohack_Guard-AI/main.py at main · Nikhil210206/Mozohack_Guard-AI', 'Event Duration Logging']
