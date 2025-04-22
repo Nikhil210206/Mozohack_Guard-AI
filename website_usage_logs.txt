@@ -1,0 +1,48 @@
+[2025-04-22 08:08:17] 🚨 Guard AI Monitoring Started!
+[2025-04-22 08:08:17] Safari is open.
+[2025-04-22 08:08:17] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:08:22] Safari is open.
+[2025-04-22 08:08:22] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:08:27] Safari is open.
+[2025-04-22 08:08:27] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:08:32] Safari is open.
+[2025-04-22 08:08:33] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:08:38] Safari is open.
+[2025-04-22 08:08:38] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:10:41] 🚨 Guard AI Monitoring Started!
+[2025-04-22 08:10:41] Safari is open.
+[2025-04-22 08:10:41] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:10:46] Safari is open.
+[2025-04-22 08:10:47] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:10:52] Safari is open.
+[2025-04-22 08:10:52] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:10:57] Safari is open.
+[2025-04-22 08:10:57] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:11:02] Safari is open.
+[2025-04-22 08:11:02] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:11:07] Safari is open.
+[2025-04-22 08:11:07] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:11:12] Safari is open.
+[2025-04-22 08:11:12] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:11:17] Safari is open.
+[2025-04-22 08:11:18] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home', 'Guard AI | Home']
+[2025-04-22 08:18:38] 🚨 Guard AI Monitoring Started!
+[2025-04-22 08:18:38] Safari is open.
+[2025-04-22 08:18:38] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:18:43] Safari is open.
+[2025-04-22 08:18:43] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:18:48] Safari is open.
+[2025-04-22 08:18:49] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:18:54] Safari is open.
+[2025-04-22 08:18:54] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:18:59] Safari is open.
+[2025-04-22 08:18:59] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:23:44] 🚨 Guard AI Monitoring Started!
+[2025-04-22 08:23:44] Safari is open.
+[2025-04-22 08:23:45] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:23:50] Safari is open.
+[2025-04-22 08:23:50] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:23:55] Safari is open.
+[2025-04-22 08:23:55] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']
+[2025-04-22 08:24:00] Safari is open.
+[2025-04-22 08:24:00] Open tabs in Safari: ['Nikhil210206/Mozohack_Guard-AI', 'Project Help Request', 'Guard AI | Home']

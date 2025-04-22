@@ -3,43 +3,32 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Guard AI | Home</title>
+  <title>Guard AI | Remote Proctoring System</title>
   <link rel="stylesheet" href="style.css">
 
-  <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Rajdhani:wght@400;700&display=swap" rel="stylesheet">
 
-  <!-- AOS Animate On Scroll CSS -->
   <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet" />
 </head>
 <body>
   <div id="page-transition">
-    <!-- Background Grid -->
-    <div class="background-grid full-page-grid"></div>
-
-    <!-- Particle Canvas -->
-    <canvas id="dust-canvas"></canvas>
-
-    <!-- Navigation Bar -->
+    <section class="hero-section">
+      <div class="hero-content">
+        <h1>Guard AI</h1>
+        <p>Your AI-Powered Remote Proctoring Solution</p>
+        <div class="button-container">
+          <button id="start-guard-ai" class="start-button">Start Guard AI</button>
+          <button id="stop-guard-ai" class="stop-button">Stop Guard AI</button>
+          <button id="download-report" class="download-button" disabled>Download Report</button>
+        </div>
+      </div>
+    </section>
     <nav>
       <ul>
         <li><a href="index.html">Home</a></li>
         <li><a href="feature.html">Features</a></li>
       </ul>
     </nav>
-
-    <!-- Intro Section -->
-    <section class="intro-section">
-      <header>
-        <h1>Guard - AI</h1>
-        <p>Ai Based Remote Proctoring System</p>
-        <div class="start-button-container">
-          <a href="feature.html" class="start-button">Start Guard AI</a>
-        </div>
-      </header>
-    </section>
-
-    <!-- Info Sections -->
     <section class="info-section">
       <div class="info-card" data-aos="fade-up" data-aos-duration="1000">
         <h2>🚨 Problem with Unmonitored Exams</h2>
@@ -51,7 +40,6 @@
             <li>No way to detect impersonation or suspicious behavior</li>
             <li>Loss of trust in online certifications by employers and universities</li>
           </ul>
-          The lack of robust monitoring tools compromises academic integrity on a massive scale.
         </p>
       </div>
 
@@ -66,7 +54,6 @@
             <li>Check device ports (like USBs) to catch unauthorized hardware</li>
             <li>Generate timestamped reports with flagged anomalies</li>
           </ul>
-          All while respecting user privacy and being lightweight enough to deploy anywhere.
         </p>
       </div>
 
@@ -85,109 +72,56 @@
       </div>
     </section>
 
-    <!-- Footer -->
+  
     <footer>
       <p>©️ 2025 Guard AI | Made with ❤️ by Team XCoders</p>
     </footer>
   </div>
 
-  <!-- AOS Animate On Scroll JS -->
   <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
   <script>
     AOS.init();
   </script>
-
-  <!-- Particle Dust Animation -->
   <script>
-    const canvas = document.getElementById('dust-canvas');
-    const ctx = canvas.getContext('2d');
-    canvas.width = window.innerWidth;
-    canvas.height = window.innerHeight;
+    const downloadButton = document.getElementById("download-report");
 
-    let particles = [];
-    const colors = ['#ff5cb3', '#fdf5c9'];
-
-    class Particle {
-      constructor() {
-        this.reset();
-      }
-
-      reset() {
-        this.x = Math.random() * canvas.width;
-        this.y = canvas.height + Math.random() * 100;
-        this.size = Math.random() * 3 + 1;
-        this.speed = Math.random() * 1 + 0.5;
-        this.color = colors[Math.floor(Math.random() * colors.length)];
-        this.opacity = Math.random() * 0.7 + 0.3;
-      }
-
-      update() {
-        this.y -= this.speed;
-        if (this.y < -this.size) this.reset();
-      }
-
-      draw() {
-        ctx.beginPath();
-        ctx.arc(this.x, this.y, this.size, 0, Math.PI * 2);
-        ctx.fillStyle = this.color;
-        ctx.globalAlpha = this.opacity;
-        ctx.fill();
-        ctx.globalAlpha = 1;
-      }
-    }
-
-    for (let i = 0; i < 100; i++) {
-      particles.push(new Particle());
-    }
-
-    function animateParticles() {
-      ctx.clearRect(0, 0, canvas.width, canvas.height);
-      for (let p of particles) {
-        p.update();
-        p.draw();
-      }
-      requestAnimationFrame(animateParticles);
-    }
-
-    animateParticles();
-
-    // Fade canvas out when content starts
-    const firstCard = document.querySelector('.info-card');
-    const observer = new IntersectionObserver(
-      (entries) => {
-        entries.forEach(entry => {
-          if (entry.isIntersecting) {
-            canvas.style.transition = 'opacity 1s ease';
-            canvas.style.opacity = '0';
+    document.getElementById("start-guard-ai").addEventListener("click", () => {
+      fetch("/start-guard-ai", {
+        method: "POST",
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          if (data.status === "success") {
+            alert("Guard AI started successfully!");
           } else {
-            canvas.style.transition = 'opacity 1s ease';
-            canvas.style.opacity = '1';
+            alert("Error: " + data.message);
           }
+        })
+        .catch((error) => {
+          alert("An error occurred: " + error.message);
         });
-      },
-      { threshold: 0.2 }
-    );
-    if (firstCard) observer.observe(firstCard);
-
-    // Page transitions
-    const page = document.getElementById('page-transition');
-    window.addEventListener('DOMContentLoaded', () => {
-      page.classList.add('loaded');
     });
 
-    document.querySelectorAll('a').forEach(link => {
-      if (link.getAttribute('target') === '_blank' || link.href.startsWith('#')) return;
-      link.addEventListener('click', function(e) {
-        e.preventDefault();
-        const href = this.getAttribute('href');
-        page.classList.remove('loaded');
-        setTimeout(() => window.location.href = href, 500);
-      });
+    document.getElementById("stop-guard-ai").addEventListener("click", () => {
+      fetch("/stop-guard-ai", {
+        method: "POST",
+      })
+        .then((response) => response.json())
+        .then((data) => {
+          if (data.status === "success") {
+            alert("Guard AI stopped successfully!");
+            downloadButton.disabled = false; 
+          } else {
+            alert("Error: " + data.message);
+          }
+        })
+        .catch((error) => {
+          alert("An error occurred: " + error.message);
+        });
     });
 
-    window.addEventListener('resize', () => {
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
+    document.getElementById("download-report").addEventListener("click", () => {
+      window.location.href = "/download-report";
     });
   </script>
 </body>
