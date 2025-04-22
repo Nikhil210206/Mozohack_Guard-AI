@@ -87,7 +87,9 @@ guard_ai_project/
   <h1><strong>📅 How to Use :-</strong></h1>
 </p>
 1. Run the application: python main.py
+
 2. After finishing, you can generate an intermediate report.
+  
 3. At the end, generate a final comprehensive PDF report.
 
 <p align="center">
