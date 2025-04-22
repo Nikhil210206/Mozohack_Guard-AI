@@ -477,3 +477,348 @@ Looking Away | 08:23:57 | 08:23:57
 Looking Away | 08:23:59 | 08:23:59
 Website Activity | 08:24:00 | Tabs: Nikhil210206/Mozohack_Guard-AI, Project Help Request, Guard AI | Home
 Looking Away | 08:24:01 | 08:24:01
+Website Activity | 09:43:50 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:43:51 | 09:43:52
+Speaking | 09:43:52 | 09:43:52
+Speaking | 09:43:52 | 09:43:52
+Looking Away | 09:43:52 | 09:43:52
+Looking Away | 09:43:52 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:53
+Looking Away | 09:43:53 | 09:43:54
+Speaking | 09:43:54 | 09:43:54
+Speaking | 09:43:54 | 09:43:54
+Looking Away | 09:43:54 | 09:43:55
+Looking Away | 09:43:55 | 09:43:55
+Speaking | 09:43:55 | 09:43:55
+Speaking | 09:43:55 | 09:43:55
+Website Activity | 09:43:55 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:43:55 | 09:43:56
+Looking Away | 09:43:56 | 09:43:56
+Looking Away | 09:43:56 | 09:43:56
+Speaking | 09:43:57 | 09:43:57
+Looking Away | 09:43:57 | 09:43:57
+Speaking | 09:43:57 | 09:43:57
+Speaking | 09:43:57 | 09:43:57
+Speaking | 09:43:57 | 09:43:57
+Looking Away | 09:43:57 | 09:43:57
+Looking Away | 09:43:57 | 09:43:58
+Looking Away | 09:43:58 | 09:43:59
+Looking Away | 09:43:59 | 09:43:59
+Speaking | 09:43:59 | 09:43:59
+Looking Away | 09:43:59 | 09:43:59
+Speaking | 09:43:59 | 09:43:59
+Looking Away | 09:43:59 | 09:43:59
+Looking Away | 09:44:00 | 09:44:00
+Website Activity | 09:44:01 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Speaking | 09:44:01 | 09:44:01
+Speaking | 09:44:01 | 09:44:01
+Speaking | 09:44:01 | 09:44:01
+Looking Away | 09:44:02 | 09:44:02
+Looking Away | 09:44:02 | 09:44:02
+Speaking | 09:44:02 | 09:44:02
+Looking Away | 09:44:02 | 09:44:02
+Looking Away | 09:44:02 | 09:44:02
+Speaking | 09:44:02 | 09:44:02
+Speaking | 09:44:02 | 09:44:02
+Speaking | 09:44:02 | 09:44:02
+Looking Away | 09:44:02 | 09:44:02
+Speaking | 09:44:02 | 09:44:02
+Looking Away | 09:44:03 | 09:44:03
+Speaking | 09:44:03 | 09:44:03
+Looking Away | 09:44:03 | 09:44:03
+Looking Away | 09:44:03 | 09:44:03
+Speaking | 09:44:03 | 09:44:03
+Looking Away | 09:44:04 | 09:44:04
+Speaking | 09:44:04 | 09:44:04
+Looking Away | 09:44:04 | 09:44:04
+Speaking | 09:44:04 | 09:44:04
+Looking Away | 09:44:04 | 09:44:05
+Speaking | 09:44:05 | 09:44:05
+Speaking | 09:44:05 | 09:44:05
+Looking Away | 09:44:05 | 09:44:05
+Looking Away | 09:44:05 | 09:44:05
+Looking Away | 09:44:05 | 09:44:06
+Website Activity | 09:44:06 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Speaking | 09:44:06 | 09:44:06
+Speaking | 09:44:06 | 09:44:06
+Looking Away | 09:44:06 | 09:44:06
+Looking Away | 09:44:06 | 09:44:07
+Looking Away | 09:44:07 | 09:44:07
+Looking Away | 09:44:07 | 09:44:07
+Looking Away | 09:44:07 | 09:44:07
+Looking Away | 09:44:07 | 09:44:08
+Looking Away | 09:44:08 | 09:44:08
+Speaking | 09:44:08 | 09:44:08
+Looking Away | 09:44:08 | 09:44:08
+Speaking | 09:44:08 | 09:44:08
+Looking Away | 09:44:08 | 09:44:08
+Looking Away | 09:44:08 | 09:44:08
+Looking Away | 09:44:08 | 09:44:09
+Speaking | 09:44:09 | 09:44:09
+Speaking | 09:44:09 | 09:44:09
+Looking Away | 09:44:09 | 09:44:09
+Speaking | 09:44:09 | 09:44:09
+Speaking | 09:44:09 | 09:44:09
+Speaking | 09:44:09 | 09:44:09
+Looking Away | 09:44:09 | 09:44:09
+Looking Away | 09:44:09 | 09:44:09
+Looking Away | 09:44:09 | 09:44:09
+Looking Away | 09:44:10 | 09:44:10
+Speaking | 09:44:10 | 09:44:10
+Looking Away | 09:44:10 | 09:44:10
+Looking Away | 09:44:10 | 09:44:10
+Looking Away | 09:44:10 | 09:44:10
+Looking Away | 09:44:10 | 09:44:11
+Website Activity | 09:44:11 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:44:11 | 09:44:11
+Speaking | 09:44:12 | 09:44:12
+Looking Away | 09:44:11 | 09:44:13
+Looking Away | 09:44:13 | 09:44:13
+Speaking | 09:44:13 | 09:44:13
+Speaking | 09:44:13 | 09:44:13
+Looking Away | 09:44:13 | 09:44:13
+Looking Away | 09:44:13 | 09:44:14
+Speaking | 09:44:14 | 09:44:14
+Speaking | 09:44:14 | 09:44:14
+Looking Away | 09:44:14 | 09:44:14
+Website Activity | 09:44:16 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:44:16 | 09:44:16
+Looking Away | 09:44:17 | 09:44:17
+Looking Away | 09:44:17 | 09:44:17
+Speaking | 09:44:17 | 09:44:17
+Looking Away | 09:44:17 | 09:44:17
+Speaking | 09:44:17 | 09:44:17
+Speaking | 09:44:17 | 09:44:17
+Looking Away | 09:44:17 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Looking Away | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Looking Away | 09:44:18 | 09:44:18
+Looking Away | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:18
+Looking Away | 09:44:18 | 09:44:18
+Speaking | 09:44:18 | 09:44:19
+Looking Away | 09:44:19 | 09:44:19
+Speaking | 09:44:19 | 09:44:19
+Speaking | 09:44:19 | 09:44:19
+Looking Away | 09:44:19 | 09:44:19
+Speaking | 09:44:20 | 09:44:20
+Looking Away | 09:44:20 | 09:44:20
+Website Activity | 09:44:21 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:44:21 | 09:44:21
+Looking Away | 09:44:22 | 09:44:22
+Looking Away | 09:44:22 | 09:44:22
+Looking Away | 09:44:22 | 09:44:22
+Looking Away | 09:44:22 | 09:44:22
+Looking Away | 09:44:23 | 09:44:23
+Looking Away | 09:44:23 | 09:44:23
+Looking Away | 09:44:24 | 09:44:24
+Looking Away | 09:44:24 | 09:44:24
+Looking Away | 09:44:24 | 09:44:24
+Looking Away | 09:44:24 | 09:44:24
+Looking Away | 09:44:25 | 09:44:25
+Looking Away | 09:44:25 | 09:44:25
+Looking Away | 09:44:25 | 09:44:25
+Website Activity | 09:44:26 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System
+Looking Away | 09:44:26 | 09:44:26
+Speaking | 09:44:26 | 09:44:26
+Looking Away | 09:44:26 | 09:44:26
+Looking Away | 09:44:26 | 09:44:27
+Speaking | 09:44:27 | 09:44:27
+Looking Away | 09:44:27 | 09:44:27
+Looking Away | 09:44:27 | 09:44:27
+Website Activity | 09:47:51 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System, YouTube
+Looking Away | 09:47:52 | 09:47:52
+Speaking | 09:47:52 | 09:47:52
+Speaking | 09:47:52 | 09:47:52
+Speaking | 09:47:53 | 09:47:53
+Looking Away | 09:47:53 | 09:47:53
+Looking Away | 09:47:53 | 09:47:53
+Speaking | 09:47:53 | 09:47:53
+Speaking | 09:47:53 | 09:47:53
+Looking Away | 09:47:53 | 09:47:54
+Looking Away | 09:47:54 | 09:47:54
+Looking Away | 09:47:54 | 09:47:54
+Looking Away | 09:47:54 | 09:47:55
+Speaking | 09:47:55 | 09:47:55
+Website Activity | 09:47:56 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, Guard AI | Remote Proctoring System, YouTube
+Website Activity | 09:49:22 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 09:49:23 | 09:49:23
+Speaking | 09:49:23 | 09:49:23
+Looking Away | 09:49:24 | 09:49:24
+Looking Away | 09:49:25 | 09:49:26
+Looking Away | 09:49:26 | 09:49:26
+Looking Away | 09:49:26 | 09:49:26
+Looking Away | 09:49:26 | 09:49:26
+Looking Away | 09:49:26 | 09:49:26
+Looking Away | 09:49:27 | 09:49:27
+Website Activity | 09:49:27 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 09:49:27 | 09:49:27
+Looking Away | 09:49:27 | 09:49:27
+Looking Away | 09:49:28 | 09:49:28
+Looking Away | 09:49:29 | 09:49:30
+Looking Away | 09:49:30 | 09:49:30
+Website Activity | 09:49:32 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., GitHub Repository Issue Help, YouTube, Guard AI | Remote Proctoring System
+Speaking | 09:49:33 | 09:49:33
+Looking Away | 2025-04-22 09:55:31.368472 | 2025-04-22 09:55:31.400698
+Looking Away | 2025-04-22 09:55:31.704481 | 2025-04-22 09:55:31.839415
+Looking Away | 2025-04-22 09:55:31.863795 | 2025-04-22 09:55:31.901335
+Looking Away | 2025-04-22 09:55:31.934856 | 2025-04-22 09:55:32.001808
+Looking Away | 2025-04-22 09:55:32.335420 | 2025-04-22 09:55:32.368481
+Looking Away | 2025-04-22 09:55:32.473941 | 2025-04-22 09:55:32.568335
+Looking Away | 2025-04-22 09:55:32.705574 | 2025-04-22 09:55:33.264434
+Looking Away | 2025-04-22 09:55:33.301098 | 2025-04-22 09:55:33.336963
+Looking Away | 2025-04-22 09:55:33.367489 | 2025-04-22 09:55:33.402503
+Looking Away | 2025-04-22 09:55:33.441288 | 2025-04-22 09:55:33.928617
+Looking Away | 2025-04-22 09:55:34.802504 | 2025-04-22 09:55:34.903874
+Looking Away | 2025-04-22 09:55:35.168602 | 2025-04-22 09:55:35.240398
+Looking Away | 2025-04-22 09:55:35.329624 | 2025-04-22 09:55:35.370799
+Looking Away | 2025-04-22 09:55:35.404426 | 2025-04-22 09:55:35.709065
+Looking Away | 2025-04-22 09:55:35.773468 | 2025-04-22 09:55:35.934615
+Looking Away | 2025-04-22 09:55:36.135696 | 2025-04-22 09:55:36.304701
+Looking Away | 2025-04-22 09:55:36.401312 | 2025-04-22 09:55:36.502920
+Looking Away | 2025-04-22 09:55:37.970878 | 2025-04-22 09:55:38.005982
+Looking Away | 2025-04-22 09:55:38.207555 | 2025-04-22 09:55:38.308360
+Looking Away | 2025-04-22 09:55:38.645234 | 2025-04-22 09:55:38.735956
+Looking Away | 2025-04-22 09:55:38.909000 | 2025-04-22 09:55:38.970832
+Looking Away | 2025-04-22 09:55:39.107569 | 2025-04-22 09:55:39.306910
+Looking Away | 2025-04-22 09:55:39.472199 | 2025-04-22 09:55:39.564825
+Looking Away | 2025-04-22 09:55:39.876048 | 2025-04-22 09:55:40.104805
+Looking Away | 2025-04-22 09:55:40.270292 | 2025-04-22 09:55:40.307336
+Looking Away | 2025-04-22 09:55:40.603397 | 2025-04-22 09:55:40.647060
+Looking Away | 2025-04-22 09:55:40.709357 | 2025-04-22 09:55:40.966606
+Looking Away | 2025-04-22 09:55:41.004087 | 2025-04-22 09:55:41.435602
+Looking Away | 2025-04-22 09:55:41.875603 | 2025-04-22 09:55:42.308520
+Looking Away | 2025-04-22 09:55:42.804276 | 2025-04-22 09:55:42.873158
+Looking Away | 2025-04-22 09:55:42.905240 | 2025-04-22 09:55:42.974571
+Looking Away | 2025-04-22 09:55:43.043037 | 2025-04-22 09:55:43.071026
+Looking Away | 2025-04-22 09:55:43.142989 | 2025-04-22 09:55:43.845564
+Looking Away | 2025-04-22 09:55:43.978761 | 2025-04-22 09:55:44.037929
+Looking Away | 2025-04-22 09:55:44.342104 | 2025-04-22 09:55:44.379267
+Looking Away | 2025-04-22 09:55:44.404826 | 2025-04-22 09:55:44.450215
+Looking Away | 2025-04-22 09:55:44.539225 | 2025-04-22 09:55:44.574806
+Looking Away | 2025-04-22 09:55:46.445547 | 2025-04-22 09:55:46.470688
+Looking Away | 2025-04-22 09:55:46.570399 | 2025-04-22 09:55:46.677462
+Looking Away | 2025-04-22 09:55:46.709597 | 2025-04-22 09:55:47.477161
+Looking Away | 2025-04-22 09:55:47.577303 | 2025-04-22 09:55:47.614091
+Looking Away | 2025-04-22 09:55:47.676340 | 2025-04-22 09:55:47.710940
+Looking Away | 2025-04-22 09:55:47.774778 | 2025-04-22 09:55:47.849012
+Looking Away | 2025-04-22 09:55:49.479125 | 2025-04-22 09:55:49.505539
+Looking Away | 2025-04-22 09:55:50.136877 | 2025-04-22 09:55:50.181090
+Website Activity | 10:00:42 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 10:00:44 | 10:00:44
+Speaking | 10:00:44 | 10:00:44
+Speaking | 10:00:45 | 10:00:45
+Looking Away | 10:00:45 | 10:00:45
+Looking Away | 10:00:45 | 10:00:45
+Speaking | 10:00:46 | 10:00:46
+Speaking | 10:00:46 | 10:00:47
+Speaking | 10:00:47 | 10:00:47
+Looking Away | 10:00:47 | 10:00:47
+Looking Away | 10:00:47 | 10:00:47
+Looking Away | 10:00:47 | 10:00:47
+Website Activity | 10:00:48 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Speaking | 10:00:48 | 10:00:48
+Speaking | 10:00:49 | 10:00:49
+Speaking | 10:00:49 | 10:00:49
+Speaking | 10:00:50 | 10:00:50
+Speaking | 10:00:50 | 10:00:50
+Looking Away | 10:00:50 | 10:00:50
+Speaking | 10:00:50 | 10:00:50
+Speaking | 10:00:51 | 10:00:51
+Speaking | 10:00:51 | 10:00:51
+Speaking | 10:00:51 | 10:00:51
+Website Activity | 10:00:53 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Speaking | 10:00:56 | 10:00:56
+Speaking | 10:00:56 | 10:00:56
+Speaking | 10:00:58 | 10:00:58
+Website Activity | 10:00:58 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Speaking | 10:00:58 | 10:00:58
+Looking Away | 10:00:58 | 10:00:58
+Speaking | 10:00:58 | 10:00:58
+Looking Away | 10:00:58 | 10:00:58
+Speaking | 10:00:58 | 10:00:58
+Speaking | 10:00:58 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Looking Away | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Looking Away | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:00:59
+Speaking | 10:00:59 | 10:01:00
+Speaking | 10:01:00 | 10:01:00
+Speaking | 10:01:00 | 10:01:00
+Speaking | 10:01:00 | 10:01:00
+Speaking | 10:01:00 | 10:01:00
+Looking Away | 10:01:00 | 10:01:00
+Speaking | 10:01:00 | 10:01:00
+Looking Away | 10:01:01 | 10:01:02
+Looking Away | 10:01:02 | 10:01:03
+Website Activity | 10:01:03 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Speaking | 10:01:03 | 10:01:03
+Speaking | 10:01:03 | 10:01:03
+Speaking | 10:01:03 | 10:01:04
+Speaking | 10:01:04 | 10:01:04
+Looking Away | 10:01:04 | 10:01:04
+Looking Away | 10:01:04 | 10:01:04
+Speaking | 10:01:04 | 10:01:04
+Speaking | 10:01:04 | 10:01:04
+Looking Away | 10:01:04 | 10:01:04
+Looking Away | 10:01:05 | 10:01:05
+Looking Away | 10:01:06 | 10:01:06
+Looking Away | 10:01:06 | 10:01:06
+Looking Away | 10:01:06 | 10:01:06
+Looking Away | 10:01:07 | 10:01:07
+Looking Away | 10:01:07 | 10:01:07
+Looking Away | 10:01:07 | 10:01:07
+Looking Away | 10:01:07 | 10:01:07
+Looking Away | 10:01:07 | 10:01:07
+Looking Away | 10:01:07 | 10:01:08
+Speaking | 10:01:08 | 10:01:08
+Website Activity | 10:01:08 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 10:01:08 | 10:01:08
+Speaking | 10:01:09 | 10:01:09
+Looking Away | 10:01:09 | 10:01:09
+Website Activity | 10:07:11 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 10:07:12 | 10:07:13
+Speaking | 10:07:13 | 10:07:13
+Looking Away | 10:07:13 | 10:07:13
+Looking Away | 10:07:13 | 10:07:13
+Looking Away | 10:07:13 | 10:07:13
+Speaking | 10:07:13 | 10:07:13
+Speaking | 10:07:13 | 10:07:13
+Looking Away | 10:07:13 | 10:07:14
+Speaking | 10:07:15 | 10:07:15
+Looking Away | 10:07:14 | 10:07:15
+Speaking | 10:07:15 | 10:07:15
+Speaking | 10:07:16 | 10:07:16
+Looking Away | 10:07:15 | 10:07:16
+Looking Away | 10:07:16 | 10:07:16
+Website Activity | 10:07:16 | Tabs: Nikhil210206/Mozohack_Guard-AI: Guard AI is a real-time AI-based remote proctoring system that ensures secure, fair online assessments. It tracks website activity, detects speaking, and monitors user focus during exams, generating detailed session reports. Built with a modern frontend and a Node.js backend, Guard AI aims to redefine trust in online evaluations., Event Duration Logging, YouTube, Guard AI | Remote Proctoring System
+Looking Away | 10:07:16 | 10:07:16
+Looking Away | 10:07:17 | 10:07:17
+Looking Away | 10:07:17 | 10:07:17
+Speaking | 10:07:17 | 10:07:17
+Looking Away | 10:07:17 | 10:07:17
+Looking Away | 10:07:17 | 10:07:17
+Looking Away | 10:07:18 | 10:07:18
+Looking Away | 10:07:18 | 10:07:18
+Looking Away | 10:07:19 | 10:07:19
+Looking Away | 10:07:19 | 10:07:19
+Looking Away | 10:07:19 | 10:07:19
+Looking Away | 10:07:19 | 10:07:19
+Looking Away | 10:07:20 | 10:07:20
+Looking Away | 10:07:20 | 10:07:20

@@ -20,7 +20,6 @@ logging.basicConfig(filename="logs/guard_ai_logs.txt", level=logging.INFO, forma
 # Paths
 log_file_path = "website_usage_logs.txt"
 session_report_path = "logs/session_report.txt"
-final_pdf_report_path = "logs/final_report.pdf"
 
 # Lip Detection Constants
 UPPER_LIP = [13, 14]
@@ -42,8 +41,6 @@ LOOK_AWAY_DURATION = 5
 audio_detected = False
 background_noise_detected = False
 frame_queue = queue.Queue()
-event_log = []
-logged_tabs = set()
 
 # Helper Functions
 def log_event(message):
@@ -51,9 +48,9 @@ def log_event(message):
     with open(log_file_path, "a") as f:
         f.write(f"[{timestamp}] {message}\n")
 
-def log_session_event(event_type, start_time, end_time):
+def log_session_event(event_type, start_time, details):
     with open(session_report_path, "a") as f:
-        f.write(f"{event_type} | {start_time} | {end_time}\n")
+        f.write(f"{event_type} | {start_time} | {details}\n")
 
 def is_safari_open():
     for proc in psutil.process_iter(['pid', 'name']):
@@ -106,17 +103,10 @@ def create_pdf_report(txt_path, pdf_path):
                     continue
 
                 if line.startswith("Website Activity"):
-                    if "Tabs:" in line:
-                        tabs_part = line.split("Tabs:")[-1].strip()
-                        tabs = [t.strip() for t in tabs_part.split(",")]
-                        time_str = line.split("|")[1].strip()
-                        for tab in tabs:
-                            if tab not in logged_tabs:
-                                logged_tabs.add(tab)
-                                website_events.append(f"New Tab Opened: {tab} at {time_str}")
-                elif line.startswith("Speaking") and len(speaking_events) < 5:
+                    website_events.append(line.replace("|", "-"))
+                elif line.startswith("Speaking"):
                     speaking_events.append(line.replace("|", "-"))
-                elif line.startswith("Looking Away") and len(looking_events) < 5:
+                elif line.startswith("Looking Away"):
                     looking_events.append(line.replace("|", "-"))
 
         # Section: Website Tracking
@@ -129,7 +119,7 @@ def create_pdf_report(txt_path, pdf_path):
                 for w in wrapped:
                     pdf.cell(0, 10, txt=w, ln=True)
         else:
-            pdf.cell(0, 10, "No new/reopened tabs detected.", ln=True)
+            pdf.cell(0, 10, "No website activity detected.", ln=True)
 
         # Section: Speaking
         pdf.ln(5)
@@ -310,5 +300,9 @@ if __name__ == "__main__":
         print("\nExiting Guard-AI...")
     finally:
         print("\nSaving Final Report...")
-        create_pdf_report(session_report_path, final_pdf_report_path)
+        # Generate a unique filename with a timestamp
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        session_pdf_path = f"logs/final_report_{timestamp}.pdf"
+        create_pdf_report(session_report_path, session_pdf_path)
+        print(f"Report saved as: {session_pdf_path}")
         cv2.destroyAllWindows()
