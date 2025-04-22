@@ -1,5 +1,9 @@
 **Guard AI Project**
 
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/af00313d-d908-4364-9fd8-d66df4320906" />
+
+
+
 Welcome to the Guard AI project! 🚨
 
 Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-time proctoring by detecting suspicious activities during online exams such as unauthorized speaking, gaze deviation, and usage of restricted websites.
@@ -40,6 +44,7 @@ Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-ti
 >> Generates a clean PDF report after each test session.
 
 📚 **Project Structure** :-
+
 guard_ai_project/
 │
 ├── features/
