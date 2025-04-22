@@ -1,4 +1,4 @@
-  <p align="center"># **Guard AI Project**</p>
+  <p align="center"><h1><strong>Guard AI</p>
 <img width="921" alt="image" src="https://github.com/user-attachments/assets/af00313d-d908-4364-9fd8-d66df4320906" />
 
 
