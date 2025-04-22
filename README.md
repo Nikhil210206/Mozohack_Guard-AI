@@ -5,23 +5,39 @@ Welcome to the Guard AI project! 🚨
 Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-time proctoring by detecting suspicious activities during online exams such as unauthorized speaking, gaze deviation, and usage of restricted websites.
 
 🔍 Features:
-Lip Movement Detection + Audio Analysis
-Detects if the user is speaking during the exam.
-Differentiates between yawning and speaking.
-![image](https://github.com/user-attachments/assets/b152fc2d-7bfa-41e5-86d5-8a33e1433e0d)
+
+>> Lip Movement Detection + Audio Analysis
+>> Detects if the user is speaking during the exam.
+>> Differentiates between yawning and speaking.
 
 
-Gaze Tracking:
-Tracks user's eye and head movement.
-Detects if the user looks away from the screen.
+![Screenshot 2025-04-22 080606](https://github.com/user-attachments/assets/593bdd54-aefe-4661-9372-23dd122bc329)
 
-Website Monitoring:
-Detects if the user opens any non-permitted websites.
 
-Comprehensive Report Generation:
-Summarizes user behavior during the exam.
-Includes start and end times of suspicious activities.
-Generates a clean PDF report after each test session.
+
+👀 Gaze Tracking:
+
+>> Tracks user's eye and head movement.
+>> Detects if the user looks away from the screen.
+
+![Screenshot 2025-04-22 080633](https://github.com/user-attachments/assets/02e1a10c-1b59-42de-b5d4-9909a570e5ee)
+
+
+
+🖥️ Website Monitoring:
+
+>> Detects if the user opens any non-permitted websites.
+>> A warning signal is provided if done so.
+
+![image](https://github.com/user-attachments/assets/9483937b-ed4f-49f1-bffe-576b46809111)
+
+
+
+📂 Comprehensive Report Generation:
+
+>> Summarizes user behavior during the exam.
+>> Includes start and end times of suspicious activities.
+>> Generates a clean PDF report after each test session.
 
 📚 Project Structure:
 guard_ai_project/
