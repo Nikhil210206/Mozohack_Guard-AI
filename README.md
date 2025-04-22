@@ -1,10 +1,10 @@
-Guard AI Project
+**Guard AI Project**
 
 Welcome to the Guard AI project! 🚨
 
 Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-time proctoring by detecting suspicious activities during online exams such as unauthorized speaking, gaze deviation, and usage of restricted websites.
 
-🔍 Features:
+🔍 **Features** :-
 
 >> Lip Movement Detection + Audio Analysis
 >> Detects if the user is speaking during the exam.
@@ -15,7 +15,7 @@ Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-ti
 
 
 
-👀 Gaze Tracking:
+👀 **Gaze Tracking** :-
 
 >> Tracks user's eye and head movement.
 >> Detects if the user looks away from the screen.
@@ -24,7 +24,7 @@ Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-ti
 
 
 
-🖥️ Website Monitoring:
+🖥️ **Website Monitoring** :-
 
 >> Detects if the user opens any non-permitted websites.
 >> A warning signal is provided if done so.
@@ -33,13 +33,13 @@ Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-ti
 
 
 
-📂 Comprehensive Report Generation:
+📂 **Comprehensive Report Generation** :-
 
 >> Summarizes user behavior during the exam.
 >> Includes start and end times of suspicious activities.
 >> Generates a clean PDF report after each test session.
 
-📚 Project Structure:
+📚 **Project Structure** :-
 guard_ai_project/
 │
 ├── features/
@@ -61,16 +61,16 @@ guard_ai_project/
 ├── README.md
 ├── requirements.txt
 
-🔧 Installation:
+🔧 **Installation** :-
 1. Clone the repository: git clone https://github.com/your-username/guard-ai-project.git
 2. Install the required libraries: pip install -r requirements.txt
 
-📅 How to Use:
+📅 **How to Use** :-
 1. Run the application: python main.py
 2. After finishing, you can generate an intermediate report.
 3. At the end, generate a final comprehensive PDF report.
 
-📊 Reports:
+📊 **Reports** :-
 Reports will be generated automatically in the reports/ folder.
 
 The report includes:
@@ -78,10 +78,10 @@ Activities detected.
 Time intervals.
 Observations.
 
-🎉 Credits
+🎉 **Credits** :
 
 Developed by Nikhil Balamurugan and Vishaal Pillay👨‍💻
 
-🌍 License
+🌍 **License** :
 
 This project is licensed under the MIT License.
