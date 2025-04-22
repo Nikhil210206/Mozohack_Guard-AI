@@ -8,6 +8,8 @@ Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-ti
 Lip Movement Detection + Audio Analysis
 Detects if the user is speaking during the exam.
 Differentiates between yawning and speaking.
+![image](https://github.com/user-attachments/assets/b152fc2d-7bfa-41e5-86d5-8a33e1433e0d)
+
 
 Gaze Tracking:
 Tracks user's eye and head movement.
