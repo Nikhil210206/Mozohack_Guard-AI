@@ -2,11 +2,10 @@
   <h1><strong>Guard AI</strong></h1>
 </p>
 
-<img width="921" alt="image" src="https://github.com/user-attachments/assets/af00313d-d908-4364-9fd8-d66df4320906" />
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/af00313d-d908-4364-9fd8-d66df4320906" /><br><br>
 
 
-
-Welcome to the Guard AI project! 🚨
+Welcome to the Guard AI project !! 🚨
 
 Guard AI is a lightweight, AI-powered exam monitoring tool that provides real-time proctoring by detecting suspicious activities during online exams such as unauthorized speaking, gaze deviation, and usage of restricted websites.
 
