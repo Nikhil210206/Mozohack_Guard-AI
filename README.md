@@ -1,6 +1,8 @@
 <p align="center">
-  <h1><strong>Guard AI
-  </p>
+  <h2><strong>Guard AI</strong></h2>
+  Making development easier and faster.
+</p>
+
 <img width="921" alt="image" src="https://github.com/user-attachments/assets/af00313d-d908-4364-9fd8-d66df4320906" />
 
 
