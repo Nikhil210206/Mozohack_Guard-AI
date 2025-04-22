@@ -84,8 +84,8 @@ guard_ai_project/
 2. Install the required libraries: pip install -r requirements.txt
 
 <p align="center">
-  <h1><strong>📂 Comprehensive Report Generation :-</strong></h1>
-</p>📅 **How to Use** :-
+  <h1><strong>📅 How to Use :-</strong></h1>
+</p>
 1. Run the application: python main.py
 2. After finishing, you can generate an intermediate report.
 3. At the end, generate a final comprehensive PDF report.
